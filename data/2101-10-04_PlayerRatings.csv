@@ -1,0 +1,1385 @@
+FName,LName,Pos,Team,League,Age,Ht,Wt,Ins,Jps,Ft,3ps,Hnd,Pas,Orb,Drb,Psd,Prd,Stl,Blk,PF,Qkn,Jmp,Str,Sta,Pot.Ins,Pot.Jps,Pot.Ft,Pot.3ps,Pot.Hnd,Pot.Pas,Pot.Orb,Pot.Drb,Pot.Psd,Pot.Prd,Pot.Stl,Pot.Blk
+
+Zhaire,Smith,PG,Clippers,RBSL,29,77,211,D+,C ,B-,B-,C ,C-,C ,D+,C+,B-,B-,C ,B+,A+,A ,A-,A ,D ,C ,B ,B ,C ,D ,C ,D ,B ,B ,B ,C 
+Mo,Bamba,C,Pelicans,RBSL,30,83,274,D ,A-,C+,B ,C-,F ,A ,A-,A-,C-,C ,A+,A-,C+,C+,C+,A-,D ,B ,B ,B ,D ,D ,A ,B ,A ,C ,C ,A 
+William,Tate,PG,D-Cavs,D-RBSL,28,74,197,C ,C ,C ,B-,C ,F+,F-,F+,F+,C+,D ,D ,B ,A ,C ,C ,A ,C ,C ,C ,B ,C ,F ,F ,F ,F ,C ,D ,D 
+Brice,Williams,C,FA,,32,83,281,D ,D-,C ,F-,D-,D ,D+,D ,D+,F+,D+,D ,C ,F-,C ,B ,B-,D ,D ,C ,F ,D ,D ,D ,D ,D ,F ,D ,D 
+Edward,Fortune,C,D-Pacers,D-RBSL,33,83,287,D ,D ,C ,F-,D+,D-,C ,B-,C+,F+,D ,C+,A ,F-,C-,C ,C+,D ,D ,C ,F ,D ,F ,C ,B ,C ,F ,D ,C 
+Wilfredo,Nichols,PG,Hawks,RBSL,22,77,155,D ,C ,C ,D+,B-,C-,D+,C+,F+,C ,D+,F+,C+,A ,C ,A ,C+,D ,B ,C ,C ,B ,A ,D ,A ,D ,B ,C ,D 
+James,Mathes,PG,FA,,25,75,177,D-,D-,C ,F ,D ,F ,D+,F ,F-,C-,C-,F-,C-,A ,C ,C-,A+,F ,F ,C ,F ,D ,F ,D ,F ,F ,D ,D ,F 
+Mikal,Bridges,SF,Clippers,RBSL,31,79,229,D-,C ,A-,A-,C-,C-,D+,C ,C ,B+,B+,C ,C+,B-,C+,B ,A+,D ,C ,A ,A ,D ,D ,D ,C ,C ,B ,B ,C 
+Erasmo,Twyman,C,FA,,33,83,281,F ,D-,C-,F-,D-,D-,D-,D+,D ,F ,D ,C-,C-,F-,D ,C-,B ,F ,D ,C ,F ,F ,F ,D ,D ,D ,F ,D ,D 
+Marvin,Bagley,PF,Rockets,RBSL,29,83,269,C ,C+,C ,B+,C ,F+,A+,B+,C+,D ,C ,B ,C ,B ,A ,C+,A-,C ,C ,C ,B ,C ,D ,A ,A ,B ,D ,C ,B 
+Markelle,Fultz,PG,D-Cavs,D-RBSL,35,76,216,C ,C+,B-,C+,B ,C+,D-,C-,D ,C ,C ,D+,B+,B+,C ,C+,A ,C ,B ,B ,C ,B ,C ,F ,D ,D ,C ,C ,D 
+Daniel,Martin,C,FA,,33,83,283,C-,D ,B-,F-,F+,F-,F ,D ,D-,F ,F-,D ,F+,F-,C-,B-,D+,D ,D ,B ,F ,F ,F ,F ,D ,F ,F ,F ,D 
+Abe,Harrington,PG,D-Trail Blazers,D-RBSL,22,75,152,F+,D+,C+,C-,D ,D-,F ,F+,F ,C-,F-,F+,C ,B+,D+,C-,C ,D ,B ,B ,B ,D ,D ,F ,D ,F ,B ,F ,D 
+Alvin,King,C,D-Hawks,D-RBSL,32,83,282,F+,D ,C ,F-,D ,F+,D+,C ,C+,D ,D ,C+,C-,F-,F ,A-,B-,F ,D ,C ,F ,D ,F ,D ,C ,C ,D ,D ,C 
+César,Lianos,PG,Nets,RBSL,22,76,193,F+,C-,B ,D-,C-,D ,F-,F+,F ,C ,F ,F ,B-,B+,C-,C+,B+,F ,B ,B ,D ,C ,C ,F ,D ,F ,B ,F ,D 
+Wendell,Carter,C,Hawks,RBSL,29,82,279,D ,C+,B-,B-,D+,C+,B+,A-,C+,D+,C ,B-,C-,D+,C-,A-,B-,D ,C ,B ,B ,D ,C ,B ,A ,B ,D ,D ,B 
+Monty,Yarborough,PF,D-Warriors,D-RBSL,34,83,280,D-,C ,C ,F-,C-,D-,D ,C ,B-,F+,D ,C-,C ,D-,B-,C ,A ,D ,C ,C ,F ,D ,F ,D ,D ,B ,F ,D ,D 
+Douglas,Stout,SG,D-Nets,D-RBSL,28,77,218,C-,C+,A-,C ,C ,D ,F+,F ,F+,C ,D+,F ,A-,A-,C-,D+,B+,C ,B ,B ,C ,C ,D ,F ,F ,D ,C ,D ,F 
+Oldrich,Luba,C,Timberwolves,RBSL,32,87,297,D ,C-,B ,F-,C-,C ,A+,A ,B+,C+,D+,A+,A+,D ,C ,B-,B-,D ,D ,B ,F ,D ,C ,A ,A ,B ,C ,D ,A 
+Cristobal,Williams,PG,FA,,22,76,210,D ,D ,C ,D ,C+,C-,F ,D-,D ,C-,D ,F-,F+,B ,D+,C ,A-,D ,D ,B ,D ,C ,D ,F ,D ,D ,D ,D ,F 
+Andrew,Medley,PG,Lakers,RBSL,22,72,210,F ,C ,B-,C ,D ,F ,D+,D ,D ,C-,C-,D ,F ,A ,C ,F-,A-,F ,B ,B ,A ,D ,F ,C ,D ,C ,B ,B ,D 
+Rudolph,Wolf,C,D-Pistons,D-RBSL,26,86,274,D-,D ,C+,F-,D ,D-,D+,C ,C ,F-,F+,C ,D-,F ,D+,C+,C+,D ,D ,B ,F ,D ,D ,D ,C ,C ,F ,F ,C 
+John,Faulkner,PG,D-Knicks,D-RBSL,26,77,188,F+,C-,B ,D+,C ,D ,D ,D-,F-,C-,C+,F-,B+,A-,D ,B-,A-,F ,C ,B ,D ,C ,D ,D ,F ,F ,C ,C ,F 
+Chris,Adams,C,D-Clippers,D-RBSL,26,84,282,D-,C-,C+,F-,D-,D ,C ,C-,C-,F ,F-,C+,C-,F ,D-,A-,C+,D ,C ,C ,F ,F ,D ,C ,C ,C ,F ,F ,C 
+Justin,Graves,C,D-Mavericks,D-RBSL,32,83,282,D-,F+,C ,F-,D+,D-,D-,C ,C ,F ,D-,C ,A-,D-,C+,B ,A-,F ,F ,C ,F ,D ,D ,F ,C ,C ,F ,D ,D 
+Michael,Porter Jr.,PF,Bulls,RBSL,29,82,240,D ,C+,A ,C+,C ,D ,C-,D+,D+,D+,C ,C-,A-,B+,B ,B+,A ,D ,B ,A ,C ,C ,D ,D ,D ,D ,D ,C ,D 
+Gil,De Urquiza,PG,FA,,25,74,185,D-,D ,B-,D-,C-,D ,F+,F ,F-,D-,C-,F-,A-,B+,C-,B+,A-,F ,D ,B ,D ,C ,D ,F ,F ,F ,D ,D ,F 
+Donald,Kahler,PG,D-Nuggets,D-RBSL,28,71,181,D-,B-,B-,C+,C ,D-,F+,D ,F+,B-,C-,F ,A-,B+,C ,C ,B ,D ,B ,A ,C ,C ,F ,F ,D ,F ,B ,D ,F 
+Hoyt,White,PG,FA,,24,72,174,F ,A ,A-,F+,B+,F ,F-,F+,F ,F+,B-,F-,C-,B-,C-,C-,B-,F ,A ,A ,F ,B ,F ,F ,F ,F ,D ,B ,F 
+Kendrick,Delacruz,C,FA,,33,87,308,F+,D-,C-,F-,D-,F+,F+,D-,D+,F ,F ,D+,C+,F-,D-,A ,B-,F ,F ,C ,F ,F ,F ,F ,D ,D ,F ,F ,D 
+William,Chasse,PG,Celtics,RBSL,17,71,198,F+,C ,A-,D-,C+,D+,D-,C ,D ,C+,C+,D-,C-,A ,A ,C-,B+,D ,B ,A ,F ,C ,C ,D ,B ,D ,A ,A ,D 
+Matt,Marsh,C,FA,,33,82,280,D-,D+,F+,F-,C-,D ,F ,D-,C+,F+,D ,C+,C ,F-,F ,A-,C+,F ,D ,F ,F ,D ,D ,F ,D ,B ,F ,D ,C 
+Zion,Williamson,PF,Magic,RBSL,21,79,286,C ,D+,C-,C+,C ,D ,C+,C+,B ,D+,C+,B-,A+,B-,A ,A ,A-,C ,C ,C ,B ,C ,D ,B ,B ,B ,C ,B ,B 
+Waldo,Hesse,C,FA,,33,85,301,D-,D+,C+,F-,D-,F+,D-,D ,C ,D-,C ,D ,D ,F-,C ,A ,C ,F ,D ,C ,F ,F ,F ,F ,D ,D ,F ,C ,D 
+Vincent,Laguna,PG,D-Mavericks,D-RBSL,27,73,182,D+,B-,B+,F-,C ,D ,F ,D ,F ,B ,C ,F ,A-,A+,C+,C ,A-,D ,B ,A ,F ,C ,D ,F ,D ,F ,B ,C ,F 
+Charles,Hammel,PG,D-Jazz,D-RBSL,29,74,203,F+,C ,A-,D+,B+,C ,F-,D ,F-,C+,C ,F+,F-,B+,B-,B ,A ,F ,C ,B ,D ,B ,C ,F ,D ,F ,C ,C ,F 
+Nacio,Escriva,C,D-Timberwolves,D-RBSL,37,84,295,C ,C-,B ,F+,C ,D-,C ,B ,C ,F ,F+,C-,C-,F-,D+,A-,D-,C ,C ,B ,F ,C ,D ,C ,B ,C ,F ,F ,D 
+Lucas,Moore,C,D-Knicks,D-RBSL,29,83,289,C ,C ,D+,F-,D ,F+,A-,C-,B-,D ,C+,C-,C ,F+,D+,C+,C ,D ,C ,D ,F ,D ,F ,A ,D ,B ,D ,C ,D 
+Chauncey,Baker,C,FA,,32,83,287,D ,D+,B ,F-,D-,D ,F-,C-,C ,F ,F-,C ,C ,F-,F+,C+,C ,D ,D ,B ,F ,D ,D ,F ,D ,C ,F ,F ,C 
+Hoyt,Christian,C,FA,,34,83,292,F+,C ,C ,F ,C-,F+,C+,D+,C-,F ,D ,C ,F+,F-,F-,C-,C ,F ,C ,C ,F ,D ,F ,C ,D ,D ,F ,D ,C 
+Joseph,Warnock,C,D-Lakers,D-RBSL,31,81,267,C+,C ,B ,D ,D+,F+,C+,D-,D-,F+,F+,C-,C-,F ,C-,A-,C+,B ,C ,B ,D ,D ,F ,C ,D ,F ,F ,D ,D 
+Bryant,Baker,PG,Mavericks,RBSL,19,72,160,C+,C ,A ,D-,C ,D ,D-,D-,F+,C+,C-,D ,F+,A ,B ,F-,C ,A ,A ,A ,D ,A ,C ,D ,D ,D ,B ,C ,D 
+Michael,Jones,PG,Magic,RBSL,27,72,174,A+,C ,A ,A-,C ,B ,C ,D-,F+,F+,C-,F-,C ,A ,D-,C+,A-,A ,B ,A ,A ,B ,B ,C ,D ,F ,F ,C ,F 
+Pascual,Alkorta,PF,Raptors,RBSL,35,85,303,C-,C ,B-,F+,C+,C ,C+,B-,C+,D+,C-,B ,B ,F-,F-,B+,C+,D ,C ,B ,F ,C ,C ,C ,B ,C ,D ,D ,B 
+Andrew,Fawcett,SG,FA,,23,77,207,D-,D ,C+,D ,D+,F+,F ,F ,F ,C-,F+,F ,C ,B-,D-,C+,B-,D ,D ,C ,C ,C ,D ,F ,F ,F ,C ,F ,F 
+Deandre,Ayton,C,Thunder,RBSL,29,85,302,B+,A-,C+,F+,C ,C ,B+,A ,C+,C ,C ,A-,B-,C+,A-,A ,A+,B ,A ,B ,C ,C ,C ,A ,A ,C ,C ,D ,A 
+Ja,Morant,PG,Clippers,RBSL,22,75,175,C ,C+,B+,C+,B+,C+,F-,F ,F ,C+,C ,F+,A ,A ,A ,C-,A+,C ,B ,A ,B ,B ,B ,F ,D ,D ,C ,C ,D 
+Carlton,Baker,SG,D-Lakers,D-RBSL,26,75,185,D-,C-,C ,D+,C ,C-,D-,D-,F+,B-,C-,F+,C ,A-,C ,C+,A-,D ,D ,C ,D ,C ,D ,F ,F ,F ,B ,D ,F 
+Thad,Boudreaux,SF,Kings,RBSL,24,80,237,C+,C-,B ,C+,C ,C-,B-,C ,B-,D-,D ,D ,A-,B+,B ,C ,A ,B ,C ,B ,B ,B ,C ,B ,B ,B ,D ,D ,D 
+Jose,Goodwin,C,D-Pelicans,D-RBSL,32,85,300,C-,C-,B-,F-,D-,D ,B-,C-,C+,F ,F+,C ,B-,F+,C ,A ,C ,D ,D ,B ,F ,F ,D ,B ,D ,C ,F ,F ,C 
+Thomas,Evans,PG,FA,,27,72,212,D-,C+,A-,F+,C ,D ,D+,F+,F-,D ,D+,F ,A-,B+,C-,C ,A ,F ,B ,A ,F ,C ,D ,D ,F ,F ,D ,D ,F 
+RJ,Barrett,SF,Raptors,RBSL,21,79,205,C ,D ,C ,C ,C ,C ,F ,C ,D ,C ,F ,F ,A-,B ,C ,C ,A ,B ,C ,C ,B ,B ,C ,D ,B ,C ,C ,D ,D 
+Daniel,Bond,C,D-Hawks,D-RBSL,37,83,290,D+,C-,A-,F-,C+,C-,B-,C ,C ,C ,C-,B+,A+,D ,F+,C ,C-,D ,D ,A ,F ,C ,D ,B ,C ,C ,C ,D ,B 
+Vasya,Krishtoforich,PG,D-Pistons,D-RBSL,30,72,174,F-,A-,A ,C-,B ,D ,F ,F-,F-,C ,C ,F ,B+,B+,D+,D-,A+,F ,A ,A ,D ,B ,D ,F ,F ,F ,C ,C ,F 
+DeAndre,Hunter,SF,Nets,RBSL,21,79,226,D-,C+,B-,C+,D+,F+,F ,F+,D+,C ,F-,F+,B-,C+,C ,C ,A-,C ,B ,B ,A ,C ,D ,D ,D ,C ,B ,F ,D 
+William,Gonzales,PG,Clippers,RBSL,21,73,171,F+,C ,B ,C-,C ,C ,D-,F-,F-,C ,C-,F ,C+,B ,C-,C+,C-,F ,C ,B ,C ,C ,C ,D ,F ,F ,C ,C ,F 
+Jeffrey,Chee,C,D-Heat,D-RBSL,26,83,275,C+,C-,C-,F+,F+,F ,F+,B-,B-,F ,F+,D+,A-,C-,C+,C ,A-,C ,C ,D ,D ,D ,F ,F ,B ,B ,F ,D ,C 
+Man,Dilley,PF,Pelicans,RBSL,33,83,287,C+,D+,C+,F-,C ,D ,B+,B-,B+,C-,C-,A-,F-,C-,C ,C ,B+,C ,D ,C ,F ,C ,D ,B ,B ,B ,D ,D ,A 
+Jerrell,Snider,SG,Pelicans,RBSL,25,76,212,F+,B-,B ,D ,C-,D ,F+,F+,F ,A ,B-,F ,A ,A-,C ,C ,B ,F ,B ,B ,D ,D ,D ,F ,D ,F ,A ,B ,F 
+Darius,Garland,PG,Warriors,RBSL,21,74,177,D ,C+,B ,B+,C ,C-,F ,D-,F+,C ,D-,D-,B+,A ,B-,D+,A ,D ,B ,B ,B ,C ,D ,F ,D ,F ,C ,D ,F 
+Dudley,Hooper,PF,D-Clippers,D-RBSL,32,84,296,C-,C ,C-,F-,C-,D-,F+,C-,C ,F+,F+,C ,C ,F-,D+,A-,C-,D ,C ,C ,F ,C ,F ,F ,D ,C ,F ,F ,C 
+Micheal,Williams,PG,76ers,RBSL,23,78,190,D ,D ,C+,D ,C ,F+,F-,F ,D ,C ,D-,F ,F ,A ,C+,F ,A-,D ,D ,B ,D ,B ,D ,F ,F ,C ,C ,D ,F 
+Terrence,Calhoun,SF,D-Jazz,D-RBSL,27,78,218,C-,C ,C-,D ,D-,F ,F-,C-,F ,B-,C-,C-,F+,B-,B+,B-,A ,D ,C ,C ,D ,D ,F ,F ,D ,F ,B ,C ,C 
+Kelly,Frank,PF,FA,,31,80,261,D-,F ,C ,F-,D ,F+,D ,C-,D+,F ,F+,C-,C ,D-,C-,A+,B ,D ,F ,C ,F ,D ,F ,D ,D ,D ,F ,F ,D 
+Newton,Jones,SF,D-Spurs,D-RBSL,27,77,214,C-,C ,B-,C-,D-,F+,F+,C-,F ,A-,D+,D+,B-,B ,C ,A-,A+,D ,C ,A ,D ,D ,F ,F ,D ,F ,B ,D ,D 
+Ivory,Gallo,C,Pelicans,RBSL,24,83,238,D ,D+,C ,F-,D ,F ,C+,A ,C+,D ,D-,C ,C ,F ,C ,C+,C-,D ,D ,B ,F ,D ,F ,C ,A ,C ,D ,D ,C 
+Ernest,Gonzalez,SG,FA,,25,77,208,F+,C-,C ,F+,C-,F+,F ,F+,F+,D ,C ,F+,D+,B-,D+,B+,B-,F ,C ,B ,F ,D ,F ,F ,D ,F ,D ,C ,F 
+Herschel,Moore,SG,D-Thunder,D-RBSL,24,77,214,C ,C ,B+,C ,D+,F+,F+,F+,D-,D+,D+,F ,D-,A ,B-,C+,B-,D ,C ,B ,C ,D ,F ,F ,F ,D ,D ,D ,F 
+Stefan,Case,SF,D-Heat,D-RBSL,27,76,207,D-,A-,A ,C-,C+,D ,D-,D-,F+,B-,C-,F ,C-,C+,C ,A-,B ,D ,B ,A ,D ,C ,D ,D ,D ,F ,B ,D ,F 
+Greyne,Obasanho,C,D-Pistons,D-RBSL,34,84,294,D-,C-,C ,F-,D-,F+,C ,C ,C ,F ,F+,C+,B ,F+,C ,A-,D+,F ,D ,C ,F ,F ,F ,C ,C ,C ,F ,F ,C 
+John,Greer,PG,FA,,27,67,208,C-,C ,C ,F+,C ,D+,F-,C-,F ,C-,C ,F ,C ,A-,C+,C ,A ,D ,C ,B ,F ,C ,D ,F ,D ,F ,D ,C ,F 
+Tom,Lowe,C,D-Thunder,D-RBSL,26,84,227,D-,D ,D ,F-,D ,F ,C ,C-,C+,D ,F ,C ,B-,D-,D ,B ,C+,D ,D ,D ,F ,D ,F ,C ,C ,B ,D ,F ,C 
+Kobe,Hernandez,C,D-Pelicans,D-RBSL,24,83,276,C ,D-,D+,F-,D ,F ,D+,C ,C ,F ,F-,C ,D ,F+,C ,C ,C+,C ,D ,D ,F ,D ,F ,D ,D ,C ,F ,F ,C 
+Thomas,Lovelady,PG,Wizards,RBSL,25,80,204,C ,C ,C+,B-,B ,C ,D+,C+,D+,C-,C-,B ,A ,A-,A ,B-,A ,C ,C ,B ,B ,B ,C ,D ,C ,D ,C ,C ,B 
+Lonzo,Ball,SG,Hawks,RBSL,34,78,219,D+,C ,B-,B-,C+,B ,C ,C+,C ,B+,B ,C+,B-,A-,C ,B-,B ,D ,C ,B ,B ,C ,B ,D ,B ,C ,B ,B ,C 
+Michael,Whitlock,C,FA,,32,82,281,F+,C-,C ,F-,D-,D-,C-,D+,D+,F+,D-,D+,A ,D ,C+,A+,B ,F ,D ,C ,F ,D ,D ,D ,D ,D ,F ,F ,D 
+Joesph,Brown,SG,FA,,24,78,218,F+,D+,B ,D+,C ,F+,F+,D-,F-,C ,D ,F-,A ,B-,C ,C-,C+,F ,D ,B ,D ,C ,F ,F ,F ,F ,C ,D ,F 
+Ibrahim,Umaru,PG,FA,,21,73,203,D+,D ,B ,D+,D+,C-,F-,F-,F-,C-,D-,F ,A-,A-,C-,C-,C ,D ,C ,B ,D ,D ,C ,F ,F ,F ,C ,F ,F 
+Bohuslav,Kochevar,PG,Celtics,RBSL,22,75,173,C ,C ,C+,C+,B+,C-,D-,C ,D ,D+,C-,D ,C ,A ,B ,C-,A+,C ,B ,C ,B ,B ,C ,F ,C ,D ,D ,C ,D 
+Stanislav,Kostic,C,D-Suns,D-RBSL,33,87,310,C ,F+,C+,D-,D ,F ,C ,C ,C ,F-,F-,C ,C+,F-,F-,A ,D+,C ,F ,B ,F ,D ,F ,C ,C ,C ,F ,F ,D 
+Clinton,Williams,SG,FA,,25,74,227,D-,C ,C+,C-,C-,F+,F+,F-,F ,C ,D ,F-,C+,B+,C ,C ,A-,D ,C ,B ,D ,D ,F ,F ,F ,F ,C ,D ,F 
+Edward,Blakeslee,PG,Bulls,RBSL,21,75,172,F ,C-,C+,C ,C-,C-,F ,D ,F+,C ,B+,F+,A ,A ,A+,C+,B ,F ,C ,B ,B ,C ,C ,D ,D ,D ,A ,A ,D 
+Junior,Jones,C,D-Hornets,D-RBSL,32,84,298,F+,C-,B-,F-,D+,F+,C ,C-,C ,D-,F+,C ,A ,F-,D ,A ,C ,F ,D ,B ,F ,D ,F ,C ,D ,D ,D ,F ,C 
+Kurtis,Townsend,C,FA,,32,84,296,D-,D ,D ,F-,D+,F+,D-,C ,D ,F+,D ,C+,C ,F-,C+,A-,C-,D ,D ,D ,F ,D ,F ,F ,C ,D ,D ,D ,C 
+Jarrett,Culver,SF,Jazz,RBSL,22,78,198,C-,C ,C ,C-,C ,D+,F-,C-,F+,C ,C-,F ,B+,B ,B ,C-,C ,B ,B ,B ,C ,C ,D ,D ,C ,C ,B ,B ,D 
+Trae,Young,PG,Timberwolves,RBSL,29,74,184,D+,A ,A-,A ,B-,A ,F ,C-,F ,F+,C ,F+,A ,A-,D+,D ,A+,D ,A ,A ,A ,B ,A ,F ,D ,F ,D ,C ,F 
+Rudolf,Wesson,SG,Celtics,RBSL,18,74,225,F ,C-,C+,F ,C-,D-,F ,F ,F ,D ,D+,F+,C+,A ,C ,C+,A-,D ,A ,B ,D ,A ,B ,D ,D ,D ,B ,C ,D 
+De'Aaron,Fox,SG,Trail Blazers,RBSL,34,75,199,C-,C ,B-,C-,C ,C-,F ,C-,F+,C ,B ,F+,C+,B+,A-,C-,A ,D ,C ,B ,D ,C ,D ,F ,D ,F ,C ,B ,F 
+Jonathan,Isaac,SF,Warriors,RBSL,35,82,263,D ,C-,B-,C ,C ,D-,C ,C+,C ,C ,C+,B ,C ,C+,C ,C ,D+,D ,D ,B ,C ,C ,F ,C ,C ,C ,C ,B ,B 
+Coby,White,PG,Mavericks,RBSL,21,77,186,C ,C+,B-,C ,C ,C ,F ,F+,F ,C+,D ,F ,C+,A-,C ,C-,A-,B ,B ,A ,B ,B ,C ,F ,D ,D ,B ,C ,D 
+Albert,Hernandez,SG,D-Trail Blazers,D-RBSL,27,77,199,C-,A ,C+,F ,B ,F ,D+,C ,F ,D ,C-,F+,C ,C+,B ,B-,C+,D ,A ,B ,F ,B ,F ,D ,C ,F ,D ,D ,F 
+Shawn,Schoen,C,D-Magic,D-RBSL,31,83,283,F+,C ,D ,F-,D+,F ,B+,C-,B ,F ,D-,F ,D ,D ,C ,A-,A-,F ,D ,D ,F ,D ,F ,B ,D ,B ,F ,F ,F 
+Roosevelt,Montenegro,SG,Warriors,RBSL,27,78,220,C ,B-,B-,C+,C ,C-,C-,C ,C ,B-,A-,D+,C-,A+,A-,C ,A+,C ,B ,B ,B ,C ,D ,D ,C ,C ,B ,B ,D 
+Emiliano,Albanese,SG,FA,,26,76,226,D-,D ,C+,C-,D-,F ,D-,C ,F ,D-,C-,F ,A-,A-,C ,C+,A ,F ,D ,B ,D ,D ,F ,F ,C ,F ,F ,D ,F 
+Jaxson,Hayes,C,Mavericks,RBSL,21,83,229,C+,F+,B ,F-,F ,F-,C+,C ,C+,D-,D-,A-,F ,D+,C ,A-,C+,C ,F ,B ,F ,D ,F ,B ,C ,B ,D ,D ,A 
+Harold,Tucker,PG,Clippers,RBSL,18,72,168,F ,D ,B ,D+,D ,D-,F+,D-,F+,C-,F+,F+,F-,A ,B ,F ,A ,D ,D ,B ,C ,C ,D ,D ,D ,D ,C ,D ,D 
+Guy,Edwards,SG,D-Hawks,D-RBSL,28,74,201,C-,C ,C ,F-,C ,C-,F ,D+,F+,C+,B ,F+,F+,A-,D+,C ,A-,C ,C ,B ,F ,C ,C ,F ,C ,D ,B ,B ,F 
+Omar,Boyd,PG,Bucks,RBSL,25,76,186,C+,C ,A-,C ,D ,C-,F+,F+,F-,C-,C-,F ,B+,A-,C ,C-,B+,A ,C ,A ,C ,D ,C ,F ,F ,F ,B ,C ,F 
+Frank,Ntilikina,SG,FA,,34,77,215,F+,D ,B-,D+,C ,D+,F ,F+,D-,C-,C-,F ,C-,A ,D-,C-,A ,F ,D ,B ,D ,D ,D ,F ,F ,F ,D ,D ,F 
+Sal,Wright,PG,D-Nuggets,D-RBSL,29,73,219,D-,C ,C+,C-,C-,C-,F-,D ,F+,C-,C+,F ,B ,A ,A ,F+,A ,F ,C ,B ,D ,D ,D ,F ,D ,F ,D ,C ,F 
+Jaren,Jackson Jr.,C,Kings,RBSL,28,82,269,C ,A-,C+,A-,C-,C ,A ,A+,A-,C ,C+,A+,C-,C ,B ,A+,C ,C ,A ,A ,A ,D ,B ,A ,A ,A ,C ,C ,A 
+Rodrick,Johnson,C,Timberwolves,RBSL,38,85,303,D-,C+,A-,F-,B-,D+,C ,B-,C ,D-,D-,B ,A ,D+,D ,C+,C+,D ,C ,A ,F ,B ,D ,C ,B ,C ,F ,D ,B 
+Johnnie,Moore,PG,FA,,18,75,185,D-,D ,C+,F+,C ,C-,F-,F ,F-,C ,C-,F ,D+,B ,C-,C ,C+,D ,D ,B ,F ,C ,D ,F ,F ,F ,C ,C ,F 
+Vladimir,Simon,SF,D-Pelicans,D-RBSL,22,82,232,C-,B-,C+,D+,D+,F+,C-,D-,F+,D+,D ,D-,C ,C-,C ,B-,B ,C ,A ,C ,C ,C ,D ,C ,D ,D ,C ,C ,D 
+Emilio,Delgado,PG,D-Hawks,D-RBSL,23,74,172,F ,C ,B ,C ,C ,F ,F ,F ,F-,C-,D-,F-,C+,A ,C-,C-,A+,F ,B ,B ,B ,C ,F ,D ,F ,F ,C ,D ,F 
+Mack,Lewis,C,FA,,33,84,293,D+,D+,C ,F-,D-,F+,D+,D ,C-,D ,D-,D+,F-,F-,D+,A-,B ,D ,D ,C ,F ,D ,F ,D ,D ,D ,D ,F ,D 
+Rui,Hachimura,PF,Celtics,RBSL,23,80,236,C ,C ,C+,C-,C ,F ,F+,C-,D ,F+,F+,D+,A+,C ,B-,B+,A-,B ,B ,B ,C ,C ,F ,D ,C ,C ,D ,D ,C 
+Doyle,Baker,SF,FA,,22,78,220,D-,D-,B ,C-,D-,F-,D+,D-,F+,F+,F ,F-,A ,C ,C ,B-,C ,D ,D ,B ,C ,D ,F ,C ,D ,D ,F ,F ,F 
+Ronald,Campbell,SG,Magic,RBSL,22,78,204,D-,B+,A-,C ,C+,C ,F-,F ,F+,C ,C ,D-,B+,A-,C ,C ,A ,D ,B ,A ,C ,B ,C ,F ,F ,F ,B ,C ,D 
+Luka,Doncic,PG,Warriors,RBSL,29,79,229,C-,C ,B-,C+,C-,C+,D-,C-,D+,D+,C-,F ,B-,B ,C-,B ,A ,D ,C ,A ,C ,D ,C ,F ,D ,D ,D ,D ,F 
+Ronald,Thomas,SF,D-Bulls,D-RBSL,25,74,205,C+,B+,A-,C+,D+,D-,D-,D-,F-,B ,C-,F-,B ,C+,D+,C ,C+,C ,B ,A ,C ,D ,F ,D ,D ,F ,B ,D ,F 
+Jonathan,Yeager,PF,Suns,RBSL,31,83,291,C-,C ,C ,F-,D+,D ,A+,C+,B-,F+,A-,C-,A-,F-,F ,B ,D ,D ,C ,C ,F ,D ,D ,A ,B ,B ,D ,A ,D 
+Collin,Sexton,PG,Trail Blazers,RBSL,28,75,201,C ,C+,A-,C+,C ,C+,C-,C ,C-,C-,C-,D+,D+,A ,A-,C ,B+,C ,B ,A ,C ,C ,C ,D ,C ,D ,C ,D ,D 
+Bryant,Lyons,PG,D-Hornets,D-RBSL,27,73,212,D+,B ,A ,C+,C-,D-,F ,D-,F ,C-,D+,D ,C ,A-,C ,C ,A-,D ,B ,A ,C ,D ,D ,F ,D ,F ,C ,D ,D 
+Charles,Nelson,C,Suns,RBSL,36,84,299,C ,C ,C+,C ,C ,C-,D ,C+,B-,D+,C-,C ,C ,D ,C+,C ,C-,D ,C ,B ,C ,C ,D ,D ,C ,B ,D ,D ,C 
+Amadeu,Rosas,SG,Clippers,RBSL,17,76,171,F ,D ,C+,F+,D+,F+,F+,F-,F ,D+,D+,F+,C+,B-,C ,C ,A-,D ,C ,C ,D ,C ,D ,D ,F ,F ,B ,B ,D 
+Arden,French,SG,FA,,25,76,187,D-,C-,B-,C ,C ,F ,F-,F ,F+,D+,D ,F+,C ,C+,C ,C+,C+,F ,D ,B ,C ,C ,F ,F ,F ,F ,D ,D ,F 
+Sheldon,Day,SF,Timberwolves,RBSL,27,79,216,D ,C+,B ,D ,C ,F ,D+,C-,F ,C+,C ,F+,A+,A ,A-,B+,A-,D ,C ,B ,D ,C ,F ,D ,D ,F ,B ,D ,F 
+Lance,Noble,PG,Suns,RBSL,30,73,196,A-,C+,A-,C-,C-,F ,F+,D-,F ,B+,A-,F-,C ,A-,D+,C+,A+,B ,C ,A ,D ,D ,F ,F ,F ,F ,B ,A ,F 
+William,Johnson,SG,Spurs,RBSL,20,77,202,F ,B+,B+,C ,D-,D ,F-,F ,F+,C ,D ,D-,A-,B-,C ,C-,C ,F ,A ,A ,C ,D ,D ,F ,F ,F ,C ,D ,D 
+Olin,Benson,SG,D-Wizards,D-RBSL,25,80,234,D-,C+,A ,F+,C ,F+,C-,D-,F+,C ,C ,F+,C+,B+,D+,C+,A-,F ,B ,A ,F ,C ,F ,D ,D ,F ,C ,C ,F 
+Cam,Reddish,SG,Lakers,RBSL,22,80,219,C-,C ,C+,C+,C ,D ,F-,F+,D-,C+,B-,D-,C ,B ,C+,D-,A-,C ,B ,B ,B ,C ,D ,F ,D ,D ,C ,B ,D 
+Martin,Frost,PF,D-Rockets,D-RBSL,31,82,272,C ,C-,C ,F+,D ,D-,C ,C ,C-,C-,C-,A-,C ,D ,C-,A-,B ,C ,D ,C ,F ,D ,D ,C ,C ,D ,D ,D ,B 
+Elbert,Anderson,SF,FA,,22,80,245,F+,F+,C-,F-,F+,F ,D+,D-,F+,F ,F-,F+,D-,F ,D+,C+,C-,D ,F ,D ,F ,D ,F ,C ,D ,F ,F ,F ,D 
+Myles,Brill,C,Suns,RBSL,33,84,297,C+,D+,C+,C-,B ,B+,C ,B ,C+,F+,C-,B-,A ,F-,F ,B ,C ,C ,D ,C ,D ,B ,B ,C ,B ,C ,F ,D ,B 
+Kevin,Knox,PF,Bulls,RBSL,29,81,241,C-,C ,B-,B-,C-,D ,D-,C ,C ,C-,D-,F+,B-,B-,B-,B ,A ,D ,C ,B ,B ,D ,D ,D ,C ,C ,C ,D ,F 
+William,Rhee,SG,FA,,23,76,194,F ,D ,C+,C-,C ,F ,F-,D-,F ,D+,F ,F+,B ,C+,C+,D+,C+,F ,D ,C ,D ,C ,F ,F ,F ,F ,D ,F ,F 
+Zach,Collins,C,D-Hornets,D-RBSL,33,84,296,C-,D+,C+,C ,C-,D-,C ,C ,C ,D ,D ,C ,F-,F ,C ,A-,C ,D ,D ,B ,D ,D ,F ,C ,C ,C ,D ,D ,C 
+Walter,Thomas,PG,Trail Blazers,RBSL,24,71,219,C ,C ,A-,C+,B+,D+,F-,F+,F+,D ,B+,F ,C ,A ,B ,F-,C+,C ,C ,A ,B ,B ,D ,F ,F ,F ,D ,B ,F 
+Carl,Hawkins,PG,Hornets,RBSL,22,73,207,C-,C ,C+,D-,C ,C-,F-,F ,F ,C-,D+,F ,F-,A ,A ,C-,A-,D ,C ,B ,F ,C ,B ,F ,F ,F ,C ,D ,F 
+Randal,Faust,C,D-Bucks,D-RBSL,33,82,281,D-,D+,C ,F+,C-,D+,C+,D+,C+,F ,D ,C+,C+,F+,C-,A-,B-,D ,D ,C ,F ,D ,D ,C ,D ,C ,F ,D ,C 
+Marcos,Fuente,PG,D-Grizzlies,D-RBSL,24,74,211,F+,C ,C+,C ,B-,C ,F ,D ,F+,C ,C-,F-,F ,B ,D+,C ,B+,D ,C ,B ,C ,B ,C ,F ,D ,D ,B ,C ,F 
+Shai,Gilgeous-Alexander,PG,Raptors,RBSL,30,78,216,C-,B ,B+,C ,B-,B-,D-,C-,C-,B+,B+,C-,B-,A-,C+,D+,A ,D ,B ,A ,B ,B ,B ,F ,D ,D ,B ,B ,D 
+Jimmie,Mendes,C,D-Pistons,D-RBSL,32,86,307,D-,C-,B-,F-,D+,F ,A-,C-,C+,F+,F ,D-,B+,F-,C ,A ,C+,F ,D ,B ,F ,D ,F ,B ,D ,C ,F ,F ,D 
+David,Brown,SG,Cavaliers,RBSL,26,77,230,B-,C ,C+,C-,C ,F+,F-,F+,F+,C ,C-,F ,C ,B+,C ,A ,A ,B ,C ,B ,C ,D ,F ,F ,F ,F ,C ,D ,F 
+Louie,Wright,SG,D-Hornets,D-RBSL,25,79,221,F ,C ,A-,C-,D-,F+,D-,D ,F ,F+,D ,F ,B-,B+,C ,B+,B ,F ,C ,A ,D ,D ,F ,D ,D ,F ,D ,D ,F 
+Neal,Hardesty,PG,D-Timberwolves,D-RBSL,24,74,185,D-,C-,B+,F ,C+,D-,F-,F+,F ,C ,C ,F-,B ,B+,C+,D+,A ,D ,C ,B ,F ,C ,D ,F ,F ,D ,B ,B ,F 
+Cameron,Johnson,PF,Bucks,RBSL,25,81,221,C ,C+,A-,A-,D+,D-,C-,C-,C-,D+,C-,F+,A+,C ,C ,C ,A-,C ,C ,A ,A ,D ,D ,D ,D ,D ,D ,D ,F 
+Malik,Monk,PG,Lakers,RBSL,35,75,213,C ,B ,B+,A ,C ,C+,D-,C-,D+,C ,C ,C-,B ,B-,C+,F+,A+,C ,B ,A ,A ,C ,B ,F ,D ,D ,D ,C ,D 
+Bobby,Hield,SG,Suns,RBSL,26,76,217,B ,A ,A-,A ,C ,D+,C-,C ,D+,C ,C ,F+,B-,A-,B-,B-,A+,B ,A ,B ,A ,C ,D ,C ,C ,C ,B ,B ,D 
+Freddy,Trueblood,C,FA,,33,83,285,F+,C ,C ,F-,D ,F ,D+,D+,C ,F ,F+,D-,C ,F ,D-,B+,C ,F ,D ,C ,F ,D ,F ,D ,D ,C ,F ,F ,F 
+Kevin,Chang,C,FA,,32,82,279,D ,C-,C+,F-,D ,F+,F ,D+,C ,F+,F+,C+,C+,F-,D ,A ,C-,D ,D ,C ,F ,D ,F ,F ,D ,C ,F ,F ,C 
+J'Dinkalage,Morgoone,SG,Clippers,RBSL,21,75,176,A-,C ,C+,F ,C-,F ,F+,F-,C-,C ,D+,D+,F ,A ,A-,B-,B ,A ,B ,B ,F ,C ,F ,F ,F ,C ,B ,D ,D 
+Alex,Hart,PF,D-Jazz,D-RBSL,26,82,252,F ,C ,C ,F ,C ,F+,C ,C-,C+,F+,D ,C+,A+,D-,B-,A-,C+,F ,D ,C ,F ,C ,F ,C ,D ,C ,F ,D ,C 
+Les,Huntsman,C,Jazz,RBSL,34,83,276,C ,B-,B-,B-,C ,C-,C ,C+,B ,D-,D ,C ,A+,F+,B-,B ,C ,C ,B ,A ,B ,C ,D ,C ,C ,B ,D ,D ,C 
+Paul,Rose,PG,D-Thunder,D-RBSL,30,72,209,B-,C ,C+,C ,C+,D ,F+,F+,D-,F ,D+,F ,C-,B ,C-,C ,A+,B ,C ,B ,C ,C ,D ,F ,F ,D ,F ,D ,F 
+Dewayne,Polley,SF,Timberwolves,RBSL,24,77,233,C ,C+,A ,D ,D ,D-,C-,C-,C-,C+,C-,D+,B+,A ,A-,C-,B+,C ,C ,A ,D ,D ,D ,D ,D ,D ,C ,D ,D 
+Richard,Howell,C,Nuggets,RBSL,23,82,264,D ,B ,A-,D-,D ,D-,B-,C ,C+,D+,C ,B-,C+,C-,B+,B-,C-,D ,B ,A ,D ,D ,D ,B ,C ,B ,D ,C ,B 
+John,McCullough,SG,D-Trail Blazers,D-RBSL,25,80,234,D ,B-,A ,C-,C ,D-,D ,D ,C-,D+,D+,C ,C-,C-,C ,B+,C-,C ,B ,A ,C ,C ,D ,C ,D ,B ,D ,C ,C 
+Tod,Thompson,SF,D-Clippers,D-RBSL,28,78,230,C-,B-,C+,C ,D-,D-,D-,D-,F+,D-,D ,F ,B+,B ,D ,B+,B ,D ,B ,B ,C ,F ,D ,D ,F ,F ,F ,D ,F 
+Ayo,Okafor,C,Suns,RBSL,33,85,306,D+,C-,C-,F-,C ,F ,C+,C+,B+,F-,D ,C ,C-,F-,C-,A ,D ,D ,D ,C ,F ,C ,F ,B ,C ,B ,D ,D ,C 
+Miles,Bridges,SF,Clippers,RBSL,30,79,237,D-,C ,B ,C ,D+,D ,D ,C-,C-,C ,D-,D ,B+,B ,B-,B-,A ,D ,D ,B ,C ,D ,D ,D ,D ,D ,C ,F ,D 
+Dustin,Lawson,C,FA,,26,86,285,F ,F+,C ,F-,D-,F-,F ,D+,C-,F ,F-,C-,B ,F ,D+,A ,C ,F ,F ,C ,F ,D ,F ,F ,C ,D ,F ,F ,C 
+Andrew,Mills,C,FA,,33,83,285,D+,D ,C ,F-,D-,F ,D+,D+,C+,F ,D-,C ,B-,F-,D-,C+,B ,D ,D ,C ,F ,F ,F ,D ,D ,C ,F ,F ,C 
+Tobias,Bulger,PG,D-Rockets,D-RBSL,28,73,216,D-,A-,A-,C-,C+,D ,F+,C ,F+,A-,C-,F+,C-,B ,C-,C+,A-,F ,A ,B ,D ,C ,D ,F ,C ,F ,A ,D ,F 
+Luke,Kennard,SG,D-Clippers,D-RBSL,36,78,227,C ,C+,A-,B+,C ,C-,D ,D ,D+,C-,C ,D-,A-,B-,F ,C-,B ,D ,C ,A ,B ,C ,D ,D ,D ,D ,D ,C ,F 
+Mario,Guevara,SG,FA,,20,75,178,F-,C+,A ,F+,D-,D-,F ,F ,F-,D ,D ,F-,B+,C+,D ,C+,C-,F ,B ,A ,D ,D ,D ,F ,D ,F ,D ,D ,F 
+Jerome,Robinson,SF,FA,,31,78,224,F+,C ,B ,C ,D+,D ,F ,D-,F ,D-,D+,F ,C+,B-,C ,C ,A ,F ,C ,B ,C ,D ,D ,F ,D ,F ,F ,D ,F 
+Thomas,Benson,PF,Knicks,RBSL,35,83,286,C+,C ,D+,F-,D-,F+,B+,A-,B-,D+,C ,A-,A ,D+,C+,C ,A ,C ,C ,D ,F ,D ,F ,B ,B ,B ,D ,C ,A 
+Tyrone,Shults,C,Spurs,RBSL,31,84,296,B+,C ,C ,F+,C-,F-,C ,C ,A-,D ,D ,A-,A ,D-,C ,A+,B-,B ,C ,C ,D ,D ,F ,C ,C ,A ,D ,D ,A 
+Charles,Brown,SG,D-Wizards,D-RBSL,27,77,231,D ,C-,B-,C ,C ,D-,D-,D ,F+,C ,D+,F+,F ,B ,C ,A-,C+,D ,D ,B ,C ,C ,F ,D ,D ,F ,C ,D ,F 
+Ricky,Smedley,PF,FA,,31,79,244,C-,C-,C+,F-,D ,F ,D+,C-,C ,F+,C ,F+,C ,F ,C ,A ,A-,D ,D ,C ,F ,D ,F ,D ,D ,C ,F ,C ,F 
+PJ,Washington,PF,Pelicans,RBSL,23,80,232,C-,C ,C-,B-,F+,F-,C-,C ,D+,F+,F ,C ,C ,C+,C ,C+,A-,C ,B ,C ,A ,D ,D ,B ,A ,C ,C ,D ,B 
+Jonathan,Garcia,C,FA,,30,83,284,D-,D+,B+,F-,F-,D-,D-,C-,D+,D-,F ,D+,F+,D-,C ,B-,C ,F ,D ,B ,F ,F ,D ,F ,D ,D ,D ,F ,D 
+Joe,Smith,PF,FA,,33,79,251,F ,C-,B+,F-,D-,F ,D-,F+,D-,F-,F ,F+,B-,F ,D-,A ,B-,F ,D ,B ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Jeffrey,Hope,SG,FA,,25,78,232,D+,C ,A-,D+,C ,D ,D-,D-,D-,C ,D+,F+,F ,B+,C ,C ,A ,D ,C ,A ,D ,C ,D ,F ,D ,D ,C ,D ,F 
+Earl,Miller,SF,D-Kings,D-RBSL,26,78,227,C ,C ,B ,C ,C-,F-,F-,F ,F ,F+,D-,D-,C ,B ,C-,B-,A+,C ,C ,B ,C ,D ,F ,F ,F ,F ,F ,D ,F 
+Eli,Troxell,C,FA,,23,84,287,F+,C-,C ,F-,C-,D ,F ,C ,C+,F+,F+,D-,C+,F ,D ,A ,C-,F ,D ,C ,F ,D ,D ,F ,C ,C ,D ,D ,F 
+Burl,Garrison,C,Suns,RBSL,33,85,303,C-,D+,C ,D-,D+,F ,B-,C+,B+,D ,C+,C ,C+,D-,F-,B-,B ,D ,D ,C ,F ,D ,F ,B ,C ,B ,D ,B ,C 
+Tyler,Herro,SG,Pistons,RBSL,21,77,197,C-,B ,A ,B ,C ,C-,F ,D ,F+,C-,D+,F ,A ,B-,C-,C-,A ,C ,B ,A ,B ,C ,D ,F ,D ,D ,D ,D ,F 
+Antwan,Winslow,C,Mavericks,RBSL,32,83,277,B ,C ,B ,F-,D+,D ,C ,B+,A ,C ,C-,C ,A ,D ,B-,C ,C ,B ,C ,B ,D ,D ,D ,C ,B ,A ,D ,D ,C 
+Jeramy,Collins,SF,D-Heat,D-RBSL,27,78,223,D+,C-,C ,F-,C ,D-,F ,F+,F+,C ,C-,F ,C-,B ,C ,C ,A-,D ,D ,B ,F ,D ,F ,F ,F ,F ,C ,D ,F 
+Clemente,Antón,C,FA,,31,83,287,D+,D-,C+,F-,F+,F-,D ,F+,C ,F ,D-,D-,C ,F-,C ,C+,A-,D ,F ,C ,F ,F ,F ,D ,F ,C ,F ,F ,F 
+Baldomero,Canellas,PF,FA,,33,81,260,D-,D+,B-,F-,C-,D-,D+,D-,C-,F ,D ,D ,C+,F-,D-,A ,B-,F ,D ,B ,F ,D ,D ,D ,D ,C ,F ,D ,D 
+Burton,Smith,C,D-Timberwolves,D-RBSL,33,84,293,C+,C-,C ,F-,D-,D+,A-,C-,C-,D-,D-,C-,A-,F-,F-,A ,A-,C ,D ,C ,F ,F ,D ,B ,D ,D ,D ,F ,D 
+Karl,Dunn,PG,Spurs,RBSL,25,76,213,C ,C+,B-,C+,C ,C ,D ,C-,D ,C ,B+,D-,D+,A-,A-,C ,A ,C ,C ,B ,C ,C ,B ,D ,D ,D ,C ,B ,D 
+Beni,Becirovic,SG,Hawks,RBSL,23,75,168,B+,B-,A-,D-,C ,D ,D-,D+,F-,C+,C ,F-,A ,A ,A-,D+,B+,B ,B ,A ,F ,C ,D ,F ,D ,F ,B ,C ,F 
+Bam,Adebayo,C,Suns,RBSL,35,82,284,C ,C-,C+,F-,C-,D-,A-,C+,C+,C-,C-,C+,C-,D ,C-,B+,B-,C ,D ,B ,F ,C ,F ,B ,C ,B ,D ,D ,C 
+Jerry,Lee,C,FA,,32,83,270,D-,C-,B ,F-,C-,D+,F-,D+,C ,F+,D-,D+,A-,D-,C-,B-,C+,D ,D ,B ,F ,D ,D ,F ,D ,B ,D ,D ,D 
+Lubomir,Kafka,C,FA,,24,81,236,D-,D-,D+,F-,D ,F+,D ,D+,C-,D ,F ,C ,A+,F-,C-,A ,C-,F ,D ,D ,F ,D ,F ,D ,D ,D ,D ,F ,C 
+Chris,Parker,PG,Suns,RBSL,24,70,206,C+,B-,A-,D+,C+,C ,D-,D ,F ,A-,F ,F ,A-,A-,C ,C ,B+,B ,B ,A ,D ,B ,B ,D ,D ,F ,A ,F ,F 
+Charles,Lomax,SG,D-Hawks,D-RBSL,29,76,200,D-,C ,B+,C ,C ,C ,F+,D-,F ,C+,F+,F ,B-,A-,C-,C ,A ,D ,C ,B ,C ,C ,C ,F ,F ,F ,C ,F ,F 
+Daniel,Wilson,PG,D-Wizards,D-RBSL,24,74,176,D-,C ,B ,D-,D+,D-,F+,D ,F-,C ,C-,F-,C+,A ,C+,C ,A-,D ,C ,A ,D ,C ,D ,D ,D ,F ,B ,C ,F 
+Jeff,Beaty,SG,Clippers,RBSL,17,77,218,F ,D-,B ,D ,F ,F-,D ,D ,F ,D ,D-,F ,C ,C+,C ,C+,C+,F ,C ,B ,C ,F ,F ,D ,D ,F ,C ,D ,F 
+Don,Quinn,C,Bulls,RBSL,31,86,297,C+,C ,B ,F-,D-,D ,C+,A-,A-,C-,D+,B-,B+,C ,D-,B+,C-,C ,C ,A ,F ,D ,D ,C ,A ,A ,D ,D ,B 
+Troy,Brown Jr.,SF,D-Rockets,D-RBSL,29,79,230,D ,C-,B-,C-,D+,C-,D+,D+,C-,C ,C ,F ,B-,B ,C-,B+,A ,D ,D ,B ,D ,D ,D ,D ,D ,C ,C ,C ,F 
+Nigel,Dickson,SG,FA,,19,76,202,C-,D-,C ,F-,C-,F ,F-,F ,F ,F+,D-,F+,F-,B-,B ,C ,C ,B ,D ,C ,F ,B ,F ,F ,F ,F ,D ,D ,D 
+Rex,Buck,SG,D-Spurs,D-RBSL,29,77,226,D+,C-,B-,D ,C-,F+,F+,F+,F ,C ,C ,F+,F ,B-,C-,B-,B ,D ,D ,B ,D ,D ,F ,F ,F ,F ,D ,C ,F 
+Dewayne,Perez,SG,FA,,22,76,170,F+,D-,C+,D-,D ,F ,F-,F ,F-,F+,F+,F+,A-,B+,C ,C ,C+,D ,D ,C ,D ,C ,F ,F ,D ,F ,D ,D ,D 
+Hubert,Williams,SG,FA,,23,78,219,F ,C ,B+,D+,F+,F+,F+,D ,F ,C-,D-,F+,F+,C+,C-,C ,A-,F ,C ,A ,D ,F ,D ,F ,D ,F ,C ,D ,D 
+Claude,Garza,SG,Wizards,RBSL,27,76,214,D ,A-,A-,A ,C-,D-,D ,C ,D+,C ,F+,D-,F-,A ,D+,B ,C+,D ,B ,A ,A ,C ,D ,D ,C ,C ,B ,D ,D 
+Tyrell,Sapp,SG,Nuggets,RBSL,25,77,212,B ,C ,B-,D+,B ,D ,D ,F+,F+,B ,C-,D-,D ,B-,C-,A-,A ,B ,C ,B ,D ,B ,D ,D ,F ,D ,B ,D ,D 
+Romeo,Langford,PF,Spurs,RBSL,19,78,216,C ,D+,B-,D+,C+,C ,D-,D+,D+,C+,D-,C-,B ,B+,B ,C-,A ,C ,D ,B ,D ,B ,D ,D ,D ,D ,C ,D ,C 
+Marcio,Vila,PG,D-Pelicans,D-RBSL,23,75,220,C-,C-,B-,D ,C ,C ,F-,F+,F ,F+,D ,F-,C ,A+,C ,C ,A ,C ,C ,A ,D ,C ,B ,F ,F ,F ,F ,D ,F 
+Gabriel,Johnson,SG,Knicks,RBSL,22,77,182,D-,F+,C+,D+,F+,D-,F+,D ,F-,C ,D-,F ,A-,B+,C+,C ,A-,D ,D ,B ,C ,D ,D ,D ,C ,F ,B ,C ,F 
+Alvin,Ostrom,SG,Hornets,RBSL,18,77,177,D-,C ,C+,F ,D+,F ,F ,F ,F ,C-,C-,D-,B+,B+,C+,C-,B ,D ,C ,B ,F ,C ,F ,F ,F ,F ,C ,C ,D 
+Julian,Mendez,PF,Spurs,RBSL,23,80,235,C+,C ,C ,F-,C-,C ,C+,C+,C ,C ,D ,C ,D ,C ,A ,B+,C+,B ,C ,C ,F ,C ,C ,C ,C ,C ,C ,D ,C 
+Andrew,Loomis,SG,Heat,RBSL,28,78,208,C-,A-,B ,A-,D+,F+,F+,D+,F+,B+,D+,F+,B-,A ,A ,B+,A-,D ,A ,A ,A ,D ,D ,F ,D ,F ,A ,C ,F 
+Sekou,Doumbouya,SF,Pacers,RBSL,19,81,235,C ,C ,C+,C ,F ,F ,D ,D+,C-,D+,D+,C ,D-,C+,C+,A-,B ,C ,B ,B ,C ,D ,F ,D ,D ,C ,D ,C ,C 
+Miha,Peterka,SG,FA,,26,75,224,D ,B ,C+,D-,C ,D-,F+,D+,F ,D+,D ,F-,A ,C+,C ,C+,C+,D ,B ,B ,D ,C ,D ,F ,D ,F ,D ,D ,F 
+Donovan,Gay,SG,D-Rockets,D-RBSL,26,77,233,C-,C ,B+,C-,C ,D+,D-,C-,D-,C-,C ,D-,F-,B ,D+,B+,B-,D ,C ,B ,D ,C ,D ,D ,D ,D ,D ,D ,F 
+Bert,Burke,SF,FA,,25,76,208,D+,D ,C+,C-,C-,D ,F+,F+,F+,C-,C ,F+,A-,B ,C ,B+,A-,D ,D ,B ,D ,D ,D ,F ,F ,F ,D ,C ,F 
+Cole,Boyd,C,Heat,RBSL,26,84,289,C+,C-,B ,F-,C ,C ,C ,D ,C+,D ,F+,C ,A-,C-,A ,A-,C ,C ,D ,B ,F ,D ,C ,C ,D ,C ,D ,D ,C 
+Chuma,Okeke,C,Bucks,RBSL,23,80,235,D-,D+,C+,C ,F+,F-,C ,D ,C-,D+,C ,D+,A+,C ,C-,B+,A-,D ,B ,B ,A ,D ,D ,B ,C ,B ,C ,A ,B 
+Donte,DiVincenzo,SG,Hawks,RBSL,31,77,215,F+,C ,B ,C+,C ,D ,D ,C ,C-,B-,C ,D-,C ,A-,B+,C ,B ,F ,C ,B ,B ,C ,D ,D ,C ,D ,B ,C ,D 
+Chris,Ramirez,SG,Nuggets,RBSL,28,78,234,D+,A-,B+,B ,C-,D-,F ,D-,C-,D-,C ,F ,C+,B+,C ,C ,B+,C ,A ,B ,B ,D ,D ,F ,D ,C ,D ,C ,F 
+Umaru,Ojokolo,C,D-Nets,D-RBSL,31,83,285,C ,D ,C ,C+,C ,D ,B ,C-,C ,F-,D-,C ,A ,D+,C ,C ,B-,C ,D ,B ,C ,C ,D ,B ,D ,C ,F ,F ,C 
+Dante,Ardoin,PF,Clippers,RBSL,22,75,219,D-,C ,A-,C ,C ,C ,F ,F+,F ,C-,C-,F ,C ,A-,C-,C-,C+,F ,C ,A ,C ,C ,C ,F ,F ,F ,C ,D ,F 
+John,Graham,SG,FA,,26,74,195,C-,C+,C+,D+,D ,D-,F+,F ,D-,D ,F ,F+,D+,B ,B-,A-,A-,D ,C ,B ,D ,D ,F ,F ,F ,F ,D ,F ,F 
+Lonnie,Walker,SF,D-Magic,D-RBSL,27,77,222,D+,C ,B ,C+,C-,D-,D-,D ,C-,C ,C ,D+,B ,B ,B ,B ,A-,D ,C ,B ,C ,D ,F ,F ,D ,D ,C ,C ,D 
+T.J.,Leaf,PF,Bulls,RBSL,35,82,268,D ,C+,B-,C+,C ,C ,C ,C+,C ,D+,D ,C+,B ,D+,D+,B ,B ,D ,C ,B ,B ,C ,C ,C ,C ,C ,D ,D ,C 
+John,Collins,PF,D-Knicks,D-RBSL,35,82,269,C+,C+,B-,F-,D+,D ,B-,B ,C-,D ,C-,C-,F ,D-,C+,A ,C ,C ,B ,B ,F ,D ,D ,B ,B ,D ,D ,D ,D 
+Kevin,Huerter,SG,D-Nets,D-RBSL,30,79,227,D-,C-,B-,C+,C-,D ,F+,F+,D-,D+,D-,D-,B+,B-,D ,B-,A ,F ,C ,B ,C ,D ,D ,F ,F ,D ,D ,F ,F 
+Felton,Anderson,C,FA,,32,81,259,D-,D ,C ,F-,C-,F-,F-,D ,C+,F-,D-,D-,C ,F-,F+,A ,B ,F ,D ,C ,F ,D ,F ,F ,D ,C ,F ,F ,D 
+Nicky,Mendoza,SG,FA,,26,76,229,F ,C ,A ,F ,C-,F+,F+,D-,F+,C ,C-,F+,B-,B-,B ,C+,A+,F ,C ,A ,F ,D ,F ,F ,F ,F ,C ,D ,F 
+Josh,Okogie,SF,Pistons,RBSL,30,76,220,C ,B-,A-,A ,C-,C-,C ,C ,D+,B ,A-,C ,C ,B-,C ,C+,A ,C ,B ,A ,A ,D ,D ,C ,C ,D ,B ,B ,C 
+Glenn,Kenny,SG,Trail Blazers,RBSL,24,73,212,A ,B+,A ,C ,B+,F+,F ,F ,D-,C ,C+,F-,D+,A ,C-,C-,A-,A ,A ,A ,C ,B ,F ,F ,F ,F ,C ,C ,F 
+Grayson,Allen,SG,D-Celtics,D-RBSL,33,77,217,F ,C+,B+,B+,C ,C ,F ,D ,F+,D-,D ,F ,C ,C+,C+,C ,B ,F ,B ,A ,A ,C ,C ,F ,D ,F ,D ,D ,F 
+Henry,Lepage,C,Hawks,RBSL,32,82,270,C+,C+,A-,C+,D+,F ,C ,D+,C+,C-,D+,C+,C+,C-,C ,A-,C+,C ,C ,A ,C ,D ,F ,C ,D ,C ,D ,D ,C 
+Bartolom,Henchoz,SF,Grizzlies,RBSL,26,79,227,F+,C+,C ,F+,C ,D+,F+,D ,C ,A ,B ,C-,F ,A-,C+,C ,A ,D ,B ,B ,F ,C ,D ,D ,D ,C ,A ,B ,D 
+Wilfredo,Burlingame,PF,D-Wizards,D-RBSL,31,80,246,D+,C-,B-,C ,D+,D ,C ,D+,B-,D ,F+,C-,C ,C ,D ,A ,A-,D ,D ,B ,C ,D ,D ,C ,D ,B ,D ,F ,D 
+Marty,Jackson,C,D-Grizzlies,D-RBSL,22,81,263,D-,D ,C ,F-,D ,F-,C ,B ,C+,F+,F+,C+,C ,F ,D ,A ,C-,F ,D ,C ,F ,D ,F ,C ,B ,C ,D ,F ,C 
+Thomas,Trapp,C,Hornets,RBSL,31,84,298,D ,D+,D+,F-,C ,C-,A ,A+,C-,D ,C ,C+,B+,D+,A-,A+,C-,D ,D ,C ,F ,C ,C ,A ,A ,C ,D ,C ,C 
+Nickeil,Alexander-Walker,SG,Pistons,RBSL,23,77,207,D+,C ,B-,C ,C+,C-,F ,F ,F ,C ,C+,D-,B-,C+,C+,C-,A ,D ,B ,B ,B ,C ,D ,F ,D ,D ,B ,B ,D 
+Isaac,Brown,SG,FA,,20,78,211,F+,C-,B+,F-,D+,F ,F-,F+,F-,D-,F+,F-,C+,C ,D+,C ,D+,D ,B ,B ,F ,C ,F ,F ,D ,F ,D ,D ,F 
+Hunter,Nelson,SF,D-Pelicans,D-RBSL,27,79,221,C-,D+,C+,C+,B-,D ,F ,F+,F ,C ,F+,F ,C ,B+,C ,C+,A ,D ,D ,C ,C ,B ,D ,F ,F ,F ,C ,F ,F 
+William,Mosley,SG,FA,,18,77,218,F ,D-,B+,F-,D+,F-,F-,F+,F ,D ,F+,F ,B ,B ,D ,C ,C+,F ,C ,B ,F ,C ,F ,F ,D ,F ,C ,D ,F 
+Goga,Bitadze,C,Magic,RBSL,22,83,246,C ,F+,C+,F-,D+,F ,C ,C ,C-,F ,F ,C ,F ,D-,C-,A-,B ,C ,D ,B ,F ,D ,F ,B ,C ,C ,F ,F ,A 
+Chandler,Hutchison,SF,D-Cavs,D-RBSL,32,79,233,D+,C-,C ,C ,C-,D+,D+,C-,C-,C ,C ,D-,C-,C+,C ,B-,A-,D ,D ,B ,C ,D ,D ,D ,D ,D ,D ,C ,F 
+Jarrett,Allen,C,Nuggets,RBSL,34,82,279,C-,C ,C ,F-,C ,C-,B+,B-,C+,D ,D ,A-,A+,F ,C ,B-,C+,D ,D ,C ,F ,C ,D ,B ,B ,B ,D ,D ,B 
+Aaron,Holiday,PG,Rockets,RBSL,32,73,198,D ,C+,B+,B+,C ,C ,F ,D ,D ,C ,C ,F+,C-,A-,C ,C-,A ,D ,B ,B ,A ,C ,C ,F ,D ,D ,C ,C ,F 
+Noel,Martinez,PG,Pelicans,RBSL,29,74,180,D-,C-,A-,F+,C+,A-,D ,D+,D ,B+,C ,D+,C+,A+,C-,B ,A ,D ,D ,B ,F ,C ,B ,D ,D ,D ,B ,C ,D 
+Valerio,Toriano,SG,Jazz,RBSL,21,77,173,C ,B+,A ,C-,C-,D-,D-,D+,F-,C ,C-,F ,C ,B ,C-,C+,C ,C ,A ,A ,C ,C ,D ,D ,D ,F ,C ,C ,F 
+Jake,Taylor,PG,FA,,18,74,204,F ,C ,B+,D-,C-,F+,F-,F+,F-,D-,F ,F ,C ,B ,C-,C+,C-,D ,B ,B ,C ,B ,D ,F ,C ,D ,C ,F ,D 
+Fletcher,Steele,PG,D-Pacers,D-RBSL,28,78,216,F+,C ,B-,C ,C ,C-,D-,F ,F ,B+,C ,F+,C ,A+,C-,C+,A+,F ,C ,B ,D ,C ,D ,D ,F ,F ,B ,C ,F 
+Cyrus,Santana,PG,FA,,22,74,196,F+,D ,C+,D-,C ,D+,F-,F ,F-,C+,D-,F ,A-,A-,C ,C+,A ,F ,D ,C ,D ,C ,D ,F ,F ,F ,B ,D ,F 
+Titus,Young,PG,D-Hornets,D-RBSL,23,74,165,D+,C ,A-,F ,C-,D-,F-,F ,F-,C ,D-,F-,B ,A ,C-,C+,A-,C ,B ,A ,F ,C ,D ,F ,F ,F ,B ,D ,F 
+Matthew,King,SG,FA,,28,76,218,F ,D ,C+,C ,D-,D ,F ,D+,F-,C ,D+,F+,C ,B ,C-,B-,B+,F ,D ,C ,C ,D ,D ,F ,D ,F ,C ,D ,D 
+Gary,Birdsall,C,D-Nuggets,D-RBSL,32,83,289,F ,C ,B-,B ,D-,D-,F ,D+,B ,F ,D-,C ,A+,F+,C-,B+,B-,F ,D ,B ,B ,F ,F ,F ,D ,B ,F ,F ,C 
+Gilbert,Williams,PG,Pistons,RBSL,21,75,180,D-,C-,A-,C-,D+,D+,F ,F+,F+,C ,D-,F-,C ,A-,A-,C ,A-,D ,C ,B ,C ,C ,C ,F ,D ,D ,B ,C ,F 
+Manual,Carter,PG,FA,,30,72,178,C-,B-,C+,F+,B+,B ,F-,D+,D ,C-,C-,F-,C ,A ,B-,C ,A+,C ,B ,C ,F ,B ,B ,F ,C ,D ,D ,D ,F 
+Gaylord,Anderson,SG,Trail Blazers,RBSL,24,76,182,D-,D+,B+,C-,B ,A-,F+,D+,D-,C-,F-,D-,B-,A ,B-,C-,C+,D ,C ,B ,C ,A ,A ,D ,C ,D ,C ,F ,D 
+Luka,Samanic,PF,Nets,RBSL,21,82,217,C-,C ,C+,C ,D ,F+,D ,C-,D+,D-,F+,D+,C ,C ,C ,C ,C+,D ,C ,B ,C ,D ,F ,C ,C ,C ,D ,D ,C 
+Jude,Murphey,C,FA,,24,85,279,F+,D+,B-,F-,F-,D-,C ,D ,C ,F-,F ,C-,C-,D ,D-,B-,D ,F ,D ,B ,F ,F ,D ,C ,D ,B ,F ,F ,C 
+Nickolas,Brown,C,D-Jazz,D-RBSL,30,84,293,D+,D-,C ,F-,D+,D ,C ,D+,F+,D-,C ,C ,D ,C-,B-,A ,A ,D ,F ,C ,F ,D ,D ,C ,D ,F ,F ,C ,C 
+Walter,White,PF,FA,,33,80,266,F ,C-,C ,F-,C ,F+,F ,D-,C-,F+,D-,C-,A ,F-,F+,A-,C+,F ,D ,C ,F ,C ,F ,F ,F ,C ,F ,F ,D 
+Garland,Rosado,SG,D-Bucks,D-RBSL,27,77,215,D ,D ,C+,C ,C-,D-,F+,D-,F ,D+,D+,F ,B ,B-,C-,B+,A+,D ,D ,C ,C ,D ,D ,F ,F ,F ,D ,D ,F 
+Jamal,Williams,PF,D-Jazz,D-RBSL,32,81,262,D ,D ,C ,F-,C ,D ,C ,C ,C ,F+,D-,C ,A+,C-,D ,B ,A ,D ,D ,B ,F ,C ,D ,C ,C ,C ,F ,F ,C 
+Kieth,Clyburn,C,D-Warriors,D-RBSL,31,84,297,D-,C ,B+,F-,D+,D ,C-,C ,C-,F ,F+,B ,B-,F-,D-,A ,C ,F ,C ,B ,F ,D ,D ,D ,C ,D ,D ,D ,B 
+Lloyd,Houston,SF,FA,,22,81,236,C-,D-,C+,F-,D-,D ,D-,D-,F+,F ,D ,F+,B-,C ,F+,B-,B-,C ,D ,B ,F ,D ,D ,D ,D ,F ,F ,D ,F 
+Wayne,Phillips,PF,D-Hornets,D-RBSL,32,80,251,C-,C ,C+,C-,C-,D+,C ,C ,C+,D-,C ,C ,C+,D+,D+,A-,B+,D ,C ,C ,D ,D ,D ,C ,C ,C ,F ,C ,C 
+Chikae,Ofonagora,C,Timberwolves,RBSL,31,84,287,C ,C ,B+,D ,D+,F-,B+,C+,C ,F ,D ,B-,C-,C ,B ,A ,D+,C ,C ,B ,D ,D ,F ,A ,C ,C ,F ,D ,B 
+Zane,Nixon,C,D-Celtics,D-RBSL,32,84,295,C+,C ,D ,C ,D+,D+,B-,D+,D+,F ,D ,C-,C ,D ,F+,A ,C+,C ,C ,D ,C ,D ,D ,B ,D ,D ,F ,D ,C 
+Harry,Hoover,C,Timberwolves,RBSL,30,89,302,D+,C ,B-,F-,C ,D ,C ,A-,B-,D+,C-,B+,A ,C ,C ,A ,C+,D ,C ,B ,F ,C ,D ,C ,A ,B ,D ,D ,B 
+Anfernee,Simons,SG,Pelicans,RBSL,29,76,218,F-,B ,B ,B+,C ,C-,F+,D-,D-,C ,C ,D-,B-,A-,C ,D+,A-,F ,B ,B ,A ,C ,C ,D ,D ,D ,D ,C ,D 
+Linwood,Newman,C,FA,,24,80,252,F-,D+,C-,F-,D-,F-,C ,C-,C-,D-,D+,F ,B ,D-,C ,B+,C-,F ,C ,D ,F ,D ,F ,C ,D ,C ,F ,C ,F 
+Blake,Landry,SG,76ers,RBSL,27,76,200,C ,A ,A ,B-,C ,D+,D-,D-,D-,B ,C+,C-,F ,A ,B-,B-,B ,C ,A ,A ,B ,C ,D ,D ,D ,D ,B ,B ,C 
+Moritz,Wagner,C,FA,,31,83,281,D ,C ,C+,C+,C-,F ,C-,C-,D+,D ,C-,D ,D ,D+,D-,B ,B ,D ,C ,B ,C ,D ,F ,D ,D ,D ,D ,D ,D 
+Robert,O'Neill,C,FA,,23,83,262,D-,F ,C ,F-,F+,F+,D ,C-,C-,F ,F+,C-,A-,F-,D-,B+,C ,D ,D ,C ,F ,D ,D ,D ,C ,C ,D ,D ,C 
+Hugh,Wagner,C,FA,,25,82,266,F-,C-,B-,F-,D ,F ,C-,C ,C-,D-,D+,C-,B-,D ,C ,A-,B-,F ,D ,B ,F ,D ,F ,C ,C ,D ,F ,D ,D 
+David,Williams,PF,FA,,28,83,274,F ,F+,C+,F-,C-,F-,C-,D+,C ,F ,F ,D+,B-,F ,C ,B+,C ,F ,F ,C ,F ,D ,F ,D ,D ,C ,F ,F ,D 
+Ronald,Roach,SF,Grizzlies,RBSL,28,77,206,D ,C+,C+,D ,B-,D-,D+,D+,F ,C+,A-,C+,B-,B ,C ,C+,A-,D ,B ,C ,D ,B ,D ,C ,D ,F ,B ,A ,B 
+Richard,Diaz,SG,FA,,23,76,219,D+,D-,B-,C+,C ,D+,F+,F ,F-,D-,D+,D-,F ,B-,D+,B ,B ,D ,D ,B ,B ,C ,D ,D ,F ,F ,D ,D ,D 
+Tony,Davis,C,FA,,33,83,284,D ,C ,B ,F-,D ,F ,D ,C ,C ,F-,C ,D ,C ,F-,D ,C ,C ,D ,D ,B ,F ,D ,F ,D ,D ,C ,F ,C ,D 
+Ray,Smith,C,76ers,RBSL,22,86,254,D ,C+,C+,F+,C ,D-,B ,B-,C-,F-,C-,C ,C-,C-,B+,A-,B ,D ,C ,B ,D ,C ,D ,A ,B ,C ,F ,D ,C 
+Stephen,Rice,C,Spurs,RBSL,33,84,293,C ,C ,C ,D ,C-,D ,C+,C ,C+,D ,F+,B-,B+,F ,C-,C+,C+,C ,C ,B ,D ,D ,D ,B ,C ,C ,D ,F ,B 
+Ned,Barber,PG,Bucks,RBSL,22,73,177,D-,B-,B-,C ,C ,C-,C-,D-,D+,A ,A-,D-,C ,A+,A-,C ,A-,D ,A ,B ,C ,C ,C ,D ,F ,D ,A ,B ,D 
+Allen,Treat,SG,Spurs,RBSL,28,76,213,C-,C+,A ,D-,D ,F+,C-,D+,C-,B-,C-,D ,A-,A ,A ,C+,A ,D ,B ,A ,D ,D ,F ,D ,D ,D ,B ,D ,D 
+Bobby,Williams,SG,D-Raptors,D-RBSL,25,79,231,D+,C ,B ,C+,D ,F+,F ,C-,F+,C-,C ,D-,D-,B+,B-,B-,A+,D ,C ,A ,C ,D ,F ,F ,D ,D ,D ,C ,F 
+Matisse,Thybulle,SG,Bulls,RBSL,24,77,200,D ,B-,A-,C ,C ,D+,F+,D-,C-,B+,A-,B-,D+,C+,D+,C ,B ,D ,B ,A ,C ,C ,D ,F ,F ,D ,B ,A ,B 
+Brandon,Clarke,PF,Spurs,RBSL,24,80,218,C ,B-,C ,F-,C ,D-,C+,C ,B ,C+,C ,A-,B+,C+,C ,C ,B ,C ,B ,C ,F ,C ,D ,B ,C ,B ,B ,C ,A 
+Norbert,Kirk,C,D-Hornets,D-RBSL,32,83,283,C ,C+,B-,F-,C-,D ,D-,C+,C+,D-,C-,D-,C+,D ,D ,C ,A-,D ,C ,B ,F ,D ,D ,F ,C ,C ,D ,D ,F 
+Heinz,Heiß,SF,Magic,RBSL,26,78,220,F-,C ,A-,C+,C ,D-,F ,F+,F+,C+,B-,F+,B+,A-,C+,A ,A+,F ,C ,B ,C ,C ,D ,F ,F ,D ,C ,B ,F 
+Gary,Upton,SG,Lakers,RBSL,19,79,223,D ,C ,A-,D-,C ,F+,D+,D+,C-,D ,C-,D ,C-,A ,C-,C+,A-,D ,B ,A ,D ,C ,F ,D ,D ,B ,D ,C ,D 
+Yanick,Decourchelle,SF,Bulls,RBSL,34,81,261,C-,C-,C ,C-,C ,C ,C ,C+,C ,C+,C-,C ,C ,C+,C ,A-,A ,D ,D ,C ,D ,D ,D ,C ,C ,C ,C ,C ,C 
+Grant,Williams,PF,Pistons,RBSL,21,79,238,C-,C+,A-,C ,C-,C-,D+,C-,C ,D+,C-,B-,D+,C-,C ,B-,B+,C ,C ,A ,C ,D ,D ,C ,C ,B ,D ,C ,B 
+Gustavo,Castrilli,SG,Bucks,RBSL,20,77,212,F ,D ,C+,D-,D+,F+,F+,F+,D-,C-,F ,D-,F ,A ,B ,B-,C+,F ,C ,C ,C ,C ,D ,D ,C ,C ,B ,D ,D 
+Tony,Reid,SG,D-Rockets,D-RBSL,24,77,222,F ,C ,C+,C ,C-,F ,F+,C ,F+,D ,F ,F+,A ,B-,C ,C-,A-,D ,B ,C ,C ,D ,D ,F ,C ,D ,D ,F ,D 
+Darius,Bazley,PG,Knicks,RBSL,22,80,219,D+,C ,C+,C ,C-,F ,C-,C-,D ,D-,D-,C ,C-,C+,C+,D+,B-,C ,B ,C ,B ,C ,D ,C ,C ,D ,D ,D ,B 
+Andy,Wilson,PF,D-Suns,D-RBSL,32,83,277,F ,C ,D+,F-,D ,D+,C+,D+,C+,F+,D-,C-,F-,F-,C-,C+,C+,F ,C ,C ,F ,D ,D ,C ,D ,C ,D ,F ,D 
+Brian,Sears,SF,D-Pelicans,D-RBSL,25,79,224,F ,C-,C ,C-,C ,D-,D-,D ,F+,D+,F+,F ,D-,B ,C+,C+,A ,D ,D ,C ,D ,D ,D ,D ,D ,D ,D ,F ,F 
+Landry,Shamet,PG,Lakers,RBSL,31,76,210,D-,C+,A-,A-,B ,C+,F+,D+,D+,C+,C ,F+,A-,B+,C-,D+,C+,F ,C ,A ,B ,B ,C ,F ,D ,D ,C ,C ,F 
+Chris,Matthews,SF,Timberwolves,RBSL,25,78,228,D+,C+,A-,F+,D-,F-,D+,F+,D-,C ,C ,F-,B+,B+,A ,C+,A-,D ,C ,A ,F ,D ,F ,D ,F ,D ,C ,D ,F 
+Manolo,Passarella,SG,D-Suns,D-RBSL,24,73,193,C ,D ,C+,C ,C-,F+,F+,F ,F ,D ,F ,F ,B-,B+,C+,C+,B-,A ,C ,B ,B ,C ,F ,F ,F ,F ,D ,F ,F 
+Valentin,Molina,SG,Raptors,RBSL,24,76,210,C+,C-,C+,C+,F ,F+,D+,D ,F-,C ,B-,F+,C-,A-,C ,B ,A+,B ,C ,B ,A ,F ,D ,D ,D ,F ,C ,A ,D 
+Ermolai,Batkin,C,D-Celtics,D-RBSL,34,81,262,D ,C ,B-,F-,C ,F ,B-,C ,C+,F ,D+,B ,F-,D-,C-,C ,C ,D ,C ,B ,F ,C ,F ,B ,C ,B ,F ,D ,B 
+Daniel,Hodges,PF,D-Timberwolves,D-RBSL,31,82,276,C-,C ,C+,C+,D+,D-,C ,C ,C+,D-,F+,B-,A+,C ,F-,B+,B+,D ,C ,C ,C ,D ,F ,C ,C ,C ,D ,F ,B 
+Dusty,Frederick,PG,Pistons,RBSL,20,75,190,C ,B+,B ,A-,C+,D+,D+,F+,C-,C+,B-,C+,A+,A ,C ,D-,A+,C ,A ,A ,B ,B ,D ,D ,F ,D ,B ,B ,B 
+Matthew,Weaver,SF,FA,,33,81,264,D+,C-,B+,C+,C ,F ,F ,D+,D ,D ,F+,F+,D-,C ,F-,C+,A-,D ,C ,B ,C ,C ,F ,F ,D ,D ,D ,F ,F 
+Jonathan,Clark,SF,D-Mavericks,D-RBSL,26,77,209,C ,B-,B ,D ,C+,D+,F+,D ,F+,D ,C ,F+,C-,B-,C+,C+,B+,C ,B ,A ,D ,C ,D ,F ,D ,F ,D ,C ,F 
+Darnell,Carpenter,PF,Warriors,RBSL,32,80,255,C ,B ,C+,D-,C ,C ,B ,B-,A ,C ,C-,A ,C+,D ,C ,A-,C+,C ,B ,C ,D ,C ,C ,B ,B ,A ,D ,D ,A 
+Carl,Robinson,SG,FA,,27,75,212,D-,C ,B-,F+,C ,D+,D ,D ,F+,C-,F ,F+,C-,B ,C-,C-,A-,F ,D ,B ,F ,C ,D ,D ,D ,F ,D ,F ,F 
+Al,Williams,SF,D-76ers,D-RBSL,32,78,226,D ,C+,B+,C-,C-,D ,D ,C+,C ,C+,C ,C ,C ,B-,D-,B ,A-,D ,C ,A ,D ,D ,D ,D ,C ,D ,C ,C ,C 
+Jarvis,McCarthy,SG,Bucks,RBSL,29,77,235,C ,A+,B ,B ,C ,C-,D ,D+,D-,D+,C ,D+,D ,A ,C+,C-,A-,C ,A ,B ,B ,C ,C ,D ,D ,D ,D ,C ,C 
+Jan,Walters,SG,Cavaliers,RBSL,21,75,216,D+,D ,A-,F+,D ,F-,F+,D ,F-,D ,F ,F ,C ,B-,D ,C ,B+,B ,C ,A ,D ,C ,F ,D ,B ,F ,C ,D ,F 
+Douglas,Parker,PF,FA,,30,80,248,F-,C-,B-,F+,D+,D ,F+,D+,C-,C-,D ,C-,C ,D+,C ,A ,A-,F ,D ,B ,F ,D ,D ,F ,D ,D ,D ,D ,D 
+Bert,Allen,C,FA,,34,81,260,D ,C ,C-,C+,D ,F+,F ,D ,C-,F+,D ,D+,C-,F ,D-,C+,A-,D ,C ,C ,C ,D ,F ,F ,D ,D ,F ,D ,D 
+Ty,Jerome,PG,Celtics,RBSL,24,77,198,D+,C+,B-,B ,A-,C ,F-,D ,D-,C ,C+,F-,A-,C+,D+,C-,A ,D ,C ,B ,B ,B ,C ,F ,D ,F ,C ,C ,F 
+Alfonso,White,C,Bulls,RBSL,31,84,293,D+,D ,C ,F-,C ,F ,B+,A ,B ,D ,C-,A ,B-,F+,C ,A-,C-,D ,D ,C ,F ,C ,D ,B ,A ,B ,D ,D ,A 
+Jean,Smith,SG,FA,,21,73,193,D+,C-,B-,F-,D+,F+,F+,C-,F-,D+,D ,F ,C+,C+,C ,B ,C+,D ,D ,B ,F ,C ,F ,F ,C ,F ,D ,D ,F 
+Eugene,Johnson,PG,Pistons,RBSL,24,77,199,C-,B-,B+,C ,C ,D ,D ,D+,D ,D+,C+,F ,F-,A-,B-,B-,B+,D ,B ,B ,C ,B ,D ,D ,D ,D ,D ,C ,F 
+Chuckwuemeka,Enaharo,SG,Wizards,RBSL,22,77,226,F ,C ,A ,D+,D-,F+,F-,D-,F+,C-,C-,F+,C+,A ,A-,C ,A-,D ,A ,A ,B ,C ,D ,F ,D ,D ,C ,A ,D 
+Nicky,Amey,SG,D-Jazz,D-RBSL,28,79,211,F+,C+,B ,F+,C-,D+,F+,D-,F-,C ,D+,F+,C+,B-,C ,C+,B-,F ,C ,B ,F ,D ,D ,F ,F ,F ,C ,D ,F 
+Biyi,Ojomoh,SF,FA,,20,80,209,F ,D-,C ,F-,D-,F-,F ,F ,D ,F ,D+,F+,A ,C ,C ,C+,D+,F ,D ,C ,F ,D ,F ,F ,F ,C ,D ,B ,D 
+Antwann,Smith,C,FA,,25,83,273,F ,D-,C-,F-,D ,F ,C+,D ,C ,D-,D-,F+,F+,D-,C ,B-,B ,F ,D ,D ,F ,D ,F ,C ,D ,C ,F ,F ,F 
+Tony,Bradley,PF,Bulls,RBSL,35,83,292,C ,C+,C ,F-,C ,C ,A+,A-,B-,D+,D+,B+,C ,F ,F-,C+,D+,C ,C ,C ,F ,C ,C ,A ,B ,B ,D ,D ,B 
+Ralph,Vierra,SG,Celtics,RBSL,24,77,228,D ,B ,B-,C+,F+,F+,F ,C-,F ,D ,B-,C-,C ,A-,C-,B-,A+,D ,B ,B ,C ,F ,F ,F ,D ,F ,D ,B ,D 
+Brian,Green,SF,D-Lakers,D-RBSL,32,78,233,C-,C ,B+,C ,D+,F-,B-,C-,C ,D-,D-,C+,F ,C ,C ,A-,B ,D ,C ,B ,C ,D ,F ,B ,D ,C ,F ,F ,B 
+Elias,White,PG,D-Knicks,D-RBSL,22,78,210,F+,C ,A-,C-,C ,D ,F ,C-,F-,D+,D ,F ,F ,C ,C-,B-,C+,D ,C ,A ,C ,B ,D ,F ,C ,F ,C ,D ,F 
+Robert,Williams,C,Clippers,RBSL,30,82,269,C-,C ,C-,F-,C ,D+,A-,A-,B ,D+,C-,A-,A+,C-,B ,A ,B ,D ,C ,D ,F ,C ,D ,B ,A ,B ,D ,C ,A 
+Wilfredo,Hall,C,FA,,33,83,281,F+,C ,C ,F ,D-,F ,D ,C ,C ,C-,C-,C ,D+,F ,C-,B-,D+,F ,C ,C ,F ,F ,F ,D ,C ,C ,D ,D ,D 
+Jospeh,Lo,PF,76ers,RBSL,24,80,206,C-,D ,B-,C-,C-,F ,F ,F+,F-,C-,D-,F-,B+,A+,A ,A ,A+,C ,C ,B ,C ,C ,F ,F ,F ,F ,C ,D ,F 
+Nassir,Little,SF,Bucks,RBSL,21,78,223,C ,C ,B ,C-,D+,F ,C ,C ,C ,C ,D ,C ,D+,B-,C ,C-,B ,D ,C ,B ,D ,D ,F ,D ,C ,C ,C ,D ,C 
+Jacob,Evans,SG,Nuggets,RBSL,31,78,226,F ,C+,B+,B+,C-,C ,D+,D+,C-,C+,C+,C ,C+,B-,B-,C+,A ,F ,C ,B ,B ,D ,C ,D ,D ,D ,B ,C ,C 
+Chris,Williams,C,D-Jazz,D-RBSL,31,83,273,C-,C-,C ,F-,D+,F+,C+,C ,C ,F+,D-,C ,A-,C-,C+,A-,C+,D ,D ,C ,F ,D ,F ,C ,C ,C ,F ,F ,C 
+Tony,Diamond,SF,Timberwolves,RBSL,25,82,231,C ,C ,C ,C ,D+,F ,D-,D ,D+,D-,D ,F+,D ,C ,A-,B ,B ,C ,C ,C ,C ,D ,D ,D ,D ,D ,D ,D ,F 
+Charles,Anderson,SG,Jazz,RBSL,25,77,229,D ,A-,A ,C ,C ,D+,D-,C-,F ,C ,D+,F ,A ,C+,C+,C ,A ,D ,A ,A ,C ,C ,D ,F ,C ,F ,C ,D ,F 
+Kermit,Musso,C,D-Nuggets,D-RBSL,31,82,275,F+,F+,C-,F-,C-,F+,F+,B-,B+,F ,F ,D+,A+,F-,D ,A ,C+,D ,F ,D ,F ,C ,F ,F ,B ,B ,D ,D ,D 
+Jackson,Villeneuve,SF,FA,,22,80,214,D-,C ,C ,F-,D ,C-,F ,F-,F ,F+,F ,F ,B+,C ,C ,C+,C ,D ,B ,C ,F ,C ,C ,F ,F ,F ,D ,F ,F 
+Zane,Tuck,SF,FA,,27,77,221,F+,C ,A ,C-,F-,F+,D ,D-,F ,D-,F+,F+,C ,A-,C ,A ,A-,F ,C ,A ,D ,F ,F ,D ,F ,F ,F ,F ,F 
+Ned,Weathers,PF,FA,,30,79,243,F ,C-,C+,D-,D+,F+,D+,D+,C-,F+,C-,C-,C ,F+,D+,A-,B ,F ,C ,B ,D ,D ,F ,D ,D ,D ,F ,D ,D 
+Manuel,Blevins,SF,FA,,22,78,223,F ,D+,B ,F+,C ,D-,F+,D ,F ,F+,D ,F ,C-,C ,C-,B ,C+,F ,D ,B ,F ,C ,D ,F ,D ,F ,F ,D ,F 
+John,Mitchell,PF,FA,,30,79,242,D+,C-,B ,F-,D ,D-,F+,D ,C ,D-,C ,D ,B-,D-,C-,A ,B+,D ,D ,B ,F ,D ,D ,F ,D ,D ,F ,C ,D 
+Clifton,Mahaffey,SG,FA,,22,78,175,F+,D-,C ,F-,C-,F+,F-,F ,F ,C-,F+,F ,C ,B-,C-,C+,B ,F ,D ,B ,F ,C ,F ,F ,F ,F ,C ,D ,F 
+Maximiano,Iguaran,PF,D-76ers,D-RBSL,31,80,247,F+,C-,C+,F-,C ,D-,B+,C ,C ,F ,D-,D+,B-,D ,D+,A-,B ,F ,D ,C ,F ,C ,D ,B ,C ,C ,F ,D ,D 
+Dzanan,Musa,SF,D-Mavericks,D-RBSL,29,81,238,D-,C ,B ,C+,C ,C ,D-,D-,F ,D+,C ,D ,B-,B ,C-,C ,A-,F ,C ,A ,C ,C ,C ,F ,F ,F ,D ,C ,D 
+Floyd,Davis,SG,D-Thunder,D-RBSL,27,76,216,D-,C ,C+,C+,C ,D-,F+,F-,F ,D+,C-,D-,A-,B+,C+,B ,A ,D ,C ,C ,C ,C ,F ,F ,F ,F ,D ,D ,F 
+Zivota,Kraljevic,C,Kings,RBSL,30,83,281,B-,D-,C ,F-,C-,F-,C-,D+,A-,C ,C ,B ,B ,D-,C ,A-,A ,B ,D ,C ,F ,C ,F ,D ,D ,B ,C ,D ,B 
+Michael,Evans,SG,FA,,18,79,219,F+,C ,B-,D-,C-,F+,F ,F ,F ,C-,F ,F+,A ,C+,C ,C ,B ,F ,C ,B ,D ,C ,F ,F ,F ,F ,C ,F ,F 
+Paul,Cram,SF,FA,,26,76,215,C-,C-,C ,F ,D-,F ,D-,F-,F ,C ,D-,F+,C+,B ,C ,A-,B ,C ,D ,C ,F ,D ,F ,F ,F ,F ,C ,F ,F 
+Dylan,Windler,SF,Thunder,RBSL,24,80,205,D-,C+,A ,C+,D+,D-,D ,C ,D-,D+,C-,F+,B+,C ,C ,C+,B+,C ,A ,A ,B ,C ,D ,D ,B ,C ,C ,C ,D 
+Omari,Spellman,PF,D-Hornets,D-RBSL,31,81,255,F+,C ,C+,C ,D ,F ,C-,C ,D ,D-,D-,C ,A-,C ,F+,B+,A ,F ,C ,B ,D ,D ,F ,D ,C ,D ,F ,D ,C 
+Brian,Clack,SG,FA,,28,77,211,F+,C ,C ,D+,C ,C-,F ,D-,F-,A-,D-,F ,F-,B+,C-,A-,A ,F ,C ,C ,D ,C ,D ,F ,D ,F ,B ,D ,F 
+Rodrick,Taylor,PF,FA,,33,81,258,D-,F+,C+,F+,D+,F-,F ,D ,D ,F+,F ,F+,D-,F ,C ,B+,B-,F ,F ,B ,F ,D ,F ,F ,D ,D ,F ,F ,F 
+Armand,Welch,PF,FA,,31,82,270,D ,D+,C+,F-,C-,F+,B-,D ,C-,D+,C-,D+,C ,F ,C-,A ,C ,D ,D ,C ,F ,D ,F ,B ,D ,C ,D ,D ,D 
+Chester,Kirwan,SF,FA,,33,80,242,D-,D+,C ,D-,C-,D-,D+,D ,D ,D+,F+,C ,C ,C-,D ,A ,C+,F ,D ,C ,D ,D ,D ,D ,D ,D ,D ,F ,C 
+Ellsworth,Morse,SF,Mavericks,RBSL,20,78,217,D+,F ,C ,F+,D-,F ,F+,D ,F+,F+,F ,F+,C+,C+,C-,C+,B ,B ,D ,C ,C ,C ,D ,D ,B ,C ,D ,D ,D 
+Daniel,Henry,PG,D-Warriors,D-RBSL,25,72,219,F-,C ,B+,C ,C ,D+,F+,C ,F-,C ,D-,F ,C+,A-,C-,F+,A-,F ,C ,B ,C ,C ,D ,F ,C ,F ,C ,F ,F 
+Jere,Chew,SG,Bulls,RBSL,24,78,193,C+,D ,C+,C ,C-,D+,F-,F-,D+,B ,C-,C-,C ,A-,B+,D ,A ,C ,D ,B ,C ,C ,D ,F ,F ,D ,B ,D ,D 
+Harris,Land,PG,D-Nets,D-RBSL,27,77,214,F+,D+,A-,C-,C-,F+,D+,D+,D-,C-,D ,F ,A ,A ,C+,B ,A ,F ,D ,A ,D ,C ,D ,D ,D ,D ,C ,D ,F 
+Don,Delacruz,C,FA,,31,87,295,F-,D-,C ,F-,D ,D-,C-,D-,C+,F+,F+,F-,A ,F+,D ,A ,C+,F ,F ,C ,F ,D ,F ,D ,F ,C ,F ,F ,F 
+Elie,Okobo,PG,Nets,RBSL,30,75,212,D-,A-,A-,A ,C+,C ,F ,D+,F+,D ,C ,F ,C-,A-,C ,C ,A-,D ,A ,A ,A ,B ,B ,F ,D ,F ,C ,C ,F 
+D'brickashaw,White,SG,D-Cavs,D-RBSL,36,77,235,C ,C+,B+,C-,D+,D ,D ,D-,F+,C-,D-,F+,B ,B-,C+,C ,B+,C ,C ,A ,D ,D ,D ,D ,D ,F ,C ,D ,F 
+Jevon,Carter,PG,D-Cavs,D-RBSL,33,74,215,D ,C-,B ,C+,C-,C-,D-,C-,D+,C+,B-,F+,C-,A-,D+,C ,A+,D ,D ,B ,C ,D ,D ,F ,D ,D ,C ,B ,F 
+Ivan,Nedic,SF,Bulls,RBSL,35,81,246,D ,D ,C+,C ,C ,C-,D ,C ,C ,C+,C+,C-,C+,B ,C ,C ,A ,D ,D ,C ,C ,C ,D ,D ,C ,C ,C ,C ,D 
+Graig,King,SF,D-Thunder,D-RBSL,26,83,279,D ,C+,B-,F-,D ,F+,B-,D ,D ,F ,C-,C-,A ,C+,C ,C+,A+,D ,C ,A ,F ,D ,F ,B ,D ,D ,F ,D ,D 
+Rich,Colella,C,D-Grizzlies,D-RBSL,29,82,276,C ,C-,C+,F-,C-,F ,C-,A-,C ,F-,D+,C-,F ,F+,C+,A-,B-,C ,D ,B ,F ,C ,F ,D ,B ,C ,F ,D ,D 
+Jonas,Blane,SG,Celtics,RBSL,26,78,208,B-,D+,C ,C+,C+,C ,C ,C-,F+,C-,C ,D+,C ,A ,A-,C+,A-,B ,C ,C ,B ,B ,C ,D ,D ,D ,C ,C ,D 
+Mfiondu,Kabengele,C,Nets,RBSL,24,82,253,C-,C ,C+,C ,F+,F-,B-,C ,C+,D ,D-,A-,D ,C ,C ,B-,B-,C ,B ,B ,B ,D ,F ,B ,C ,B ,D ,D ,A 
+Tony,Johnson,SG,FA,,26,79,218,D-,C-,B+,D-,C ,D-,D-,F-,D-,F+,D-,F+,B-,C+,C-,D+,A-,D ,D ,B ,D ,D ,F ,F ,F ,F ,F ,D ,F 
+Jordan,Poole,SG,Warriors,RBSL,22,77,198,C ,B-,A ,B ,C ,C-,F-,F+,D-,C ,D+,F+,B-,B ,C ,C ,A ,C ,B ,A ,A ,C ,D ,F ,D ,D ,B ,C ,F 
+Wilfred,Tello,C,Kings,RBSL,32,82,281,A ,A-,B+,C ,D ,C-,A+,C ,A-,D-,C-,A+,A+,F-,F-,A ,A-,A ,A ,B ,C ,D ,C ,A ,C ,B ,D ,D ,A 
+Karl,Franz,SG,Mavericks,RBSL,29,77,228,C+,A-,B+,C ,B ,C ,D ,D+,D+,B ,D ,D+,A-,A+,B ,C ,A+,B ,A ,B ,C ,B ,C ,D ,D ,D ,B ,D ,D 
+Marco,Prentice,SG,D-Knicks,D-RBSL,23,77,201,F ,D ,B+,C-,D ,F-,F ,F ,F ,D-,D ,F+,C ,B-,C ,C-,B+,F ,C ,B ,C ,C ,F ,F ,D ,F ,D ,C ,D 
+Aldo,Fogle,SG,D-Hornets,D-RBSL,29,76,232,D ,C-,A-,C-,D+,D+,F ,C-,D-,D ,C-,F+,F+,A-,C ,C ,A ,D ,D ,A ,D ,D ,D ,F ,D ,F ,D ,D ,F 
+Ike,Anigbogu,PF,Grizzlies,RBSL,34,82,277,F+,C-,C-,F-,F+,F ,B ,C ,B ,C-,D ,A-,F ,C-,C ,A ,D ,F ,D ,D ,F ,D ,F ,B ,C ,B ,D ,D ,A 
+William,Salzman,PG,Bucks,RBSL,26,77,216,D+,C ,B+,C+,D+,D-,F+,D ,F+,C ,C ,D+,D ,A-,B+,B-,A+,C ,C ,B ,B ,D ,D ,F ,C ,D ,C ,C ,C 
+Keldon,Johnson,SF,Celtics,RBSL,20,78,213,C-,C ,C ,C+,C-,D+,F ,C-,D+,C-,F ,F-,C ,C ,B ,C ,B+,C ,C ,C ,B ,C ,D ,F ,C ,D ,C ,F ,F 
+Harris,Anderson,SF,D-76ers,D-RBSL,22,79,231,C+,C+,C+,F+,D ,D-,D+,D+,D-,F+,C-,D-,C+,C ,D+,B ,C ,C ,C ,C ,F ,D ,D ,D ,D ,D ,F ,D ,F 
+Kevin,Porter Jr,SF,Celtics,RBSL,21,78,220,D+,C-,F+,C+,C ,D ,F-,F+,F ,C-,D ,D-,F+,C+,C+,D+,B ,D ,C ,D ,A ,C ,D ,F ,D ,D ,B ,C ,D 
+Jeffrey,Marsh,SF,Lakers,RBSL,18,80,192,F ,D-,B ,F ,D ,F-,D-,F ,D-,F+,F-,F ,A-,C+,D+,C ,C+,D ,C ,B ,D ,C ,F ,C ,D ,C ,C ,F ,D 
+Gary,Beer,PG,D-Jazz,D-RBSL,33,79,233,D-,C ,C+,B ,C ,D ,F ,C ,D ,C+,C-,C ,A+,C ,D+,C ,B ,D ,C ,B ,B ,C ,D ,F ,C ,D ,C ,D ,C 
+James,Martin,PF,FA,,33,83,273,F+,D-,D+,F-,D ,F ,C-,C ,D ,F+,D+,C ,A ,D-,C+,C+,B+,F ,F ,D ,F ,D ,F ,D ,C ,D ,F ,D ,C 
+Adrián,Albornos,SG,Trail Blazers,RBSL,22,78,189,F ,C ,C+,C+,C ,D ,D ,D+,D-,C ,D-,F+,C+,A ,B-,D-,B-,F ,C ,B ,B ,B ,D ,D ,C ,D ,B ,D ,D 
+Miguel,Barrichello,SF,D-Pistons,D-RBSL,29,77,217,C-,B ,A ,C-,C ,F+,F ,D+,F+,C ,D+,D-,C ,B ,C ,A-,A-,D ,B ,A ,D ,C ,F ,F ,D ,F ,C ,D ,F 
+Brian,Harris,PF,FA,,34,82,267,D+,C-,C+,F-,C ,F-,D ,D+,F+,F ,F ,C-,A+,D-,F+,A ,B-,D ,D ,B ,F ,C ,F ,D ,D ,F ,F ,F ,D 
+Joseph,Wells,SG,D-Celtics,D-RBSL,22,77,208,C ,D+,B-,D ,C-,D-,F ,D-,F ,D ,C-,F+,F-,B ,B-,C+,A-,C ,D ,B ,D ,C ,D ,F ,D ,F ,D ,C ,F 
+Lonnie,White,C,D-Magic,D-RBSL,30,83,286,C+,C-,C+,F-,C-,F-,C ,C ,B-,D ,D ,C-,C+,D+,D ,C+,C ,C ,D ,C ,F ,D ,F ,C ,C ,B ,D ,D ,D 
+John,Martinez,SF,D-Timberwolves,D-RBSL,27,80,219,D-,C ,C+,D ,C ,D+,D+,C-,D+,C ,C ,F+,C ,C ,C ,B+,A-,D ,C ,B ,D ,C ,C ,D ,D ,D ,C ,C ,F 
+Blaise,Siakam,PF,Kings,RBSL,23,81,240,D ,D ,C+,F-,D ,D+,B ,C ,C ,D ,F+,B-,A ,C+,C+,B+,B+,D ,C ,B ,D ,C ,D ,B ,C ,C ,C ,D ,B 
+Erberk,Odabasi,SG,Pistons,RBSL,23,77,203,F+,D+,B ,C ,D+,F+,F-,D ,F ,B ,D-,F ,C ,B ,B-,C ,B+,D ,C ,B ,B ,C ,D ,F ,D ,D ,A ,D ,F 
+Hugh,McIntyre,C,D-Pelicans,D-RBSL,33,87,290,D ,D ,C ,F-,D-,F-,D-,C ,C ,F-,F-,C ,C ,F-,D ,A ,C ,D ,D ,C ,F ,F ,F ,F ,C ,C ,F ,F ,C 
+David,Allen,PG,FA,,30,74,209,D ,C-,C ,C ,C ,F ,F ,F+,F ,C ,D-,D ,F-,C ,D+,C+,A+,D ,D ,C ,C ,C ,F ,F ,F ,F ,C ,D ,D 
+Gabriel,Sutphin,SF,D-Hornets,D-RBSL,26,78,225,D+,C ,A ,C-,C ,D-,F+,D-,F ,D+,D+,F-,B+,C+,C ,B ,B ,D ,C ,A ,C ,D ,D ,F ,D ,F ,D ,D ,F 
+Frederic,Moore,C,Clippers,RBSL,32,85,304,B ,B-,C ,D-,C-,D ,C ,C+,B+,C ,C-,C+,A-,C-,D+,A-,C ,B ,B ,C ,F ,D ,D ,C ,C ,B ,C ,D ,C 
+Kelley,Veloz,PF,FA,,24,80,247,D+,D ,C ,F-,C ,F+,D+,C-,C-,F ,D ,C ,C-,F+,B+,A-,C ,D ,D ,C ,F ,C ,F ,D ,D ,D ,F ,D ,C 
+Charles,Luck,C,D-Kings,D-RBSL,30,82,281,C ,D+,C-,F-,C-,F ,D-,C ,C ,F ,F+,C-,C+,D ,B-,B ,B ,C ,D ,C ,F ,D ,F ,D ,C ,C ,F ,D ,D 
+Bautista,Hoyos,PF,FA,,24,80,237,F ,C ,C+,F-,D+,F ,C-,D ,D ,F-,D+,B-,C ,D+,D-,B ,C-,F ,C ,B ,F ,C ,F ,D ,D ,D ,F ,D ,B 
+Ray,Boyer,C,FA,,32,85,302,D ,C-,B ,F-,D+,F ,D ,D+,C-,F-,D ,C-,B+,F ,D-,A ,B-,D ,D ,B ,F ,D ,F ,D ,D ,D ,F ,D ,D 
+Bastiaan,Miron,C,FA,,28,84,292,C-,D ,C ,F-,C-,F+,F ,D-,C ,F ,D-,D+,A-,F+,D+,A ,C ,D ,D ,C ,F ,D ,F ,F ,D ,C ,F ,F ,D 
+Ernie,McCulley,SG,D-Spurs,D-RBSL,22,79,219,D-,C ,B-,F ,D ,F+,F-,F ,F ,C ,D ,F ,A ,B+,D+,B+,A ,D ,B ,B ,F ,D ,F ,F ,F ,F ,C ,D ,F 
+Madut,Kiplagat,C,Pacers,RBSL,38,91,316,C ,C+,B+,C+,C ,C-,C ,A-,C+,C-,D+,A+,C ,D-,F-,B-,D+,D ,C ,A ,C ,C ,D ,C ,A ,C ,D ,D ,A 
+Rufus,Metzger,PF,FA,,32,79,245,F ,D ,C-,F-,F ,D+,F+,C+,D+,D-,D-,C ,A ,F ,D ,B-,A ,F ,D ,D ,F ,F ,D ,F ,C ,D ,F ,F ,C 
+Delmar,Estrada,SG,D-Grizzlies,D-RBSL,22,78,231,D-,C-,B-,C ,C ,F-,F ,F+,F-,C ,C ,F ,C ,B-,C ,C ,C ,F ,D ,B ,C ,C ,F ,F ,F ,F ,C ,C ,F 
+Romeo,Stevenson,PG,D-76ers,D-RBSL,34,80,245,F ,D+,B ,F-,C+,D-,C-,C-,C-,C-,C+,B ,C+,C-,C ,B+,B ,F ,D ,B ,F ,C ,F ,D ,D ,D ,D ,C ,B 
+Preston,Freeman,SF,Trail Blazers,RBSL,19,78,217,D+,C-,B ,D ,C ,F+,F+,F ,C-,D ,F+,C ,C ,C+,C ,C ,B-,D ,D ,B ,D ,C ,F ,F ,F ,D ,D ,F ,C 
+Bryan,Sandoval,PF,D-Thunder,D-RBSL,33,81,256,C-,D ,C ,C ,D-,D-,D-,C-,C ,F ,F-,D ,B ,D+,C ,A+,B ,D ,D ,C ,C ,F ,D ,F ,D ,C ,F ,F ,D 
+Frank,Smith,SF,FA,,22,80,203,D-,D ,C+,F ,C-,F ,D ,F+,D-,F ,F+,D-,C-,C-,C+,C+,B ,D ,D ,B ,F ,C ,F ,D ,D ,D ,F ,F ,D 
+Nicholas,Claxton,C,Celtics,RBSL,22,83,226,D+,D+,C-,C-,F ,F-,C ,C-,C ,F ,F ,C+,C+,D ,B ,C ,A-,D ,D ,D ,D ,D ,F ,C ,C ,B ,D ,D ,B 
+Kendall,Hanson,SG,D-Timberwolves,D-RBSL,23,75,230,D+,C ,C ,D-,D ,D-,D+,D-,F+,C+,B ,F+,C-,B ,C-,C+,B-,D ,C ,C ,D ,D ,D ,D ,F ,F ,B ,B ,F 
+Steve,Theis,SF,FA,,19,80,214,D-,D-,C+,C-,D ,F+,D+,D-,F+,C-,D-,F+,B-,C-,C ,B ,D+,D ,D ,B ,C ,C ,D ,C ,D ,D ,B ,D ,D 
+Louis,Garrison,PF,D-Thunder,D-RBSL,24,79,233,C ,C ,C-,F+,C ,D ,C ,C ,C+,D+,C-,D ,C-,C ,C ,C+,A ,D ,C ,D ,D ,C ,D ,C ,C ,C ,D ,C ,D 
+Ricky,Hammond,SF,Mavericks,RBSL,22,78,221,C ,C-,C+,C ,C-,D+,D-,D+,F-,C+,C-,F+,F+,B-,B-,D-,A-,C ,D ,B ,C ,C ,D ,F ,C ,F ,B ,C ,D 
+John,Jones,SF,D-Timberwolves,D-RBSL,26,79,231,F+,C+,C+,D-,C-,C-,C-,C-,D-,C-,C-,D ,C-,B-,C ,B-,B+,F ,C ,B ,F ,D ,D ,D ,D ,F ,D ,C ,D 
+Wilbert,Smith,C,D-Cavs,D-RBSL,33,82,269,F+,C ,B-,B-,C ,D ,C-,C ,C ,F ,C ,F+,C+,F ,C-,B+,D+,F ,C ,B ,B ,C ,D ,D ,C ,C ,F ,C ,F 
+Demetrio,Degeorgio,PF,D-Nuggets,D-RBSL,32,80,247,C-,C-,C+,D-,C-,F ,C ,B ,C+,C-,C+,B+,B-,F ,F-,A-,B+,D ,C ,C ,F ,D ,F ,D ,B ,C ,D ,C ,B 
+Douglas,Moore,SG,FA,,24,77,187,D ,C ,A-,F-,D+,F ,F+,D ,F-,C ,F+,F-,A ,B-,D+,B-,C ,D ,C ,A ,F ,D ,F ,D ,D ,F ,C ,F ,F 
+Justin,Cochran,SF,Cavaliers,RBSL,30,77,216,C+,A-,C+,D-,C ,C-,F-,D-,C-,C ,C-,D ,D-,A-,C ,C ,A ,B ,A ,C ,D ,C ,D ,F ,D ,C ,C ,C ,D 
+Gregory,Waters,SF,Lakers,RBSL,21,83,200,F-,F+,C ,F-,D+,D-,F+,D-,D ,D ,D-,F+,A ,B-,C ,C ,A-,F ,D ,C ,F ,B ,C ,D ,C ,B ,C ,C ,D 
+Vecchio,MacDonald,PG,Celtics,RBSL,22,75,190,C-,C ,B-,C ,C ,D ,D-,C-,D+,C-,C ,F+,C-,A ,A ,C ,B+,C ,C ,B ,B ,A ,C ,D ,B ,C ,C ,B ,D 
+Eric,Crawford,C,FA,,30,84,292,D-,C ,C-,F-,D+,D-,D ,C-,D+,D-,D-,D+,F ,F ,C-,A ,B+,D ,C ,D ,F ,D ,F ,D ,D ,D ,F ,F ,D 
+Conrad,Winslow,PF,FA,,23,80,242,F+,D ,C ,F-,F ,F ,C ,D+,F+,F ,F+,C-,A-,F+,D+,B+,C ,F ,D ,C ,F ,F ,F ,C ,D ,D ,F ,D ,D 
+Cameron,White,SG,FA,,28,74,202,D+,C+,C+,F-,C-,D+,F ,D+,F ,D+,D ,F+,F+,B-,C ,C ,A+,D ,B ,B ,F ,D ,D ,F ,D ,F ,D ,D ,F 
+Cesar,Russell,SF,D-Hawks,D-RBSL,33,79,236,D ,B-,C ,D+,C-,C-,D ,C ,C ,C+,C ,B ,F-,B ,C-,A-,A+,D ,B ,C ,D ,D ,D ,D ,C ,C ,C ,C ,B 
+KZ,Okpala,SF,Knicks,RBSL,22,81,227,D+,C-,C ,C+,D ,D ,D ,D ,C-,C-,D-,D ,A ,C ,C ,C-,A-,D ,C ,C ,B ,D ,D ,D ,D ,C ,C ,D ,D 
+Albert,Vega,SF,D-Raptors,D-RBSL,22,79,223,D-,D ,C ,C ,C+,D+,C ,C-,D ,F+,D+,D+,A ,C+,C+,C ,A-,D ,D ,C ,C ,B ,D ,B ,C ,D ,F ,D ,D 
+David,Buckner,PF,Grizzlies,RBSL,31,83,277,C+,C+,C+,F-,C ,C-,B ,B+,B ,C ,C ,A ,A+,C ,A-,B-,A ,C ,C ,B ,F ,C ,C ,B ,B ,B ,C ,C ,A 
+Scott,Lee,SG,D-Nuggets,D-RBSL,29,81,225,F+,C ,B ,D ,D+,F+,F+,D-,F ,D+,F+,F+,B-,A-,C-,C+,A ,F ,C ,A ,D ,D ,F ,F ,D ,F ,D ,F ,F 
+Lodovico,Esposito,SG,D-Bucks,D-RBSL,25,76,212,D-,C+,C+,C ,D ,D-,C-,F+,F-,C-,F+,F ,A-,B+,C+,C ,A ,D ,B ,B ,C ,D ,D ,C ,D ,F ,C ,F ,F 
+Rhett,Saleh,SF,FA,,22,77,236,D-,C ,B-,F-,C ,F-,D-,C-,C-,D ,D ,F ,F-,C ,C ,C ,C+,D ,C ,B ,F ,C ,F ,D ,D ,D ,D ,D ,F 
+Ronald,Evans,PG,Celtics,RBSL,21,75,183,C-,D+,C ,C ,D+,D ,F ,F ,F-,D ,C-,F ,F-,A-,C ,C-,B ,B ,C ,C ,C ,C ,D ,F ,F ,F ,C ,B ,F 
+Douglas,Bond,SF,D-Magic,D-RBSL,33,82,261,D ,C+,B+,C+,D+,C-,F ,F ,C-,C-,D-,F ,C+,C ,B-,B-,B-,D ,C ,B ,C ,D ,D ,F ,F ,D ,D ,F ,F 
+Robert,Rochelle,PF,D-Magic,D-RBSL,33,80,251,C-,D+,C ,F-,C-,D+,A-,C ,C ,F+,D-,F ,A+,D-,F-,A-,C ,D ,D ,C ,F ,D ,D ,B ,B ,C ,D ,D ,F 
+Walker,Castaneda,PF,D-Pelicans,D-RBSL,24,80,239,C ,C+,A-,C ,C+,D+,D+,D+,D+,C-,D ,F ,A+,C ,C-,B ,C+,D ,C ,A ,C ,C ,D ,D ,D ,D ,D ,D ,F 
+Carsen,Edwards,PG,Warriors,RBSL,23,73,202,C ,B-,A-,A-,C+,C-,F ,D-,D-,C ,C ,F+,B+,A-,C+,D ,A-,B ,B ,A ,B ,C ,D ,F ,D ,D ,C ,C ,F 
+Stanley,Thomas,SF,FA,,21,79,229,F-,C-,B ,D ,D+,F-,F ,F-,F ,F+,F+,D-,B+,C ,D ,C+,C-,F ,A ,B ,C ,C ,F ,F ,F ,F ,D ,D ,D 
+Henry,Williams,C,Lakers,RBSL,24,79,223,D+,C ,B-,D ,D+,F+,F+,C-,D-,C-,F ,D ,B-,C-,C ,C+,B ,B ,B ,B ,C ,C ,D ,D ,B ,C ,C ,D ,C 
+Brian,Gonzalez,SF,FA,,25,81,221,D-,C-,C+,D ,D+,F+,F ,F ,D ,D-,D+,F ,B ,C ,C+,B+,B+,F ,C ,B ,D ,D ,F ,F ,F ,D ,F ,D ,F 
+Jack,Thomas,SG,D-Wizards,D-RBSL,23,78,205,F+,B-,B ,D+,C-,F ,F ,D ,F-,C ,D+,F+,D ,B-,D+,C+,A ,D ,A ,A ,C ,C ,F ,F ,C ,F ,C ,D ,D 
+Bobby,Gonzalez,SG,Magic,RBSL,25,77,204,B ,C+,B+,A ,C ,D-,D-,D+,C-,C ,C+,F+,D+,A ,A-,B ,A ,B ,B ,B ,A ,C ,D ,F ,D ,C ,C ,B ,F 
+Keven,Hardin,C,FA,,22,84,244,D ,D ,C+,C-,F-,F ,C-,C ,C ,F ,F ,C-,B-,F ,C-,B-,D ,D ,D ,B ,C ,F ,F ,C ,C ,B ,F ,F ,C 
+Cirino,Cuenca,PF,FA,,23,80,241,C ,C-,B+,F-,D+,F ,F ,D ,C ,F ,F+,C ,D-,F+,F+,B+,D+,C ,C ,B ,F ,C ,F ,F ,D ,C ,F ,D ,C 
+Raul,McCoy,SF,Celtics,RBSL,22,80,223,C-,C+,B-,C+,C+,D ,D-,F+,D ,F+,D ,D+,C+,C+,C-,C ,B ,C ,C ,B ,C ,B ,D ,D ,D ,D ,D ,D ,D 
+James,Bonney,PF,D-Knicks,D-RBSL,33,80,253,D ,C ,A-,C ,D-,F+,D ,C ,C ,F+,D+,D-,F-,D ,D+,B+,C+,D ,C ,B ,C ,D ,F ,D ,C ,C ,F ,D ,D 
+Gabriel,Ledesma,SG,Jazz,RBSL,22,78,204,C-,C ,B-,C ,C ,C-,F ,D-,D-,C ,C ,F+,C ,C+,D+,C-,C-,B ,B ,A ,C ,C ,C ,D ,D ,F ,A ,C ,D 
+Dee,Williams,SF,FA,,21,82,220,F ,F+,C ,F ,D+,F ,F+,F ,F+,C-,F ,F ,F ,C-,D-,B-,C-,F ,D ,C ,F ,C ,F ,D ,F ,D ,B ,D ,D 
+Donnie,Sammons,SF,FA,,26,79,229,D-,B-,B-,D-,C ,F+,D-,C-,D-,D ,D-,F+,F+,C ,C ,A ,B+,D ,B ,B ,F ,C ,F ,F ,D ,F ,D ,D ,F 
+Gary,Boyle,PF,FA,,33,82,269,D ,D ,C ,F-,D+,F+,D ,C ,C-,D ,F+,F+,A+,D+,C ,B+,B+,D ,D ,C ,F ,D ,F ,D ,C ,D ,D ,F ,F 
+Brenton,Garcia,PF,Heat,RBSL,25,84,238,C ,C-,C ,F-,C-,F+,D+,D ,A ,F ,A-,C+,C ,D-,C ,C+,C+,C ,D ,C ,F ,D ,D ,D ,D ,A ,D ,B ,B 
+Elijah,Cuff,PF,D-Spurs,D-RBSL,23,79,239,D ,D ,C+,F+,C ,D-,D+,C ,D ,F-,F ,A-,C+,C-,C-,C+,C-,D ,C ,C ,D ,C ,D ,D ,B ,D ,F ,D ,A 
+Henry,Borges,SG,FA,,24,77,202,F ,C-,B ,F-,C ,F-,D ,D-,F-,D ,D ,F-,C+,C+,C-,C+,C+,F ,D ,B ,F ,C ,F ,D ,D ,F ,D ,D ,F 
+Terrence,Carter,PF,D-Pistons,D-RBSL,24,80,248,B+,C ,B-,C ,C-,F+,D ,D ,D+,D-,F+,C ,A-,C ,C ,C+,B ,B ,C ,B ,C ,D ,D ,D ,D ,D ,D ,F ,C 
+Bruno,Fernando,SF,Raptors,RBSL,23,82,250,D+,C ,B-,F-,F ,F ,C+,C+,D+,F ,D+,C ,C+,C ,C-,B-,B+,D ,C ,B ,F ,F ,F ,B ,A ,C ,F ,D ,B 
+Vladimir,Chopp,PF,D-Nuggets,D-RBSL,24,81,236,C-,F+,D+,F-,D+,F-,C+,B-,C-,D ,F+,C ,A+,D+,C-,C+,B ,C ,D ,D ,F ,C ,F ,C ,B ,D ,D ,D ,C 
+Jalen,Brunson,PG,FA,,32,75,198,D+,C ,A-,C-,C ,C-,F ,F+,F+,D ,D+,F-,B ,B-,F ,B-,A ,D ,C ,B ,D ,C ,D ,F ,F ,F ,D ,D ,F 
+Alan,Sparks,PF,Hornets,RBSL,29,80,248,C+,C+,C-,F-,C ,D+,B ,C+,C ,D-,C-,D+,B-,C+,D+,A ,A-,C ,C ,D ,F ,D ,D ,B ,C ,C ,D ,D ,D 
+Marcos,Silva,SG,Pacers,RBSL,22,77,193,D-,D+,C ,C-,F+,F-,F+,D-,F+,D ,D-,F-,F+,C+,C-,C ,C ,C ,C ,C ,B ,D ,F ,D ,D ,D ,C ,D ,F 
+Javier,Goodman,SF,D-Bulls,D-RBSL,27,78,230,B+,C ,B ,D-,C-,F+,D+,F ,C ,D ,D-,C+,B-,C ,D ,A ,B-,B ,B ,B ,F ,D ,D ,D ,F ,C ,D ,F ,C 
+Carl,Hogg,PF,FA,,31,81,255,D-,C-,C+,F ,D ,F+,F ,C-,F+,F+,D-,C-,C-,D-,C ,A ,B-,F ,D ,C ,F ,D ,F ,F ,D ,F ,F ,D ,D 
+Wendell,Williams,SF,D-Pistons,D-RBSL,25,78,231,A-,C ,C ,C ,B ,C-,C ,D-,D-,F-,F+,F+,C+,C+,C ,C+,B+,A ,C ,B ,C ,B ,C ,C ,D ,D ,F ,F ,D 
+Cody,Martin,SF,FA,,25,79,212,F+,D+,C ,C-,C-,F+,F ,D-,D-,D+,D ,D-,C+,C ,D+,C+,B+,D ,B ,C ,C ,B ,D ,D ,D ,C ,C ,C ,D 
+David,Carter,SG,D-Mavericks,D-RBSL,29,76,202,F+,D+,C ,F-,D+,F+,D-,D-,D-,B+,C-,D ,A ,B ,C ,C ,A+,D ,D ,B ,F ,D ,F ,F ,D ,D ,A ,D ,D 
+Darren,Simmers,C,D-Warriors,D-RBSL,35,83,291,C+,D+,C+,C ,C+,D+,C-,C ,C+,D ,D ,C ,A ,F-,D+,B-,C ,C ,D ,B ,C ,C ,D ,D ,C ,C ,D ,D ,C 
+George,Frankel,SF,FA,,20,79,219,D-,C-,A-,C-,D+,F+,D-,F+,D ,F+,F+,D ,F+,C-,F+,C ,B ,D ,C ,A ,C ,C ,F ,D ,F ,D ,D ,F ,D 
+Severiano,Bacigalupa,SG,D-Cavs,D-RBSL,27,78,222,F+,C+,B-,C ,C-,D ,F ,D ,C-,D ,D+,F+,F+,C ,D+,C+,A ,F ,B ,B ,C ,D ,D ,F ,D ,D ,D ,D ,F 
+Darin,Leonard,SG,D-Heat,D-RBSL,30,77,216,C ,C ,B-,C ,C ,D-,F-,D ,D-,C+,C ,F ,C ,B+,C-,B-,A+,C ,C ,B ,C ,C ,D ,F ,D ,D ,B ,C ,F 
+Rudolf,Call,SF,Clippers,RBSL,18,79,214,F+,F+,C ,F-,D+,F ,D-,D+,C-,D ,D-,D+,D-,C-,F ,C ,D+,D ,D ,C ,F ,C ,D ,D ,C ,B ,D ,D ,C 
+Lloyd,Daniels,SF,Lakers,RBSL,23,78,216,C-,C ,A-,D-,D ,D ,F+,C-,D ,C ,F+,F+,C ,C-,C ,C+,D+,C ,B ,A ,D ,C ,D ,D ,B ,D ,B ,F ,D 
+Darrel,Kelley,PF,D-Suns,D-RBSL,24,79,244,D+,D+,C+,F-,C ,F+,C ,C ,B+,F+,F+,C ,C ,D ,D ,B ,C-,D ,D ,C ,F ,D ,D ,C ,C ,A ,D ,F ,C 
+Deividas,Sirvydis,SF,FA,,21,80,201,F ,D ,C ,D+,F+,F-,F+,D-,D-,D+,D+,F ,C-,C ,F+,C ,C-,D ,C ,C ,C ,D ,D ,D ,D ,D ,C ,C ,F 
+Henry,Jones,SG,D-Pelicans,D-RBSL,29,77,215,F ,C-,A-,C-,C+,C-,D ,F ,F+,C-,C-,F+,A+,B ,C ,B-,A ,F ,D ,A ,D ,C ,D ,D ,F ,F ,D ,D ,F 
+Vern,Bobb,PF,Suns,RBSL,32,80,247,C-,C ,C+,F-,C-,F-,B-,C ,B ,D ,D-,B-,C+,D+,C ,A-,C ,D ,C ,C ,F ,D ,F ,B ,C ,B ,D ,D ,B 
+Daniel,Gafford,PF,Knicks,RBSL,22,83,242,D+,D-,C-,F-,F ,F-,C ,B-,C ,D ,D-,B ,B-,C ,C ,C+,B ,D ,D ,D ,F ,D ,F ,C ,B ,C ,D ,D ,B 
+Serafim,Melenas,SF,D-Trail Blazers,D-RBSL,25,79,238,F ,C-,B-,B ,C ,D ,D ,D ,D+,D-,D-,D+,C ,C ,C-,C+,A ,F ,C ,B ,B ,C ,D ,D ,D ,D ,D ,D ,C 
+Bill,Williams,SF,FA,,22,80,232,C ,C-,C ,D-,C-,D ,F ,F+,D-,F ,C ,F ,D-,C ,C-,B+,C+,C ,C ,C ,D ,C ,D ,F ,D ,D ,F ,C ,F 
+Alphonse,Ramirez,SF,FA,,27,80,238,F ,C ,B-,D+,C ,D-,D ,F+,F+,D+,D+,F+,A-,C+,C ,A-,A-,F ,C ,B ,D ,D ,F ,D ,F ,F ,D ,D ,F 
+Herschel,Anderson,SF,FA,,26,81,233,D-,C ,B-,D ,D ,F+,D+,F+,C ,C ,D-,D-,C+,C+,C-,A-,B ,D ,D ,B ,D ,D ,F ,D ,F ,C ,C ,F ,F 
+Cecil,Marcus,PF,D-Celtics,D-RBSL,23,82,246,C ,D ,C+,F-,D+,F+,D+,C-,C+,F ,C ,D-,C+,D ,C ,B ,C ,D ,D ,B ,F ,D ,F ,D ,D ,B ,F ,C ,D 
+Dustin,Pompey,SF,D-Grizzlies,D-RBSL,27,80,235,D-,C ,C+,C ,C ,F+,D ,B ,D-,C ,C-,C ,A+,B ,C ,A ,A-,D ,C ,B ,C ,C ,D ,D ,B ,D ,C ,C ,C 
+Edward,Davisson,SF,D-Nets,D-RBSL,25,79,230,C-,C ,B+,F-,C ,D-,C-,C ,C ,D-,C ,C-,C-,C ,C ,B-,A ,D ,C ,A ,F ,D ,D ,D ,C ,D ,F ,C ,D 
+David,Williams,SF,FA,,28,81,247,D-,B+,C ,B+,C ,D-,C-,C-,D ,C+,C ,F+,B+,C ,C ,A-,A-,D ,B ,B ,B ,C ,D ,D ,D ,D ,C ,D ,F 
+Ryan,Harris,SF,FA,,32,80,234,F-,D+,C ,C+,D+,D-,F+,D ,D+,C ,C+,D+,A ,D-,C+,A+,A-,F ,D ,C ,B ,D ,F ,F ,D ,D ,C ,C ,D 
+Devonte',Graham,PG,D-Grizzlies,D-RBSL,33,74,196,F+,C ,A ,A-,C+,C ,F ,D+,D+,C ,B ,F ,A ,C+,F-,C-,A ,F ,C ,A ,B ,C ,C ,F ,D ,D ,C ,B ,F 
+Roldán,Zavarjelos,SF,FA,,21,78,193,D-,D ,B-,D ,C ,F ,F-,F+,F+,C-,D-,D ,C-,C-,C-,C ,C ,D ,D ,B ,D ,C ,F ,F ,F ,D ,C ,D ,D 
+Tory,Laguna,PF,FA,,26,82,267,D+,D+,C-,F-,C-,F+,D+,C ,C-,F ,D-,F ,C ,D+,C+,B+,B ,D ,D ,D ,F ,D ,F ,D ,C ,D ,F ,F ,F 
+Alen,Smailagic,PF,Jazz,RBSL,21,82,219,D ,D ,C ,D-,F+,F+,C ,C-,C ,D-,D ,C ,F ,C-,D ,C+,B-,D ,D ,C ,D ,D ,D ,B ,C ,C ,D ,C ,B 
+Aubrey,Cavender,C,D-Wizards,D-RBSL,32,83,283,C-,D-,C ,F-,C ,D ,C ,C ,D ,F+,F-,C-,D+,C-,C ,C ,B+,D ,F ,C ,F ,C ,D ,C ,C ,D ,F ,F ,D 
+Houston,Moore,PF,FA,,33,79,248,F+,D+,C ,F-,C-,F ,D+,D ,C-,F-,D-,C-,C ,C-,C-,B ,C ,F ,D ,C ,F ,D ,F ,D ,D ,D ,F ,F ,D 
+Bill,Curtis,PF,D-Clippers,D-RBSL,32,81,251,C ,C+,C+,F-,D-,D-,C ,D ,D+,C-,C-,C ,C ,C-,C ,A ,B-,C ,C ,B ,F ,D ,F ,C ,D ,D ,D ,D ,C 
+Dan,Orman,SF,D-Nuggets,D-RBSL,30,80,238,C+,C-,B ,C ,C-,F+,D ,D+,D-,C+,C ,D ,C+,C ,C-,B+,B+,C ,D ,B ,C ,D ,F ,D ,D ,D ,C ,C ,D 
+Owen,Lamb,PF,Timberwolves,RBSL,28,79,227,C+,C ,B ,D-,C ,F+,C-,C ,D ,D-,C-,D ,C ,C+,B-,A ,B+,C ,C ,A ,F ,C ,F ,D ,C ,D ,F ,D ,D 
+Charles,Driggers,PF,FA,,26,80,234,D+,F ,C-,F-,D+,F ,F+,D ,C ,D+,F+,F+,C-,D ,B+,A-,A-,D ,F ,D ,F ,D ,F ,F ,D ,C ,D ,F ,F 
+Timothy,Townsend,SF,Pistons,RBSL,24,80,219,D ,C+,B ,F+,C ,D-,C-,C ,C ,C-,C ,D-,C+,B+,B ,A-,B-,C ,B ,B ,F ,C ,D ,C ,C ,B ,C ,B ,B 
+Melvin,Frazier,PG,FA,,32,78,225,F ,D+,C ,C-,D+,D ,D+,D ,D+,C-,C ,D ,C ,C ,C+,B ,B ,F ,D ,C ,D ,D ,D ,D ,D ,D ,D ,C ,D 
+Angelo,White,C,FA,,32,83,286,C+,C-,C ,F-,F+,D-,C+,A ,C ,C-,D+,B ,D-,F ,F+,B-,C ,C ,D ,C ,F ,F ,D ,B ,A ,C ,D ,D ,B 
+Justin,James,SG,FA,,24,79,203,D+,C-,C+,C-,D+,D+,F ,C-,D-,C-,C-,F+,B ,C ,C ,D ,B+,D ,D ,C ,D ,D ,D ,F ,D ,D ,D ,D ,F 
+Dewey,Brogdon,SG,Raptors,RBSL,22,77,216,D+,B ,A ,B ,C+,C+,D-,C ,C-,B ,C-,F+,C+,C+,B-,B ,B+,D ,B ,A ,B ,C ,B ,F ,C ,C ,B ,D ,F 
+Michael,Foster,PF,Timberwolves,RBSL,27,81,229,B ,B-,C+,C-,D+,D-,C-,C-,C-,C-,C ,C-,C+,B-,A-,B ,A+,B ,B ,B ,C ,D ,F ,D ,C ,D ,C ,C ,D 
+Elvis,Tsang,SG,FA,,30,76,228,F ,D-,C ,F ,C ,F ,F ,F+,F-,C ,C+,D-,D+,B+,C-,C ,A+,F ,D ,C ,F ,C ,F ,F ,F ,F ,C ,C ,F 
+Eric,Paschall,PF,D-Pacers,D-RBSL,22,81,257,C ,C ,B ,C+,D ,F+,D-,D+,C-,D ,F+,D-,A+,C ,C+,C ,A-,C ,C ,B ,C ,D ,F ,D ,D ,C ,D ,F ,F 
+Olayemi,Ayo,C,Warriors,RBSL,37,82,284,D+,C-,C ,F-,F ,F+,B ,C+,C ,F+,D-,B+,B ,C-,C-,A-,C ,D ,D ,C ,F ,D ,F ,B ,C ,C ,F ,F ,B 
+Chris,Gordan,PF,Nets,RBSL,33,79,232,B+,C+,B ,F-,C ,F-,C+,C ,C ,C ,F ,F+,C ,C ,C-,C+,B ,B ,C ,B ,F ,C ,D ,C ,C ,C ,C ,F ,F 
+Fernando,Ballesteros,C,FA,,30,81,268,F+,C-,C+,F-,C-,F ,C ,D-,C-,F+,F ,C ,A+,D ,C-,A+,C+,F ,D ,B ,F ,D ,F ,C ,F ,C ,F ,F ,C 
+Dana,Brown,SF,FA,,24,79,244,F ,C+,C+,C ,C ,D-,F ,F+,F+,D-,D+,F+,C ,C ,C ,B ,B ,F ,C ,C ,C ,C ,F ,F ,F ,F ,D ,D ,F 
+Russell,Davis,C,FA,,25,84,261,F+,C-,D+,F-,D-,F+,C+,D ,C-,F-,F ,C-,C ,F-,C-,B+,F+,D ,C ,D ,F ,D ,D ,B ,D ,C ,F ,D ,C 
+Jed,Mitchell,PF,FA,,26,81,247,D ,D-,C ,F-,C ,F+,C ,D+,C-,F ,D-,C-,C ,D ,D-,A-,C ,D ,F ,C ,F ,C ,F ,C ,D ,D ,F ,F ,D 
+Mitchell,Robinson,C,Magic,RBSL,30,84,290,F-,C ,C-,F-,C-,F ,C+,C ,D+,D ,C ,B+,C-,D+,C ,A+,B ,F ,C ,D ,F ,D ,F ,B ,C ,D ,D ,C ,B 
+Gary,Trent Jr.,SF,D-Wizards,D-RBSL,28,78,230,F+,C ,A ,C+,C-,D-,F+,D ,D+,D ,C-,F ,A-,B ,C-,C ,A ,F ,C ,A ,C ,D ,F ,F ,D ,D ,D ,D ,F 
+Douglas,Davis,C,FA,,33,82,277,D ,C-,B+,C-,C ,F ,D+,F ,C ,F ,F+,C ,C-,C-,F ,A ,C ,D ,D ,A ,D ,D ,F ,D ,F ,C ,F ,F ,C 
+Justin,Briley,SF,D-Thunder,D-RBSL,29,80,232,D ,C-,C ,C ,C ,F+,C-,F+,D+,D+,D ,D ,B-,C ,C-,A-,B ,D ,D ,C ,C ,C ,F ,D ,F ,D ,D ,D ,D 
+Khyri,Thomas,SG,Cavaliers,RBSL,32,75,221,F+,B-,C+,A-,C ,C ,D ,C ,C ,B ,A ,D-,C+,C+,F-,C ,B+,D ,B ,B ,A ,D ,C ,D ,C ,C ,B ,A ,D 
+Cole,Allen,SF,Hornets,RBSL,18,80,198,D+,B ,A-,D ,C ,C ,C ,D ,C+,D ,D+,C ,C ,B ,B-,C+,A ,D ,B ,A ,D ,B ,C ,C ,D ,B ,D ,D ,C 
+Bo,Patrick,PF,D-Trail Blazers,D-RBSL,24,83,251,C-,C-,C+,F-,C ,D-,C ,D ,C ,C ,C ,C ,C ,C ,B-,B+,A-,D ,D ,C ,F ,C ,D ,C ,D ,C ,C ,C ,D 
+Admiral,Schofield,PF,D-Bucks,D-RBSL,24,78,243,C-,C+,C+,B ,C ,D-,F+,D ,D+,C ,F+,F+,C ,C-,C-,C ,A-,C ,B ,C ,B ,C ,F ,F ,D ,D ,C ,D ,F 
+Leroy,Collins,PG,FA,,27,81,238,F ,C+,C+,F-,C ,D ,D ,F ,C ,C-,D-,D-,C ,C+,C ,A ,B+,F ,B ,C ,F ,C ,D ,D ,F ,C ,C ,F ,D 
+Larry,Rodriguez,SF,Thunder,RBSL,25,77,229,C ,B+,C+,C ,C+,D ,C ,C-,D ,C ,C ,C-,A ,A ,C+,C-,A-,C ,B ,B ,C ,B ,D ,C ,D ,D ,C ,C ,D 
+Loren,Cofer,SG,Cavaliers,RBSL,29,79,223,C ,B-,B ,F-,C-,F+,C-,C-,F ,B ,F+,F+,C ,A-,C+,A-,A+,C ,B ,A ,F ,D ,D ,D ,C ,D ,B ,F ,F 
+Malachi,Baker,PG,Spurs,RBSL,29,79,219,C ,B+,B+,D-,C+,C-,D ,D+,F-,A-,C ,F+,F+,A ,A-,B ,A ,C ,B ,B ,D ,B ,D ,D ,D ,F ,B ,C ,F 
+Ron,French,SF,D-Magic,D-RBSL,28,78,249,C ,B+,B+,C ,D ,D+,D+,C-,C+,C ,C-,F+,C-,C ,A-,B+,B+,C ,B ,A ,C ,D ,C ,D ,D ,B ,C ,D ,F 
+Tyron,Allen,SF,D-Kings,D-RBSL,25,79,237,D ,C ,B ,D+,D ,D ,F+,D-,D+,F+,D ,C+,F-,C ,C ,A-,B+,D ,C ,B ,D ,D ,D ,F ,D ,D ,D ,D ,B 
+Jaylen,Nowell,PG,FA,,22,76,201,F+,D-,C ,D ,F-,F-,F-,F ,F ,F+,F+,F-,C+,B-,D+,C ,B+,D ,C ,C ,B ,D ,F ,F ,D ,D ,D ,D ,F 
+Marcellus,Keith,PF,D-Hawks,D-RBSL,25,80,233,D-,D+,C ,F-,C-,F ,D+,C+,C-,F-,D ,D ,C-,D ,C-,B+,C-,D ,D ,C ,F ,D ,F ,D ,B ,D ,F ,D ,D 
+Tony,Humbert,PF,D-Cavs,D-RBSL,33,80,255,C-,C ,B ,C ,C+,D+,D-,F ,C ,F+,C ,C ,D ,D+,C ,B-,A-,D ,C ,B ,C ,C ,D ,F ,F ,C ,F ,C ,D 
+Earnest,Stephens,C,D-Bucks,D-RBSL,32,87,295,D-,C ,C-,F-,C-,D+,C ,D+,C ,F-,C-,C+,C-,F-,C-,A-,C+,D ,C ,D ,F ,D ,D ,C ,D ,C ,F ,D ,B 
+Thomas,Gooch,C,D-Pelicans,D-RBSL,28,84,286,C-,F-,D ,F-,C-,D+,D+,C-,C+,F+,F ,C ,C-,C-,D-,A+,A-,D ,F ,D ,F ,D ,D ,D ,D ,C ,F ,F ,C 
+Samuel,Hackler,PF,D-Hawks,D-RBSL,24,83,252,D+,C-,C ,C-,C-,D-,D-,C+,C-,D-,F-,C ,C ,C ,C ,B+,C ,D ,C ,B ,C ,D ,D ,D ,B ,D ,D ,F ,C 
+Brian,Maria,PF,Trail Blazers,RBSL,30,80,238,C ,A ,A-,C ,C ,D-,D+,F+,F+,C-,C ,C-,C-,A-,B ,C ,A ,C ,A ,A ,C ,C ,D ,D ,D ,D ,D ,D ,C 
+Avery,Hillard,PF,FA,,26,80,241,D ,C ,B ,F-,D-,F+,C ,C-,D+,D-,D ,D ,A ,C-,C ,B+,C+,D ,C ,B ,F ,D ,F ,C ,C ,D ,D ,D ,D 
+Richie,Sander,SG,FA,,28,79,219,F+,D ,C+,F-,D ,F+,F+,F ,F ,D ,D ,F-,A ,B+,C ,C+,A ,F ,D ,B ,F ,D ,F ,F ,F ,F ,D ,D ,F 
+Clay,Brinkley,PF,D-Heat,D-RBSL,25,82,262,C+,C ,C+,F-,C ,F+,C-,D+,C ,D-,F+,C ,B+,D ,D+,A ,C-,C ,C ,C ,F ,C ,F ,D ,D ,C ,D ,F ,D 
+Edwin,Johnson,PF,D-Celtics,D-RBSL,33,79,231,C ,C ,B+,C-,B-,D ,C ,C-,C-,D+,C ,B-,A ,C-,D ,B ,B ,C ,C ,B ,D ,B ,D ,C ,D ,C ,D ,C ,B 
+Shad,Jaco,PF,D-Magic,D-RBSL,32,80,246,D ,C-,C+,F-,F-,D+,B-,C-,C ,F ,D+,C-,D+,D ,C-,A-,B ,D ,D ,B ,F ,F ,D ,B ,D ,C ,F ,D ,D 
+Harris,Harris,C,Spurs,RBSL,23,86,261,C-,F+,C ,F-,C-,F+,C ,B+,B-,F ,D-,A-,D-,F-,D+,A ,D-,C ,D ,C ,F ,D ,D ,C ,A ,B ,F ,D ,A 
+Jason,Martin,SF,FA,,21,80,190,D+,D ,C ,C-,C-,F+,F ,D+,D ,D-,F+,D ,C ,C-,C-,A-,C+,C ,D ,C ,C ,C ,D ,F ,D ,D ,D ,F ,D 
+Bol,Bol,C,D-Bucks,D-RBSL,20,86,246,D-,C-,C ,C-,F+,F-,D+,C ,C ,F+,F+,C ,A ,F+,D ,C ,B ,D ,C ,C ,C ,F ,F ,D ,C ,C ,F ,F ,C 
+Amando,Polo,PF,Hornets,RBSL,25,81,233,D-,C+,B+,C+,C ,F+,F+,C-,C-,D ,C ,C ,C-,C+,B+,A-,C ,D ,A ,B ,A ,C ,D ,F ,C ,C ,D ,C ,C 
+Bernie,Jones,PF,FA,,24,84,241,F ,D ,C ,F-,D-,F+,C-,C+,D ,D ,D-,F+,C+,D+,D+,C ,B ,F ,D ,C ,F ,D ,F ,D ,B ,D ,D ,D ,D 
+Kelvin,Acker,SF,FA,,34,74,202,F+,C ,B+,D ,C ,D+,F+,F ,F ,C ,C ,F ,B+,A-,D-,C ,A+,F ,C ,A ,D ,C ,D ,F ,F ,F ,C ,C ,F 
+Isiah,Roby,SF,FA,,23,80,230,D-,D-,C-,C-,D-,F ,D ,C-,D+,D ,C-,C ,F+,C ,C ,C ,B ,F ,D ,D ,D ,D ,F ,D ,D ,D ,D ,D ,C 
+Norbert,Bybee,SF,FA,,33,80,239,D ,C-,B-,F-,F+,F+,C ,D-,D-,D-,C ,D-,A+,C-,F-,A-,B ,D ,D ,B ,F ,F ,F ,C ,D ,F ,F ,D ,F 
+Hans,Gonzalez,SF,Celtics,RBSL,20,79,232,D-,C-,B-,F+,D+,F ,C ,D-,C-,C+,D+,C-,C+,C+,C+,B+,B ,D ,A ,B ,D ,C ,F ,A ,C ,C ,A ,C ,C 
+Viljem,Preseren,SF,Kings,RBSL,24,82,251,C ,B ,C ,D+,C-,D-,F+,C ,C-,D-,D+,D+,C ,B-,A-,C+,A ,C ,B ,C ,D ,C ,F ,F ,C ,C ,D ,D ,D 
+David,Davis,SF,FA,,32,80,238,F+,C ,C+,F-,D+,F+,D-,D ,D-,D-,D+,F+,B-,F+,F+,A-,B ,F ,C ,B ,F ,D ,F ,D ,D ,F ,D ,D ,F 
+Karp,Ghukov,SF,D-Celtics,D-RBSL,31,78,234,C ,C ,C-,C ,C ,D-,F ,D+,C ,F+,D+,D-,A ,C ,C ,B ,A-,C ,C ,D ,C ,C ,F ,F ,D ,C ,F ,D ,D 
+Cody,Boyd,C,Trail Blazers,RBSL,22,83,264,D ,C ,C ,F+,B ,D+,C+,C ,B-,D-,C+,B+,C-,C-,B+,B-,C ,D ,C ,C ,D ,B ,D ,B ,B ,B ,D ,B ,A 
+Kris,Jones,C,FA,,27,80,271,D-,D-,F ,F-,F ,F+,C+,D ,C ,F-,F-,D-,A-,F+,C-,A ,C ,D ,D ,F ,F ,F ,F ,B ,D ,C ,F ,F ,D 
+Isaac,Bonga,PF,Kings,RBSL,28,80,234,C ,C ,A ,C ,C ,B+,C ,C+,C-,C+,D+,D-,B ,C ,F+,B-,A-,D ,C ,A ,C ,C ,B ,C ,C ,C ,C ,D ,D 
+Joseph,Davis,PG,D-Heat,D-RBSL,22,73,206,D ,B ,A-,F+,C ,D+,F ,F ,F ,C ,C-,F-,A+,B ,C-,C+,A-,D ,A ,B ,D ,C ,D ,F ,F ,F ,C ,D ,F 
+Scot,Dalton,SF,D-Bucks,D-RBSL,22,79,228,D-,D+,A-,C ,C ,D-,D+,D ,C-,F+,D-,D ,B ,C-,C ,C-,D+,D ,C ,A ,B ,C ,D ,C ,D ,C ,F ,D ,D 
+Antone,Brown,PF,D-Kings,D-RBSL,28,80,238,B ,C+,C ,F ,C ,D+,C-,C ,D+,D ,D-,C-,C+,C-,C ,B-,B ,B ,C ,C ,F ,C ,C ,C ,C ,D ,D ,D ,D 
+Randy,Bennett,PF,FA,,22,82,251,D+,C-,C+,F-,C ,D+,D-,C-,F+,F ,D-,C+,C-,C ,C-,B+,A-,D ,D ,C ,F ,C ,C ,D ,D ,F ,F ,D ,C 
+Paul,Maggio,PF,FA,,25,81,241,D-,D+,B-,F-,C-,F+,D+,C-,C ,F ,F+,D-,C-,D-,C ,B-,B+,F ,D ,B ,F ,D ,F ,D ,D ,C ,F ,F ,F 
+Horacio,Ortiz,SF,D-Warriors,D-RBSL,24,78,218,F+,C ,C ,C ,C-,D ,D ,C ,D ,F+,D ,D ,C-,C ,C-,C-,B+,D ,C ,C ,A ,C ,D ,D ,C ,D ,D ,D ,D 
+Rodions,Kurucs,PF,D-Mavericks,D-RBSL,30,81,239,D-,C ,C ,C ,D+,D+,D ,D ,D ,C-,D-,D-,A ,C+,C ,C+,B+,D ,C ,C ,C ,D ,D ,D ,D ,D ,D ,D ,F 
+Jarred,Vanderbilt,PF,D-Raptors,D-RBSL,29,81,266,F-,D ,C ,F-,C-,D ,C ,C ,C ,D+,D-,C-,C-,C ,A ,A ,B ,F ,D ,C ,F ,D ,D ,C ,C ,C ,D ,D ,D 
+Mathew,Adams,PF,FA,,26,82,247,D+,C ,B-,F-,D+,F+,D-,C-,C-,F ,F+,C-,C+,D-,C-,B-,C-,D ,B ,B ,F ,D ,D ,D ,C ,C ,D ,D ,C 
+Chris,Stafford,SF,FA,,25,79,228,C-,C-,C+,F ,C-,D-,F ,F ,D ,C-,F+,D ,B+,C ,D-,C+,C ,C ,B ,B ,F ,C ,C ,F ,F ,C ,B ,D ,C 
+Alphonso,Seeger,SF,FA,,27,78,233,D-,C ,B ,F+,C-,D ,C-,D+,D ,C-,D ,F+,D ,C ,D-,A ,A-,D ,C ,B ,F ,D ,D ,D ,D ,D ,C ,D ,F 
+Bruce,Brown,SG,Nuggets,RBSL,32,77,221,C ,C ,C+,C ,C-,C ,C-,C+,C ,B-,B ,C-,C ,B-,C-,B ,A ,D ,C ,C ,C ,D ,C ,D ,C ,C ,B ,B ,C 
+Mickey,Johnson,PF,Suns,RBSL,28,81,247,C+,B ,A-,C-,C-,B-,D ,C-,C+,C ,D ,D-,D-,A-,B-,B ,A ,B ,A ,A ,D ,C ,B ,D ,D ,C ,C ,D ,D 
+Andrew,Paul,SF,FA,,21,78,222,D ,D ,C ,F-,D-,D+,C-,D-,D ,F+,D+,F+,A ,C ,C ,C+,A-,D ,D ,C ,F ,D ,D ,C ,D ,D ,D ,C ,D 
+Sherman,Holm,SF,FA,,27,80,231,D ,D ,C ,C-,C-,F ,F-,F ,F+,D+,D-,D-,C-,C-,C ,A-,C ,D ,D ,B ,D ,C ,F ,F ,F ,F ,D ,F ,D 
+Jayson,Adkins,PF,D-Pelicans,D-RBSL,31,82,277,F ,C-,B-,F-,C ,D+,C ,C ,C+,C-,D+,C ,D ,C-,D ,A ,B+,F ,D ,A ,F ,C ,D ,C ,C ,C ,D ,D ,C 
+Rob,Rodriguez,PG,Clippers,RBSL,25,74,199,F ,B ,B ,A-,B ,C+,D+,C ,D+,C ,C+,C ,A-,A+,A-,C ,A ,F ,B ,B ,A ,B ,C ,D ,C ,D ,C ,C ,C 
+Daniel,Bernard,SF,FA,,21,80,192,D-,C-,C+,D-,D-,D-,D+,F+,D-,F-,D-,F-,C-,C ,C ,C ,B-,D ,C ,B ,D ,D ,D ,C ,F ,D ,F ,D ,F 
+Jonathan,Anderson,SF,Pelicans,RBSL,27,79,230,F+,C ,B+,B ,C ,D+,C+,D ,D+,D ,D-,C ,C ,C+,C ,C+,A ,F ,C ,A ,B ,C ,D ,C ,D ,D ,D ,D ,C 
+William,Hernandez,PF,Celtics,RBSL,26,81,248,B ,C ,C ,F+,C-,D ,C ,C ,A-,D+,C ,C+,B-,C ,C ,B-,A-,B ,C ,C ,D ,C ,D ,C ,C ,A ,C ,C ,C 
+Remigio,Ortiz,SF,FA,,27,82,231,F ,C+,A-,F-,C-,D-,F-,D-,F+,C ,C-,D-,A+,C-,C-,A-,C ,F ,C ,B ,F ,D ,D ,F ,F ,F ,C ,D ,D 
+John,Harris,SG,FA,,29,79,232,C-,D+,B-,D-,D ,D ,F ,F-,F ,C-,F+,F-,F ,B ,C ,B-,A ,D ,D ,B ,D ,D ,D ,F ,F ,F ,D ,F ,F 
+Gino,Jackson,SF,FA,,24,78,226,F ,D+,C ,D ,C-,F ,D-,F-,D-,F+,F+,F+,A-,C+,C ,A ,B+,F ,D ,C ,D ,D ,F ,F ,F ,D ,F ,F ,F 
+Talen,Tucker,SG,FA,,19,76,234,D ,C+,C ,C ,C ,D+,F ,D-,D-,C+,C ,D ,C-,C ,D ,C ,B+,D ,B ,D ,C ,C ,D ,F ,D ,D ,B ,B ,D 
+Deandre,Brown,PF,FA,,24,80,254,F ,D ,C ,F ,D ,F+,D-,D+,F+,F ,F ,D ,B ,C-,C ,C+,C-,F ,D ,C ,F ,D ,F ,F ,D ,F ,F ,F ,D 
+Rudy,Wilkinson,PG,Bulls,RBSL,22,77,205,D ,D ,C ,F-,C-,D+,F-,F+,F+,C-,D+,F+,D+,A ,C ,C+,C+,D ,C ,C ,F ,B ,C ,F ,D ,D ,B ,C ,D 
+Ignas,Brazdeikis,SF,FA,,22,79,222,D-,C ,A-,C+,C ,F+,F+,D+,D ,D ,F ,D-,C+,C-,C ,C-,B+,D ,C ,B ,B ,C ,F ,F ,C ,D ,D ,F ,D 
+Cai,Cong,PG,FA,,28,77,236,C ,D ,C ,D-,F+,F+,F+,F+,C-,F ,D+,D-,C ,A-,C ,C+,A ,C ,D ,C ,D ,F ,F ,F ,F ,D ,F ,D ,D 
+Terance,Mann,PF,Mavericks,RBSL,23,79,217,D-,C ,B+,C ,C ,C-,F+,D-,D-,C-,F+,F+,C+,C-,C ,C-,A-,D ,B ,B ,C ,C ,D ,D ,D ,D ,D ,F ,F 
+Quinndary,Witherspoon,PG,FA,,25,76,207,F+,D-,C ,D ,F-,F-,F ,F ,F+,D-,D-,F-,B ,C ,C+,C+,B+,D ,C ,C ,C ,D ,F ,F ,F ,F ,D ,D ,F 
+Daniel,Larson,C,FA,,24,85,267,F+,C-,C ,F-,D ,F+,D ,C ,C-,F-,F+,C ,C ,F-,C-,A-,C ,D ,C ,C ,F ,D ,D ,D ,C ,C ,F ,D ,B 
+Jeffry,Stogner,PF,FA,,26,82,259,D+,C-,C+,F-,C-,F+,C-,D+,D-,F ,F-,C-,C+,D+,C ,C+,C-,D ,D ,B ,F ,D ,F ,D ,D ,F ,F ,F ,D 
+Jarrell,Brantley,SF,FA,,25,79,257,D ,D ,C ,D ,F ,F-,F+,D ,D+,D-,D ,D-,C ,C-,C-,C+,C+,D ,D ,C ,D ,F ,F ,F ,C ,D ,D ,D ,D 
+Gary,Griffin,PG,76ers,RBSL,37,78,231,C-,C-,A-,B-,A-,C ,C ,D+,C-,C ,B ,C+,A+,B ,C ,A ,A-,D ,C ,A ,B ,A ,C ,D ,D ,D ,C ,B ,B 
+Laocoon,Stamatis,PG,FA,,23,79,228,D-,D-,C+,F-,D ,F-,B+,D+,C-,F ,F-,C-,A ,D+,C-,C+,A ,D ,D ,B ,F ,D ,F ,B ,C ,C ,D ,F ,C 
+Winfred,Jones,SF,FA,,27,79,230,C ,F+,C-,F-,C ,F ,D-,D+,F+,F+,D ,D-,B+,C ,D+,A-,C ,C ,F ,C ,F ,C ,F ,F ,D ,F ,F ,D ,D 
+Jay,Jackson,SF,Bulls,RBSL,31,79,239,D+,B-,B-,A ,C-,D ,B+,A-,B ,C+,C+,C+,A+,C-,C-,B ,B+,D ,B ,B ,A ,D ,D ,B ,B ,B ,B ,C ,C 
+Terrance,Baltazar,SG,Jazz,RBSL,29,79,229,D-,A-,B ,C+,C ,D-,D+,B ,C+,B-,F+,C-,D ,B ,D+,B+,A ,D ,B ,A ,B ,C ,D ,D ,B ,C ,B ,F ,D 
+Issuf,Sanon,SF,Knicks,RBSL,28,76,203,D-,A ,B ,C+,C ,C ,D-,D ,C ,B+,B+,D-,B-,B+,B-,C+,B ,D ,A ,B ,C ,D ,C ,D ,D ,C ,B ,A ,D 
+Tremont,Waters,PG,FA,,23,71,177,D-,D ,C ,D ,D-,F+,F-,F ,F ,C-,C-,F-,B ,B+,C-,C-,B+,C ,C ,C ,C ,D ,D ,F ,F ,F ,C ,B ,F 
+Jackson,Martinez,SF,FA,,24,79,228,F+,F+,C+,F-,C ,F+,F+,D ,C ,D-,D-,D-,C ,C ,D+,B+,C+,F ,F ,C ,F ,C ,F ,F ,D ,C ,D ,F ,F 
+Horace,Doucet,PG,Timberwolves,RBSL,26,79,246,C ,C ,B ,F+,B ,C-,C-,C-,C ,B-,C+,C ,A ,A-,A ,A-,A ,D ,C ,B ,F ,B ,C ,D ,D ,C ,B ,C ,C 
+Charles,Moore,PF,FA,,31,81,256,F+,D ,C ,F-,D+,D ,D-,C-,D+,F+,D-,D ,A-,D-,C ,B ,A ,F ,D ,C ,F ,D ,D ,D ,D ,D ,F ,F ,D 
+Enoch,Johnson,SF,FA,,27,78,243,D+,C ,A ,F ,D ,F ,D+,D ,F+,F ,D-,D-,C+,C ,C+,A+,B-,D ,C ,A ,F ,D ,F ,D ,D ,F ,F ,D ,F 
+Niko,Jevtic,C,Heat,RBSL,29,84,295,B+,D+,C ,F-,D ,F-,B+,C+,A+,F-,D ,A+,B-,D+,B+,A ,C+,B ,D ,C ,F ,D ,D ,B ,C ,A ,D ,C ,A 
+Bryan,Harding,PF,Lakers,RBSL,22,83,241,F ,D ,C+,C ,C-,D-,C ,C-,C ,D+,C-,D+,F-,C ,C+,B-,A-,F ,D ,B ,B ,C ,D ,B ,C ,C ,D ,C ,C 
+Devon,Jacoby,PF,FA,,26,79,232,D ,A-,A-,C ,D+,F ,F+,C-,F ,C-,D ,D-,C-,C ,C-,B+,A-,D ,B ,A ,C ,D ,F ,F ,C ,F ,D ,D ,F 
+Rene,Collins,SF,Lakers,RBSL,23,79,231,D-,A-,B ,C-,C ,D-,F ,D ,D ,D ,C-,C-,A-,C-,C ,A ,C ,D ,B ,B ,C ,C ,D ,F ,D ,D ,D ,D ,C 
+Royal,Jennings,PG,D-Thunder,D-RBSL,20,78,222,D ,D ,C+,F ,D-,F+,C-,D ,C ,D-,D ,D-,A ,B ,C+,B-,C ,D ,C ,B ,F ,D ,D ,C ,D ,B ,D ,C ,D 
+Richard,King,SF,Trail Blazers,RBSL,25,78,206,F ,C ,B-,B-,D ,F-,C ,F ,C ,C+,B-,C-,B+,C ,A-,B ,B-,F ,D ,B ,B ,D ,F ,C ,F ,C ,B ,B ,C 
+Scott,Niemann,SG,D-Mavericks,D-RBSL,23,77,224,D ,B-,B+,F ,C-,F ,F ,D ,F+,D+,F ,F ,B ,C+,B-,C+,B-,D ,B ,B ,F ,C ,D ,F ,D ,D ,C ,F ,F 
+Lowell,Ramsey,SF,D-Mavericks,D-RBSL,27,79,226,F+,A-,C ,C-,C+,D+,D+,D+,C-,F+,C-,D+,C ,C ,C ,C+,B-,F ,B ,C ,D ,C ,D ,D ,D ,C ,D ,D ,C 
+Hamidou,Diallo,SF,D-Wizards,D-RBSL,30,77,222,D ,C ,C ,C ,C-,D-,D ,D+,F ,D-,D ,D ,F ,B ,A-,C+,A-,D ,D ,C ,C ,D ,D ,D ,D ,F ,F ,D ,D 
+Richard,Ackerman,PF,D-Magic,D-RBSL,26,82,226,C-,B ,B ,F-,C ,D-,C-,F-,D-,D-,C-,F+,A ,C-,C ,B+,C-,B ,A ,A ,F ,C ,C ,B ,F ,D ,D ,B ,F 
+James,Collins,PF,D-Raptors,D-RBSL,30,83,283,C ,C ,C+,F-,C-,C-,C ,C ,A-,D-,D ,C ,D ,F+,C+,B ,C+,C ,C ,B ,F ,C ,D ,C ,C ,B ,D ,D ,D 
+Liao,Chua,PF,D-Hornets,D-RBSL,26,82,244,C-,D+,C ,C ,D-,D ,F+,F+,C ,C-,D+,C+,C-,C ,C ,B-,A-,D ,D ,C ,C ,F ,D ,F ,F ,C ,C ,D ,C 
+Chris,Lasalle,PF,D-Wizards,D-RBSL,32,82,273,C-,C ,B-,F-,B-,D ,A ,B-,C ,C+,C ,B-,A ,D ,D-,B-,C+,D ,C ,B ,F ,B ,D ,A ,B ,C ,C ,C ,B 
+Toby,Bowman,SG,Wizards,RBSL,26,80,229,B-,B ,A ,B+,C-,D ,C-,B ,C+,D+,A ,D-,C-,B+,B ,C+,B ,B ,B ,A ,A ,C ,D ,D ,A ,C ,D ,A ,D 
+Wilfredo,Williams,SF,FA,,22,81,242,C ,D+,A-,D ,C ,F+,D-,D-,F ,C-,D ,F+,B ,C-,C-,C+,C ,C ,D ,B ,D ,C ,F ,F ,F ,F ,D ,D ,F 
+Jalen,McDaniels,PF,FA,,23,82,210,D+,D-,C-,D-,F+,F-,D-,C-,D+,D-,D-,F ,C+,C-,D-,C ,B-,D ,D ,D ,D ,D ,F ,D ,D ,D ,D ,D ,F 
+Patrick,White,C,Magic,RBSL,33,82,271,B ,C ,D+,F+,C+,C-,D-,B-,B-,B-,C ,B-,A+,C ,B+,B-,C+,B ,C ,D ,F ,C ,C ,F ,B ,B ,B ,C ,B 
+Hoyt,Allard,SF,FA,,28,77,220,D ,C ,C ,F-,C-,D-,D+,C ,C-,D+,F ,F+,B+,C-,D ,B+,B+,D ,C ,C ,F ,D ,F ,D ,C ,D ,D ,F ,F 
+Brian,King,C,Bucks,RBSL,29,82,269,C+,D+,C ,F-,D-,F-,C ,C+,C ,F+,F+,D+,A+,D+,C ,A ,C+,C ,D ,C ,F ,D ,F ,C ,B ,C ,F ,F ,D 
+Justin,Foreman,PG,FA,,21,74,200,D+,C-,C ,C ,F ,F-,F-,F+,F ,F+,F ,F-,A-,C+,C-,C ,B+,C ,C ,C ,B ,D ,F ,F ,F ,F ,D ,F ,F 
+Franklin,Garza,C,FA,,25,83,268,F-,C-,B ,F-,D-,F+,F+,C-,C ,F ,F ,C ,F ,F ,C-,B ,C+,F ,D ,B ,F ,D ,F ,F ,D ,C ,F ,F ,C 
+Blazej,Luks,SG,Thunder,RBSL,25,76,202,C+,D+,B ,C ,C-,C-,F-,F+,F+,C+,D ,F ,C ,A-,C ,C ,C+,B ,C ,B ,B ,C ,C ,F ,D ,D ,A ,D ,F 
+Raymond,Fortunato,PF,FA,,18,83,228,F ,D ,C ,D-,C-,F-,D ,D+,C-,F+,D ,C-,B ,D ,C ,B ,D+,F ,D ,C ,D ,C ,F ,D ,D ,C ,F ,D ,D 
+Tory,Guadalupe,SF,FA,,26,79,228,F-,B-,B-,D ,C ,D ,D-,D+,F ,D ,D-,F+,A ,C ,D+,B+,B+,F ,B ,B ,D ,C ,D ,F ,D ,F ,D ,F ,F 
+Gregory,Philpot,SF,FA,,25,81,235,C-,C-,B-,F-,B-,F+,C ,D-,D ,D-,C ,D ,C+,C ,C ,B ,A ,D ,D ,B ,F ,B ,D ,C ,D ,D ,F ,C ,D 
+Matthew,Hall,PF,FA,,30,82,268,F-,F-,C-,F-,D-,F-,D-,D-,D-,F-,F+,F ,D ,D-,C-,A+,B+,F ,F ,D ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Marial,Shayok,SG,FA,,26,78,203,C-,B-,C ,C ,D-,F-,F ,F+,F+,D+,F+,F-,B+,C ,D ,C+,B ,D ,B ,C ,C ,F ,F ,F ,F ,F ,D ,F ,F 
+Mark,Parkins,PF,FA,,22,82,221,F+,F ,C ,F-,F ,F-,D+,D-,C-,F-,F+,F ,A-,C-,C ,C-,C ,D ,F ,C ,F ,F ,F ,C ,D ,B ,F ,D ,F 
+De'Anthony,Melton,PG,D-Warriors,D-RBSL,30,76,211,F ,D+,C+,C-,C+,D+,D ,C-,C-,C+,B+,C ,C ,B+,C ,C ,A ,F ,D ,C ,D ,B ,D ,D ,D ,D ,C ,B ,C 
+Randy,Carlock,PF,D-Timberwolves,D-RBSL,30,80,254,D ,D+,C+,F+,D+,D-,C ,D-,A ,F+,C-,C ,B-,C-,B ,A-,B+,D ,D ,C ,F ,D ,F ,C ,F ,A ,D ,C ,C 
+Robert,Davis,SF,D-Celtics,D-RBSL,25,80,227,D ,B-,C ,F+,D+,D-,B-,D-,C+,D ,C ,D-,F-,C ,D ,C ,C ,C ,B ,B ,D ,C ,D ,B ,D ,B ,D ,C ,D 
+Olen,Edwards,SF,FA,,22,79,200,F ,C ,A-,F-,C-,F ,F+,D-,F ,D-,D-,D+,C-,C-,D-,C ,B+,F ,C ,B ,F ,D ,F ,F ,D ,F ,F ,F ,D 
+Svi,Mykhailiuk,SG,FA,,31,80,233,F+,D+,B ,B-,D+,D ,F+,D ,D ,D ,C-,F+,C+,C-,F-,B ,A-,F ,D ,B ,B ,D ,D ,F ,D ,D ,D ,D ,F 
+Carl,Brodie,PF,FA,,23,81,250,D+,D ,C ,F-,D ,D-,D ,C ,F ,F+,D+,D ,A-,D+,C-,C ,C ,C ,D ,C ,F ,D ,D ,D ,C ,F ,F ,D ,D 
+Danny,Theriot,SF,FA,,24,79,201,C-,F+,C ,D+,F-,D-,D ,D+,D+,D+,C ,D ,C ,C+,D+,B-,A ,C ,F ,C ,D ,F ,D ,D ,D ,D ,D ,C ,D 
+Chuckwuemeka,Okoye,PF,FA,,24,80,240,C-,C-,B ,F-,F-,F+,D-,D ,C ,F-,D-,F ,C ,C-,C+,C+,C ,D ,D ,B ,F ,F ,F ,D ,D ,C ,F ,D ,F 
+Richard,Washington,SG,FA,,29,77,227,D-,D+,B-,F-,D+,F ,F-,F+,D-,F+,F-,F ,C ,B ,B ,B+,A+,F ,D ,B ,F ,D ,F ,F ,F ,F ,F ,F ,F 
+Frederic,Carroll,C,D-Pacers,D-RBSL,29,85,295,D-,D-,D+,F-,D-,F+,C-,C ,C ,F+,D-,C ,A ,F+,D ,A+,B+,D ,D ,D ,F ,F ,D ,D ,C ,C ,F ,D ,C 
+Robert,Acevedo,PG,Hawks,RBSL,35,75,226,C ,D ,A-,A-,C+,C+,C+,C ,D ,F+,A-,C+,A+,B+,B ,B-,A ,C ,D ,A ,A ,C ,C ,B ,C ,D ,F ,A ,C 
+Gilberto,Cojuango,SF,D-Bucks,D-RBSL,28,80,236,F+,C+,C ,B-,C-,D-,D ,F ,D-,D+,B ,F+,C-,C ,C+,B+,C+,F ,C ,C ,B ,C ,F ,D ,F ,D ,D ,B ,F 
+William,Roberson,PF,FA,,33,80,248,D-,D-,C+,F ,D-,F-,D ,D-,D-,F+,F+,D-,D+,F-,D-,A ,C+,F ,F ,B ,F ,F ,F ,D ,D ,D ,F ,F ,F 
+Burton,Abbey,SF,Trail Blazers,RBSL,23,81,253,A-,A ,A-,F ,B-,D-,F-,C-,C ,D+,C-,D+,A+,C-,C ,B ,C+,B ,A ,A ,F ,B ,D ,F ,C ,C ,D ,D ,D 
+Keita,Bates-Diop,SF,D-Nuggets,D-RBSL,32,79,239,C-,C ,B ,C+,C ,D ,C-,B-,C ,C-,D+,B ,A ,C ,D-,C ,B ,D ,C ,B ,B ,C ,D ,D ,B ,C ,D ,D ,B 
+Wang,Wong,SF,FA,,26,78,244,F+,C ,B-,C ,C ,F ,C ,D+,D+,C-,D-,D ,B ,C ,C-,B-,A-,F ,C ,B ,C ,C ,F ,C ,D ,D ,D ,D ,D 
+Gong,Tong,SF,Hornets,RBSL,27,79,252,C ,C ,B+,C ,C ,F+,D-,D+,D-,D+,C+,B ,B ,C+,C+,A ,B+,C ,C ,B ,B ,C ,D ,D ,D ,D ,C ,C ,B 
+Ethan,Modlin,SF,FA,,27,79,235,C-,C ,B ,F-,C ,D-,D-,C-,D+,D ,D ,D ,A-,C-,D+,B+,C ,D ,C ,B ,F ,C ,D ,D ,D ,C ,D ,D ,D 
+Chimezie,Metu,PF,D-Jazz,D-RBSL,31,83,281,F ,C-,C+,F-,C-,D+,C ,C ,C ,C-,D+,B+,B-,D-,C ,B+,B-,F ,D ,C ,F ,D ,D ,C ,C ,C ,D ,D ,B 
+Alize,Johnson,PF,D-Pelicans,D-RBSL,32,81,254,D ,C-,B-,C ,C-,C-,C+,B-,D+,D ,F+,F+,A-,D+,D+,C ,A ,D ,D ,B ,C ,D ,D ,C ,B ,D ,D ,F ,F 
+Gaspar,Xuárez,SF,FA,,33,81,243,D-,D-,C ,F+,C-,D ,D-,D+,F+,D-,D ,D ,C ,D+,F-,A-,B-,F ,D ,C ,F ,D ,D ,F ,D ,F ,F ,D ,D 
+Irvin,Woodard,PF,FA,,25,81,241,F ,C-,C-,F-,C-,F ,D ,D-,C ,F-,F+,D ,C ,D ,D ,C ,C ,F ,D ,D ,F ,D ,F ,D ,D ,C ,F ,F ,D 
+Donn,Harrison,SF,Timberwolves,RBSL,28,83,252,C ,C+,C+,C-,D-,F+,F ,D-,C ,F+,C ,D-,D+,B ,A-,C ,A ,C ,B ,C ,D ,F ,D ,F ,D ,C ,F ,C ,D 
+Noe,Havens,SF,D-Hawks,D-RBSL,27,79,215,D ,C+,B-,D+,C+,D-,F ,D+,D-,C-,D+,F+,C ,C ,C-,B+,C+,D ,C ,B ,D ,C ,D ,F ,D ,D ,D ,D ,F 
+Wilford,Nichols Jr,SF,Lakers,RBSL,24,79,224,F+,D+,C ,F ,D ,F+,F+,D+,B ,C-,D+,C ,B+,B+,A ,C ,A ,F ,C ,C ,F ,D ,F ,D ,D ,B ,C ,C ,C 
+Glen,Brogdon,SF,D-Celtics,D-RBSL,27,78,213,C+,C ,B ,D-,C ,D ,D-,C-,D ,D-,D-,D-,C ,C ,C ,A-,C ,B ,C ,B ,D ,B ,D ,D ,D ,D ,D ,D ,F 
+Jimmy,Easton,SF,FA,,26,79,242,F+,C-,B ,C ,D+,F ,F ,D-,D ,D ,F+,D-,C ,C ,C-,B ,C ,F ,D ,B ,D ,D ,F ,F ,D ,D ,D ,F ,F 
+Patrizio,Moliterno,PF,D-Pistons,D-RBSL,33,82,261,F+,C ,B-,F+,C-,D-,F ,C-,C ,F ,C+,C ,F-,F+,C ,B-,A-,F ,C ,B ,F ,D ,F ,F ,D ,C ,F ,C ,C 
+Russell,Hancock,PF,FA,,19,79,214,F ,D ,C ,F-,D ,D-,D+,D ,C ,D-,D-,D ,B-,D+,B-,C ,C+,F ,D ,C ,F ,D ,F ,C ,D ,C ,D ,D ,D 
+Alex,Moore,SF,Suns,RBSL,28,80,222,C ,C ,B ,F ,C+,F ,D-,B ,B-,B-,C-,B-,F-,C-,D-,B ,B+,B ,C ,B ,F ,C ,F ,D ,B ,B ,B ,D ,B 
+Davis,Witham,SF,D-Clippers,D-RBSL,22,79,219,C ,C ,B+,F-,C-,F ,F ,F ,D-,C-,F+,F+,C+,C ,C ,B+,C ,B ,B ,B ,F ,C ,F ,F ,F ,D ,C ,F ,F 
+Luciano,Lastres,SF,FA,,20,79,226,D ,D+,C ,F+,F+,D ,D ,B ,F+,C ,C-,D-,D+,C ,D+,C ,C ,D ,D ,C ,F ,F ,D ,D ,B ,F ,C ,D ,F 
+Dennis,Sims,SF,FA,,24,80,222,F-,C ,B+,C-,C-,F+,F ,D-,D-,B-,C ,D-,A ,C-,C-,C+,B-,F ,C ,B ,D ,C ,F ,F ,D ,F ,B ,C ,D 
+Curro,Pracatan,PF,Clippers,RBSL,18,80,212,C ,D+,B ,F+,C-,D ,C+,C ,A-,D+,C-,C ,D-,C+,C ,B-,A+,C ,C ,B ,D ,C ,D ,A ,B ,A ,C ,C ,C 
+John,Stotts,PF,FA,,24,82,248,D-,D-,C ,F-,C-,F+,D+,C ,D+,F-,D-,F+,B ,D ,B-,C+,C ,D ,D ,C ,F ,C ,D ,D ,C ,D ,F ,D ,F 
+Hassan,Compton,PF,FA,,24,81,240,C ,C-,B+,F-,D+,F-,F+,C-,D-,F+,D+,D-,B ,D-,D+,A ,D+,C ,C ,A ,F ,D ,F ,F ,D ,F ,F ,D ,D 
+Lovro,Birsa,PF,Bulls,RBSL,25,79,233,C ,B-,A+,C+,B-,D ,C ,C ,B ,C-,C ,C ,B-,A-,A ,A-,A+,C ,B ,A ,C ,B ,D ,C ,C ,B ,D ,C ,C 
+Monroe,Miles,SF,FA,,34,78,227,C ,D+,C+,C-,D-,F+,F-,F ,F ,D+,F ,F ,A+,C-,D-,C+,B+,C ,D ,B ,D ,D ,F ,F ,F ,F ,D ,F ,F 
+Davidson,Brown,SF,Cavaliers,RBSL,23,78,221,C ,B ,B+,A ,F+,D-,C-,C-,D+,D ,D+,D-,D-,B-,D-,A-,A+,C ,B ,B ,A ,F ,D ,D ,C ,D ,D ,D ,D 
+Walton,Brown,C,Suns,RBSL,36,83,314,C+,C ,C+,F-,F+,D ,A-,B-,B ,D-,D-,B-,C ,F-,F-,B ,D ,C ,C ,B ,F ,D ,D ,A ,B ,B ,F ,D ,B 
+Patrick,Walker,PF,D-Grizzlies,D-RBSL,33,82,272,D-,C+,C+,F-,D+,D+,B-,D+,C+,F+,D ,C ,C+,C-,C-,A ,C ,F ,C ,C ,F ,D ,D ,B ,D ,C ,F ,D ,C 
+Sylvester,Smith,SG,FA,,32,78,237,D-,D ,A ,D+,D+,F ,D ,F+,F+,D ,D ,D+,A+,C ,D-,B-,A-,D ,D ,A ,D ,D ,F ,D ,F ,F ,D ,D ,D 
+Kyle,Guy,SG,Cavaliers,RBSL,24,74,179,D ,C+,C+,B ,D+,F ,F-,D-,F+,C-,F ,F-,A+,B-,F ,C-,A-,D ,C ,C ,B ,D ,F ,F ,D ,F ,D ,F ,F 
+Tony,Carr,PG,Bulls,RBSL,30,77,221,D ,C+,B ,A-,C ,C+,D-,C ,C-,C ,C-,D-,A-,B-,C-,C ,A ,D ,B ,A ,A ,C ,B ,F ,C ,C ,C ,D ,F 
+Stevie,Durfee,C,D-Nets,D-RBSL,31,82,273,D ,C ,C ,D ,C-,D+,D ,B-,C-,F+,D+,C+,A-,F+,D ,A ,B-,D ,C ,C ,D ,D ,D ,D ,B ,D ,D ,D ,C 
+James,Koch,PF,FA,,20,82,219,F+,D-,C+,F-,D+,F-,C-,D+,C ,D ,F ,F ,C+,D ,C ,C ,C-,D ,D ,C ,F ,D ,F ,C ,D ,C ,C ,D ,F 
+Eddie,Hernandez,C,Suns,RBSL,26,81,229,D+,D+,B ,C ,B-,C-,C ,C ,C ,C-,D+,C ,B ,B-,C ,B-,A ,D ,C ,B ,C ,B ,C ,C ,B ,C ,C ,D ,C 
+Vince,Edwards,PF,D-Wizards,D-RBSL,32,80,242,D+,C ,A-,B ,C ,C ,C ,C ,D+,D ,D ,D+,A ,D+,D+,A-,B-,D ,C ,A ,B ,C ,C ,C ,C ,D ,D ,D ,D 
+Ahmed,Brown,SF,FA,,21,82,211,F+,D-,C+,F ,F ,D-,F ,D ,F ,C ,F+,D-,C+,C ,C-,B ,C ,D ,D ,B ,F ,F ,D ,F ,C ,F ,A ,D ,D 
+Bart,Smith,C,Pistons,RBSL,25,83,253,B+,B-,C ,D-,B+,C+,A+,A ,A+,F-,F+,A ,C ,C-,C ,B ,B-,B ,B ,C ,D ,B ,B ,A ,A ,A ,F ,D ,A 
+Jaylen,Hands,PG,FA,,22,75,180,D-,D-,C ,D+,D-,F+,F-,F+,F ,D+,D ,F-,A+,C+,D-,D-,B-,D ,D ,C ,C ,D ,D ,F ,F ,F ,D ,D ,F 
+Paul,Meyer,PG,D-Suns,D-RBSL,28,78,221,D+,B-,C ,F ,D-,D-,D ,C-,C-,D+,D+,D-,B ,C ,B ,A-,A ,D ,B ,C ,F ,F ,D ,D ,D ,D ,D ,D ,D 
+Jordan,Dalton,PF,FA,,33,82,271,D+,C ,C ,F-,C ,F ,D-,C-,C ,D-,D ,C ,C ,D-,F ,A-,C+,D ,D ,C ,F ,C ,F ,F ,D ,C ,F ,D ,C 
+Gerald,Bigelow,C,D-Mavericks,D-RBSL,32,82,276,C ,D-,C ,F-,C ,F-,C ,B+,C+,F ,D ,D ,F+,D ,F-,A-,C ,C ,D ,C ,F ,C ,F ,C ,B ,C ,F ,D ,D 
+Ronald,Chaffee,PG,Kings,RBSL,27,79,238,D-,A-,A ,F+,B-,D ,C-,D+,C ,B-,D+,C ,C+,B ,B-,B ,A+,F ,A ,A ,F ,B ,D ,D ,D ,C ,B ,D ,C 
+Devon,Hall,SG,FA,,33,77,223,D-,C ,A-,B-,C+,C-,F ,D ,D ,C-,D ,F+,A ,C ,D-,C-,A-,D ,C ,A ,B ,C ,D ,F ,D ,D ,D ,D ,F 
+Jordan,Bone,PG,FA,,21,75,181,D-,C ,C ,C-,C ,D-,F-,F-,F-,D ,F-,F-,A ,C+,F+,C-,B-,F ,C ,C ,D ,C ,D ,F ,F ,F ,D ,F ,F 
+Miye,Oni,SG,FA,,24,78,211,D-,D ,C ,C ,C-,D-,F-,D ,D-,D-,D-,D ,C-,C+,C+,D+,B-,F ,D ,C ,C ,D ,F ,F ,D ,F ,D ,F ,D 
+Christopher,Brown,PF,D-Lakers,D-RBSL,32,80,267,D ,D+,D+,F-,C ,D-,C+,C ,C+,F+,D ,C-,A ,D+,C ,B ,B ,D ,D ,D ,F ,C ,D ,C ,C ,B ,F ,D ,D 
+Larry,Osborne,PF,D-Rockets,D-RBSL,27,80,233,F+,C ,A-,C-,C-,D+,C ,C ,C ,D ,D+,F+,A+,C+,D-,C+,B+,F ,C ,A ,D ,D ,D ,C ,C ,C ,D ,D ,F 
+Marc,Shaffer,PF,Suns,RBSL,32,80,248,D+,C ,C+,C ,C ,F ,C ,B ,B+,C ,C-,C ,C ,D+,F ,A-,C ,D ,C ,C ,C ,D ,F ,C ,B ,B ,C ,D ,C 
+Aurel,Walz,SF,D-Heat,D-RBSL,28,79,238,C ,C-,B-,D-,C ,D ,F-,D-,C ,C ,C-,F+,F ,C+,C ,B+,C ,C ,D ,B ,D ,C ,D ,F ,D ,C ,C ,D ,F 
+Reginald,Carter,PG,D-Lakers,D-RBSL,28,79,209,C ,D+,B ,F-,C ,F+,C ,D-,D+,D ,D ,C-,C-,C-,B+,A-,A-,C ,D ,B ,F ,C ,F ,C ,D ,D ,D ,D ,D 
+Dallas,Colin,PF,D-Pistons,D-RBSL,22,79,226,C-,C ,B+,C-,D+,F ,C ,B-,C-,D-,C-,F-,C ,B-,C-,C+,A ,D ,C ,B ,D ,D ,F ,D ,B ,C ,D ,D ,F 
+Don,Roberts,SF,D-Timberwolves,D-RBSL,23,82,257,C-,C-,B ,D+,D-,F+,D-,D+,D ,F ,D-,D ,A-,B-,C ,B+,A ,D ,D ,B ,D ,D ,F ,D ,D ,D ,F ,F ,D 
+Shake,Milton,SF,D-Nets,D-RBSL,32,78,230,D-,B-,B ,B ,C+,C ,F ,C-,D+,C ,C ,D-,A ,B-,D+,D+,A ,D ,B ,A ,B ,B ,C ,F ,D ,D ,C ,C ,D 
+James,Carter,PG,D-Spurs,D-RBSL,24,79,218,C-,C ,B+,F ,C ,F-,D ,C-,C ,C ,D-,C-,C ,C ,C-,A-,C ,D ,C ,A ,F ,C ,F ,D ,D ,C ,C ,F ,D 
+Robert,Davis,SF,FA,,22,79,212,F ,C-,B ,C ,C-,C-,D ,F+,C ,D-,F ,C-,B-,C ,C ,B ,C ,F ,C ,B ,B ,C ,C ,D ,F ,C ,D ,F ,C 
+Rodney,Chambless,SF,Hawks,RBSL,22,78,215,C+,C ,B+,D-,C ,C-,D ,D-,C-,F ,C-,C ,D+,B ,A+,B+,A ,B ,C ,A ,D ,C ,C ,D ,F ,C ,F ,C ,C 
+Jorge,Ferrell,PF,D-Cavs,D-RBSL,25,80,225,F ,C-,B ,C ,C-,F+,F+,C ,C+,F-,F+,B-,B+,C-,C ,B-,C ,F ,C ,B ,B ,D ,F ,F ,C ,C ,F ,F ,B 
+Ernie,White,PF,Clippers,RBSL,22,81,248,D+,C ,C+,F+,C ,C-,C-,C+,B-,F ,D+,C-,F ,C ,B-,B-,A-,D ,B ,B ,D ,C ,C ,D ,B ,B ,D ,D ,C 
+Clark,Laws,SF,FA,,24,79,242,C-,D+,C ,D+,D-,F-,F+,F+,C-,D+,F-,C-,A ,C+,D+,C ,A-,D ,D ,C ,D ,F ,F ,F ,F ,D ,D ,F ,D 
+Adrián,Aristia,SG,Pistons,RBSL,25,76,228,C ,C ,B+,C ,D ,F ,F ,D-,F ,B ,D ,F ,C+,A-,C ,C ,A ,C ,C ,A ,C ,C ,F ,F ,D ,F ,B ,D ,F 
+Newton,Williams,C,D-Spurs,D-RBSL,26,84,258,F+,C-,C ,F-,C ,D+,B-,C+,C ,F-,F ,C-,C ,C ,A-,B+,B+,F ,C ,C ,F ,C ,C ,B ,B ,C ,F ,F ,C 
+Gary,Cauthen,SF,Jazz,RBSL,24,79,240,C ,C ,A-,D+,D ,D ,D ,D ,D ,C ,F ,D-,D-,C+,C ,C+,B-,A ,B ,A ,D ,C ,D ,D ,C ,D ,B ,F ,D 
+Romanas,Dubniscose,PF,FA,,32,78,249,D ,C-,B-,F+,C ,D-,D+,C-,C ,F+,D-,D-,A-,C-,D-,B+,A ,D ,D ,A ,F ,D ,D ,D ,D ,C ,F ,F ,D 
+Berry,Williams,PF,FA,,26,83,252,D-,C-,C+,F-,D+,D-,F ,D-,C ,F ,F+,D ,D+,D-,C ,C+,B-,D ,D ,B ,F ,D ,F ,F ,D ,D ,F ,F ,D 
+Raymond,Gerry,SF,FA,,23,80,213,D-,C ,B ,F+,D ,F ,F-,F ,F+,D-,D+,F ,A ,C ,C-,B ,C-,D ,C ,B ,D ,D ,F ,F ,F ,D ,D ,D ,F 
+Candelario,Dabino,SG,FA,,31,76,212,F ,D ,B+,C-,D+,F ,F-,F+,F ,D+,D ,F-,A+,B ,C-,A ,A ,F ,D ,B ,D ,D ,F ,F ,F ,F ,D ,D ,F 
+Bradly,Hall,C,D-Bulls,D-RBSL,24,85,268,C ,D ,C+,D ,C-,F+,D ,C ,D+,F+,F ,C-,C-,D ,C ,A-,C-,B ,D ,B ,D ,C ,F ,D ,C ,D ,F ,F ,C 
+Tracey,Kaminski,PG,Rockets,RBSL,23,80,231,C ,C ,B ,B ,C+,C-,B ,C ,C-,D ,C+,C-,C ,B+,A ,C+,A ,C ,C ,B ,B ,B ,D ,B ,C ,C ,D ,B ,D 
+Bartolomé,De Souza,PF,FA,,22,80,227,F+,D+,B-,F-,C-,D-,D-,C-,F+,F ,D ,F+,A-,C ,C ,B+,A-,D ,C ,B ,F ,C ,D ,D ,C ,D ,F ,C ,F 
+Wilbert,Travis,C,FA,,30,79,240,D-,C ,C+,D-,C-,D+,C ,C-,C-,D-,C ,F+,D-,C ,C ,A-,B-,F ,C ,B ,D ,D ,D ,C ,D ,D ,D ,D ,F 
+Richie,Combs,SF,FA,,27,77,219,D-,C+,A-,C ,D ,F+,F+,F+,F+,D+,D+,C-,C ,C ,C ,A-,A ,D ,C ,A ,C ,D ,F ,F ,F ,F ,D ,D ,D 
+Douglas,Brown,PF,Lakers,RBSL,20,82,208,D-,D ,C ,F-,C-,F+,C-,F+,C ,D-,D ,C+,B ,C ,B ,B ,C+,D ,D ,C ,F ,C ,F ,C ,F ,B ,D ,D ,B 
+Larry,Orndorff,PF,FA,,26,82,257,D+,D ,C+,F-,D+,D-,C-,D ,C ,F+,D-,D-,A ,F+,C-,B-,C+,D ,D ,C ,F ,D ,F ,D ,D ,D ,F ,F ,D 
+James,Chu,PG,FA,,24,74,179,F+,C-,C+,F+,C-,C ,F-,F ,F-,C-,D-,F ,C ,A-,C-,D+,A ,F ,D ,B ,F ,D ,C ,F ,F ,F ,D ,F ,F 
+Sheldon,Ginter,C,Clippers,RBSL,22,84,258,D+,D+,C ,F+,D+,D-,C-,D-,B ,D ,C-,B ,C+,C-,B-,A ,C ,C ,C ,C ,F ,D ,D ,C ,D ,B ,D ,C ,B 
+Arthur,Perez,SF,FA,,26,79,225,C-,B-,A-,D ,C-,D+,F-,D-,C ,C+,D+,F ,C-,C ,D ,C+,B+,D ,B ,A ,D ,D ,D ,F ,D ,C ,C ,D ,F 
+Ignacio,Mardomingo,PF,D-Raptors,D-RBSL,26,80,235,F+,C ,A-,F-,D+,F+,C ,C ,C ,F ,F-,C-,A+,D+,C ,B+,B ,F ,C ,B ,F ,D ,F ,C ,C ,C ,F ,F ,D 
+Werner,Bradshaw,SF,FA,,22,83,215,F ,D ,C+,D ,D ,F-,C-,F+,F+,F+,F+,D-,C-,C-,F+,C+,C-,F ,D ,B ,D ,D ,F ,C ,F ,D ,F ,F ,D 
+Jack,McAfee,PF,Bucks,RBSL,29,79,241,B ,C ,B-,D ,C ,C ,C ,A-,B-,B+,C+,A ,D ,B-,C+,B-,A-,B ,C ,B ,D ,C ,C ,C ,B ,B ,A ,C ,A 
+Junior,Jones,SF,FA,,24,81,239,D ,C+,C+,F-,C ,D-,C-,F-,D+,F+,D ,D ,C ,C ,D+,A ,C ,D ,B ,C ,F ,C ,D ,C ,F ,C ,D ,D ,D 
+Pedro,Griffiths,SF,FA,,26,80,244,F-,C-,C ,F-,C-,F+,C-,C ,C ,C ,F+,D ,C+,C-,C ,B-,C+,F ,C ,B ,F ,D ,D ,C ,C ,B ,B ,F ,C 
+Thomas,White,C,Grizzlies,RBSL,32,81,259,C+,A-,C ,D-,C ,F ,A+,A-,C ,C-,A-,C ,C-,C-,D+,A-,C+,B ,B ,C ,D ,C ,F ,A ,A ,C ,D ,B ,C 
+Claud,Parker,PF,FA,,22,80,235,F ,D-,C ,F-,F+,F+,C-,D ,D ,F-,F+,D ,C+,F+,C ,C+,D-,F ,D ,C ,F ,D ,D ,C ,D ,D ,F ,F ,D 
+David,Clark,SG,D-Warriors,D-RBSL,28,77,221,C-,B-,C+,C+,C-,D+,D ,C-,F+,F+,C-,C ,F+,C+,C-,B ,B ,D ,B ,B ,C ,D ,D ,D ,C ,F ,D ,D ,C 
+Chris,Lammers,PG,FA,,28,80,234,F+,B-,C+,C ,C ,C ,D-,D ,D+,D-,D+,C-,C ,C ,C-,C+,A ,F ,B ,B ,C ,D ,C ,D ,D ,D ,D ,D ,D 
+James,Gantt,PF,FA,,20,84,237,D+,C ,B ,F-,D+,F-,C ,D-,C+,D-,D+,F ,B-,F+,D ,C ,D-,D ,C ,B ,F ,D ,F ,B ,D ,C ,D ,D ,F 
+Dewan,Hernandez,PF,FA,,23,83,247,F+,D ,C-,F-,F+,F-,D ,D ,D+,F+,F ,D+,A-,C-,C-,B-,C ,F ,D ,C ,F ,D ,F ,D ,C ,C ,F ,F ,C 
+Anthony,White,PF,FA,,22,82,258,D-,D-,C+,F-,D-,F-,C ,C ,F+,F-,F+,D ,C ,C-,C+,A-,C ,D ,D ,B ,F ,D ,F ,C ,D ,F ,F ,F ,D 
+Seymour,Williams,SF,FA,,24,77,227,D-,D ,B+,D-,D+,D-,D ,F ,C-,F-,F+,D-,C-,C-,D+,C ,B-,D ,D ,B ,D ,C ,D ,D ,F ,B ,F ,D ,D 
+Anibal,Carderas,SG,D-Kings,D-RBSL,33,75,242,C ,D+,B-,C ,C+,C-,F+,D ,F ,C+,F ,F ,A+,B-,F+,B ,A ,C ,D ,B ,C ,C ,D ,F ,D ,F ,B ,F ,F 
+Donny,Sipes,SF,FA,,25,79,226,D-,D ,D+,D ,F ,F ,F-,C-,D ,D+,D-,D-,D+,C ,C+,B-,C+,F ,D ,D ,D ,F ,F ,F ,C ,D ,D ,D ,D 
+Arnoldas,Kubolka,SG,D-Clippers,D-RBSL,29,81,244,F+,C ,A-,A-,C ,C+,F ,D-,D-,F+,F+,F+,B-,B-,F ,C ,D ,F ,C ,B ,A ,C ,C ,F ,F ,D ,D ,F ,F 
+Odumeguru,Babangida,PF,FA,,32,80,248,F+,C ,C-,F ,D+,D ,D ,C-,D ,D+,D+,C-,C-,D ,C ,C+,C ,F ,C ,D ,F ,D ,D ,D ,C ,D ,D ,D ,D 
+David,Odom,PG,D-Kings,D-RBSL,28,70,189,B ,C ,B+,F ,B-,F+,F-,D ,F+,B+,B-,F ,F ,A-,C-,C ,A-,B ,C ,B ,F ,B ,F ,F ,D ,F ,B ,B ,F 
+Hubert,Martinez,SF,D-Grizzlies,D-RBSL,26,82,244,D+,C ,C ,D ,C-,D-,B ,D ,D-,C-,C ,D+,F ,C ,C-,B-,C ,C ,C ,B ,D ,D ,D ,B ,D ,D ,C ,C ,D 
+Steven,Schwartz,PF,Mavericks,RBSL,24,79,228,B-,C ,B-,F-,D ,F-,D ,D-,C ,F-,F ,F ,C ,D-,D+,B ,C-,A ,B ,B ,F ,D ,F ,C ,D ,B ,D ,D ,D 
+Erikas,Peciuras,PG,FA,,25,71,220,C+,C+,B ,C-,C ,D-,F-,F ,F ,D ,D-,F ,A ,B ,C ,F-,C+,C ,B ,A ,C ,C ,D ,F ,F ,F ,D ,D ,F 
+Napoleon,Lynn,PG,FA,,24,73,205,D ,C+,A-,D+,C+,D-,F+,F-,F-,B ,D+,F-,C ,B+,C-,F+,C ,D ,B ,A ,D ,C ,D ,F ,F ,F ,B ,D ,F 
+Lyman,Emerson,SF,D-Grizzlies,D-RBSL,26,79,233,C ,C+,A ,F-,B-,D-,C ,C ,D+,D-,D-,C ,C ,B-,C ,B+,A-,C ,C ,A ,F ,B ,D ,C ,C ,D ,D ,D ,C 
+Tacko,Fall,C,FA,,24,90,310,F ,F-,F-,F-,D ,F-,C-,C ,C-,F-,F-,C ,C ,F-,F ,B-,C ,F ,F ,F ,F ,D ,F ,C ,C ,D ,F ,F ,C 
+Ali,Carey,SF,FA,,24,79,230,D ,C ,B-,D-,F ,F ,F+,F+,D-,D-,C ,D-,C+,C-,C ,A-,C+,D ,B ,B ,D ,F ,D ,F ,F ,D ,D ,C ,D 
+Andrew,Jordan,PF,Kings,RBSL,22,83,211,F-,F-,C-,F-,F ,F-,F ,F-,F-,F-,F-,F-,D-,F-,C-,C ,C ,F ,F ,D ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Jeffrey,White,PF,Rockets,RBSL,21,80,222,B-,D+,C ,F-,C ,D+,D ,C ,B ,D-,D ,C-,C+,C ,C+,C ,C+,B ,D ,C ,F ,C ,D ,D ,B ,B ,D ,D ,D 
+Dominick,Walker,PF,FA,,23,81,245,F+,D+,C-,F-,F+,D+,F+,D+,C ,F ,D-,D ,C+,C-,C ,C ,A-,F ,D ,D ,F ,F ,D ,F ,D ,C ,F ,D ,D 
+Steven,Gutierrez,PF,FA,,21,81,219,D-,F ,C ,F-,D-,F ,D-,C-,F ,F ,D ,D-,D-,D-,C ,C ,D-,D ,F ,C ,F ,D ,F ,D ,B ,F ,F ,C ,C 
+Ellsworth,Collins,SG,76ers,RBSL,27,79,228,D-,C ,C ,C-,C ,D ,D+,C ,C ,C ,C+,C-,A ,A-,A-,B+,B ,D ,C ,C ,D ,C ,D ,D ,C ,C ,C ,B ,D 
+Heriberto,Xalmiento,PF,Hawks,RBSL,26,82,260,A-,D+,C ,F-,C-,D ,C ,C ,A ,C ,C ,C ,B ,C ,B-,B+,B ,A ,C ,B ,F ,C ,C ,B ,B ,A ,B ,B ,C 
+Henry,Moore,SG,Mavericks,RBSL,22,74,178,C ,C-,C ,C-,C ,C-,D ,D ,D+,B-,B ,F+,A ,A ,C ,D-,C ,C ,D ,C ,D ,C ,D ,D ,D ,D ,B ,B ,F 
+James,Scott,PF,Warriors,RBSL,22,81,234,A-,C ,C+,F ,C-,F ,A-,B-,A ,C-,D+,B+,B+,A-,B-,C+,B-,A ,B ,C ,F ,C ,D ,A ,B ,A ,C ,C ,A 
+Newton,Brower,PF,Thunder,RBSL,32,78,241,B ,C ,B+,C ,C ,C-,C-,B ,C+,C ,B-,C-,C-,C ,D-,B ,C ,B ,C ,B ,C ,C ,C ,D ,B ,C ,C ,B ,D 
+Oliver,Adams,PF,FA,,25,79,233,F+,C ,B+,F-,D+,F-,D+,C-,C+,F-,F+,D ,F+,D ,D ,B-,B ,D ,B ,A ,F ,C ,F ,D ,C ,B ,F ,D ,D 
+Ray,Spalding,PF,D-Lakers,D-RBSL,31,82,170,C-,C ,C ,F-,C-,D+,B ,C ,C ,C-,C ,C+,D-,D+,C ,B ,B ,D ,C ,C ,F ,D ,D ,B ,C ,C ,C ,C ,B 
+Alvin,Boutin,C,Hornets,RBSL,29,82,267,C ,B-,D+,F-,D+,D+,B ,A ,C ,D-,C ,D+,C-,C-,D+,B+,B+,C ,B ,D ,F ,D ,D ,B ,A ,C ,D ,C ,D 
+Adan,Haase,PF,FA,,20,78,211,F ,F-,C-,F-,F ,F-,F-,F-,F ,F-,F-,F ,D ,F+,C-,B ,C ,F ,F ,D ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Chris,Trail,PG,D-76ers,D-RBSL,28,74,168,D-,B-,A-,D+,B ,F+,F+,D-,F+,C ,C ,F-,C+,A ,C ,C+,A ,D ,B ,B ,D ,B ,F ,F ,D ,D ,C ,C ,F 
+Terry,Holloway,PF,FA,,24,80,243,F+,D-,C+,F-,D-,F ,F ,C ,C ,F+,F+,C ,A ,D-,B ,C ,B-,D ,C ,B ,F ,D ,F ,F ,C ,B ,D ,D ,C 
+Garland,Strobel,C,D-Trail Blazers,D-RBSL,26,82,256,C-,D ,C+,F-,F+,F ,B ,C ,C-,F-,D+,C ,C ,F+,C-,C ,C+,C ,D ,B ,F ,F ,F ,B ,C ,D ,F ,D ,C 
+Kevin,Hervey,SG,FA,,32,81,257,D+,D ,B ,D+,C-,D ,D+,C ,D-,F ,D+,D ,A ,D+,D-,B ,B ,D ,D ,B ,D ,D ,D ,D ,C ,F ,F ,D ,D 
+Thomas,Welsh,C,D-Lakers,D-RBSL,32,84,292,D-,C ,B+,C ,C ,D ,C ,C+,C ,F+,F+,C ,C+,F+,F-,B ,B ,D ,C ,B ,C ,C ,D ,C ,C ,C ,F ,D ,C 
+George,King,SG,D-Warriors,D-RBSL,33,78,232,D-,C ,B ,B+,C ,D-,C ,C+,C-,C-,D ,D ,C+,C-,F+,C ,A-,D ,C ,B ,B ,C ,F ,C ,B ,D ,D ,D ,D 
+Cody,Wilson,C,D-Spurs,D-RBSL,30,83,256,C ,B ,B ,F-,D+,F ,B-,C ,C ,D+,F+,C ,C ,D+,C-,C-,A ,C ,B ,B ,F ,D ,F ,B ,C ,C ,D ,F ,C 
+Dennis,Bartz,SF,Jazz,RBSL,35,79,245,C-,C ,C+,C ,C ,F+,F ,F ,C ,C-,D ,D ,C ,A-,C+,B-,B-,D ,C ,B ,C ,C ,F ,F ,F ,C ,C ,D ,D 
+Omar,Timberlake,SF,FA,,30,78,225,C-,C+,C ,F+,C-,D+,F+,F-,F+,C ,D+,F+,C+,C+,D-,A-,A-,D ,C ,C ,F ,D ,D ,F ,F ,F ,C ,D ,F 
+Rene,Morrow,PG,FA,,23,71,165,F-,C-,A ,C-,D ,D-,F-,F-,F-,C ,D ,F ,C ,B+,D-,D-,B ,F ,B ,A ,C ,D ,D ,F ,F ,F ,B ,D ,F 
+Jose,Evans,SF,D-Suns,D-RBSL,25,79,235,F-,C-,C+,C ,C ,D-,D ,D ,C ,D ,F+,D-,D-,C+,D+,C+,C+,F ,C ,B ,C ,C ,D ,D ,D ,C ,D ,D ,D 
+Donnie,Rodriquez,SF,D-Knicks,D-RBSL,33,77,225,C ,C+,B-,B-,F ,C-,D-,B-,C ,C-,D-,F ,C ,C+,D ,B ,A-,C ,B ,B ,B ,F ,D ,D ,B ,C ,D ,D ,F 
+Huang,Xi…,SG,D-Raptors,D-RBSL,24,75,179,D-,B-,A-,D ,C ,D ,F ,F+,F ,C+,F ,F+,D+,A ,B ,D+,A ,F ,B ,B ,D ,C ,D ,F ,F ,F ,B ,F ,F 
+Marvin,Jones,PF,FA,,29,80,246,D-,D+,B ,F ,D ,F+,D-,C ,C ,F ,F+,C-,A ,D+,C-,A ,C ,D ,C ,B ,F ,D ,D ,F ,C ,C ,D ,D ,D 
+Thaddeus,Dalrymple,SF,FA,,31,76,215,F ,C ,A-,B-,D ,F ,F ,D ,F ,C-,C-,F-,C ,C+,D-,A-,A ,F ,C ,A ,B ,D ,F ,F ,D ,F ,D ,D ,F 
+Kostas,Antetokounmpo,PF,D-Nuggets,D-RBSL,28,82,264,F-,F ,C-,F-,F+,F ,C ,C+,F+,F+,F ,B-,B+,C ,A ,A+,C+,F ,F ,D ,F ,F ,F ,C ,C ,F ,F ,F ,B 
+Caleb,Harper,SF,D-Pacers,D-RBSL,31,79,239,D+,C ,C+,C-,C+,D-,D-,D+,D ,C ,C-,F+,C+,C ,C-,B+,C+,D ,D ,B ,D ,C ,D ,F ,D ,D ,D ,C ,F 
+Scott,Thompson,PF,FA,,20,80,246,F ,D+,B-,F-,C ,F-,F+,F ,D ,F+,D+,D ,B-,C-,B+,B ,B-,F ,C ,B ,F ,C ,F ,D ,F ,D ,F ,D ,D 
+Darren,Harris,PF,D-Hawks,D-RBSL,33,81,256,D-,C-,B ,F-,C-,F ,C ,C+,D ,F+,D-,F+,C ,C ,B+,C+,A+,D ,D ,B ,F ,D ,F ,C ,C ,D ,F ,F ,F 
+John,Davis,PF,FA,,23,80,244,F ,C-,C-,F-,D ,F ,F ,D-,D ,F ,F+,D+,C+,D+,C ,B+,C+,F ,D ,C ,F ,D ,F ,F ,F ,D ,F ,F ,D 
+Jan,Barry,C,D-Grizzlies,D-RBSL,25,84,257,D ,F ,C ,F+,D+,F+,C ,D ,C+,F ,D ,B-,C ,C ,B-,C+,B+,D ,F ,C ,F ,C ,D ,B ,D ,B ,F ,D ,B 
+Jonathon,Roesch,PF,FA,,25,80,245,F+,D ,C+,F+,F+,F+,B-,D-,C ,F ,D ,D+,C-,D-,D ,A ,C ,D ,D ,B ,F ,F ,D ,B ,D ,C ,D ,D ,D 
+Barry,Roberts,PF,FA,,32,79,249,F-,D-,C+,F-,C-,F ,C ,D-,D+,F-,D ,D ,A+,D-,D+,B ,B ,F ,F ,C ,F ,D ,F ,C ,D ,D ,F ,D ,D 
+Bryant,Anderson,SG,D-Bulls,D-RBSL,36,79,226,C-,B+,B ,C+,C+,F ,D-,F ,F+,B ,C-,D-,C+,C+,C-,D+,A-,D ,B ,A ,C ,B ,F ,F ,F ,F ,B ,D ,D 
+Randal,Mandel,SF,Nets,RBSL,31,79,248,B+,C ,C+,B ,C ,B ,C-,D ,F+,C+,D-,C+,C+,B+,C ,C+,A+,B ,C ,B ,B ,C ,B ,D ,D ,F ,C ,D ,B 
+James,Martinez,PG,FA,,26,74,205,D-,C ,A-,F ,C ,D ,F ,D ,F+,C ,F-,F ,A ,A ,C ,C ,B+,F ,C ,B ,F ,C ,D ,F ,D ,F ,C ,F ,F 
+Joshua,Feeney,SG,Rockets,RBSL,31,78,222,C+,C+,C+,A-,B-,C-,C+,B+,C-,C ,C+,F+,F ,A-,C+,B-,A ,C ,C ,B ,A ,B ,D ,C ,B ,D ,B ,C ,F 
+Sam,Rivas,PF,Magic,RBSL,19,81,217,D-,D+,C-,F-,D ,D-,C-,D-,D-,F-,F ,C+,F ,C ,B-,C ,A-,D ,C ,D ,F ,C ,D ,B ,D ,D ,F ,F ,A 
+Greg,Gatling,C,FA,,25,85,295,F ,F+,C-,F-,D-,F-,F ,F ,F+,F-,F-,F ,D+,F-,C ,A+,C ,F ,F ,D ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Jules,Collins,PG,FA,,24,71,186,F+,C ,C+,C-,C-,D+,F-,F ,F ,F+,F+,F ,C ,B-,C-,C ,C ,F ,C ,B ,C ,C ,D ,F ,F ,F ,F ,F ,F 
+Adalberto,Campizes,SG,D-Lakers,D-RBSL,34,79,235,C-,C ,B+,C ,C-,F+,D ,F ,C-,D ,D ,F+,B-,D+,D ,B-,B-,D ,C ,B ,C ,D ,F ,D ,F ,D ,D ,D ,F 
+Brady,Scott,PG,D-Lakers,D-RBSL,30,73,183,D ,B ,A-,C+,C-,D+,D ,D ,F+,C ,C ,D ,A ,A ,C-,F+,A ,D ,B ,A ,C ,D ,D ,D ,D ,F ,C ,C ,D 
+Kris,Mitchell,SF,D-Lakers,D-RBSL,30,79,237,F+,B ,B ,F-,C ,F+,C ,D-,D-,C-,B-,D+,B+,C+,B ,A-,B+,F ,B ,B ,F ,C ,F ,C ,F ,D ,D ,B ,D 
+Whitney,Brown,PF,D-Spurs,D-RBSL,27,80,250,D ,D+,C+,F+,C-,F ,C-,A-,C+,F ,F ,C-,A+,D-,D ,A-,B-,D ,D ,B ,F ,D ,D ,D ,A ,C ,D ,F ,D 
+Emmitt,Anderson,PF,FA,,24,79,237,F+,D ,C+,F-,D+,F-,C ,C ,F+,F-,D-,C-,C-,F+,D+,B ,C-,F ,D ,C ,F ,D ,F ,B ,C ,D ,F ,D ,C 
+Dylan,Watkins,C,FA,,21,85,230,F ,F ,C-,F-,D-,F ,F-,D-,F+,F-,F-,F+,C+,F ,B ,B ,D+,F ,F ,D ,F ,D ,F ,F ,D ,D ,F ,F ,D 
+Chris,Jones,PG,D-Suns,D-RBSL,33,77,210,D-,C+,A-,C ,C-,D+,F ,F ,F ,C+,D ,D-,A-,C ,D+,B-,B ,F ,B ,A ,C ,D ,D ,F ,F ,F ,C ,D ,F 
+Terrance,Burnham,C,FA,,23,84,261,F-,F-,C-,F-,D-,F-,F ,F+,F ,F-,F-,D ,D ,F-,D+,A-,D-,F ,F ,D ,F ,D ,F ,F ,F ,F ,F ,F ,D 
+David,Britt,PF,FA,,20,83,245,F ,D-,D+,F-,D-,F-,F ,D ,D ,F-,D ,F+,C+,F+,D ,C ,C ,F ,D ,D ,F ,D ,F ,F ,D ,D ,F ,D ,D 
+Casey,Bradley,SG,D-76ers,D-RBSL,25,77,196,C ,C-,A-,D+,D+,F ,F ,F+,F ,D+,F ,D-,A ,B-,B ,C-,C ,B ,C ,B ,C ,C ,F ,F ,F ,F ,C ,F ,D 
+Fester,Jeberl,PG,D-Pistons,D-RBSL,20,80,235,D-,C-,B+,C ,C-,D ,D-,C ,D+,F+,D ,C-,C ,C ,B+,B-,C+,D ,D ,A ,C ,D ,D ,D ,C ,D ,F ,D ,C 
+Noe,Brown,PG,Trail Blazers,RBSL,27,73,204,C ,A+,B ,B-,A-,A-,D+,B+,D-,B-,C ,D+,C-,A ,C ,C+,B ,C ,A ,A ,B ,A ,B ,D ,B ,D ,B ,C ,D 
+Everaldo,Carrelo,SG,D-Clippers,D-RBSL,24,78,212,D ,B ,C+,F-,C ,D-,F ,F ,D-,D-,C+,F ,D+,C+,C-,C+,A-,D ,B ,B ,F ,C ,F ,F ,F ,D ,F ,B ,F 
+Brad,King,C,FA,,31,84,282,F-,F+,C ,F-,F ,F-,F-,F+,F ,F-,F-,F ,C ,F-,C ,A+,A-,F ,F ,C ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+AuntEster LaWanda,Page,PF,Raptors,RBSL,27,80,244,C+,A ,B-,D-,C+,C-,B ,A ,B+,F-,F-,B-,C-,C ,A-,B+,A ,C ,A ,B ,D ,B ,B ,B ,A ,A ,F ,F ,B 
+Steven,Hughes,C,FA,,31,85,289,F ,F+,C ,F-,F ,F-,F ,F ,F ,F-,F ,F-,D ,F ,D+,A+,C+,F ,F ,C ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Charles,White,PF,FA,,28,83,275,F+,C ,B+,F-,C ,D-,F+,C ,D+,F ,D+,C ,D+,D ,C-,C ,A-,F ,C ,B ,F ,C ,D ,F ,C ,D ,F ,C ,C 
+James,Borden,PF,Clippers,RBSL,18,81,222,F+,D ,C ,F+,F+,F-,D ,F+,D+,F ,D-,D-,B-,C-,C+,C ,C ,D ,D ,C ,D ,D ,F ,D ,D ,C ,F ,D ,C 
+Stanley,Albrecht,PG,Jazz,RBSL,33,73,201,D+,B-,A ,A ,A-,A ,F ,F+,F ,D ,B-,F-,A ,A ,F-,D+,A+,D ,B ,A ,A ,A ,A ,F ,F ,F ,D ,B ,F 
+James,Harris,PF,D-Warriors,D-RBSL,30,81,258,C-,C ,B+,C+,C-,F ,C ,C-,B-,F-,F+,B-,C ,D-,D+,A ,B-,D ,C ,B ,C ,D ,F ,C ,D ,B ,F ,F ,B 
+Dylan,Harris,C,FA,,29,84,276,F ,D ,C ,F-,F-,F+,F ,F ,D-,F ,F-,F ,C-,F ,D ,A+,B ,F ,D ,C ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Jan,Thomas,C,FA,,28,83,283,F-,F ,C-,F-,F ,F-,F-,D-,F ,F-,F ,F+,B-,F+,C ,B+,B+,F ,F ,D ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Cirino,Crusellas,SF,FA,,33,83,247,D-,D-,C+,F+,C-,F ,F+,D-,C-,D ,C-,D-,A-,D+,C-,C+,B+,D ,D ,C ,F ,C ,F ,F ,D ,D ,D ,D ,F 
+Gerald,Brown,SG,D-Hornets,D-RBSL,33,77,228,C ,C ,B+,C ,C+,C ,C ,F+,F+,F+,C-,F-,A-,B+,C-,B-,B+,C ,C ,B ,C ,C ,C ,C ,F ,F ,F ,D ,F 
+Marlon,Birdsall,PF,D-Bulls,D-RBSL,30,80,250,C-,C ,B+,C ,F-,F ,B-,C-,D-,F-,D+,C ,B+,D ,C ,A-,B+,C ,C ,B ,C ,F ,F ,B ,D ,F ,F ,D ,C 
+John,Clark,C,Spurs,RBSL,32,83,276,C ,D-,C ,F-,C ,F-,C ,B+,C ,D ,C-,C-,B-,D ,A ,C ,B+,C ,D ,C ,F ,C ,F ,D ,B ,C ,D ,D ,D 
+Trinidad,Waller,PF,FA,,21,79,210,F+,F ,C-,F-,F+,F-,F-,D-,D-,F-,D-,F ,C-,D+,C-,B-,C ,D ,D ,D ,F ,D ,F ,F ,D ,C ,F ,D ,F 
+Jared,Spiker,C,FA,,30,83,283,F ,F+,C-,F-,F-,F ,D ,D-,F+,F-,F ,F-,C ,F-,F+,C ,A ,F ,F ,D ,F ,F ,F ,D ,F ,D ,F ,F ,F 
+Manuel,Sanders,PF,Hawks,RBSL,26,80,239,C-,D+,C+,F-,C+,F+,C+,A+,B-,F-,D-,C ,F+,C ,A-,A-,C+,C ,C ,B ,F ,B ,D ,B ,A ,B ,F ,D ,B 
+Angelo,Perry,SF,FA,,29,79,234,C-,D+,C+,C-,D+,F ,F ,F+,D ,F ,D-,F+,C ,C ,C-,B ,B ,D ,D ,C ,D ,D ,F ,F ,F ,D ,F ,D ,F 
+Darren,Kramer,PG,FA,,29,71,182,D-,D+,C+,D ,C ,C-,F ,F ,F ,D ,C+,F ,C ,B ,C+,C+,B ,D ,C ,B ,D ,C ,D ,F ,F ,D ,D ,B ,F 
+Garret,Johnston,C,FA,,31,84,272,D+,D-,C ,F-,F+,F+,F ,F-,D+,F-,F-,F+,F+,F-,D ,A+,B ,D ,D ,C ,F ,F ,F ,F ,F ,D ,D ,F ,F 
+Frank,Denny,PF,D-Bucks,D-RBSL,24,78,212,D+,B-,C ,F+,D ,F+,D-,D-,F ,C+,C ,F ,D ,A ,C+,D-,A-,D ,B ,C ,D ,D ,F ,D ,D ,F ,B ,C ,F 
+Andrew,Roach,SF,Rockets,RBSL,30,79,251,D+,C-,C+,C+,C-,D+,D-,D+,D-,B ,C-,C ,C ,C+,C ,A-,A ,D ,D ,C ,B ,D ,D ,F ,D ,D ,B ,D ,C 
+Moses,Osborn,PF,FA,,22,78,220,D+,D ,C-,F-,D ,D-,C ,C-,D ,F ,F+,C ,C+,D+,A-,A-,C ,C ,D ,C ,F ,D ,D ,C ,C ,C ,D ,D ,C 
+Timothy,Jones,C,76ers,RBSL,25,83,248,C ,D-,C ,F-,C-,F ,D ,C-,A-,F ,F+,C ,F ,C-,C ,A-,C ,C ,D ,C ,F ,C ,F ,D ,D ,B ,F ,D ,C 
+Douglas,Harris,PG,FA,,32,78,232,F-,D-,C ,F+,F+,D+,F ,C ,C ,C ,C+,F+,B-,C ,D+,B ,A-,F ,F ,C ,F ,F ,D ,F ,C ,C ,C ,B ,F 
+Jonathon,Harris,PF,D-Kings,D-RBSL,32,80,244,C-,C ,C ,F+,C ,D ,C-,C ,B ,D+,D+,D+,C+,C ,C ,B-,A ,D ,D ,C ,F ,C ,D ,C ,D ,B ,D ,D ,D 
+Pandolfo,Malatesta,PF,Pelicans,RBSL,24,83,216,D+,C-,B ,F+,C-,C ,C+,C ,C ,C-,C-,C ,C ,C+,B ,C ,C ,B ,B ,A ,D ,B ,B ,A ,A ,B ,B ,C ,A 
+Colin,Brady,PF,D-Trail Blazers,D-RBSL,26,80,240,D-,C-,B+,C-,C ,D ,B ,C-,C+,F ,F ,D+,A-,F+,D ,B ,B-,D ,C ,B ,C ,C ,D ,B ,D ,B ,D ,F ,D 
+Bruce,Hardie,C,FA,,23,84,235,F-,D+,D-,F-,F+,F ,F+,F ,F-,F-,F-,F-,B-,F ,C ,B ,F ,F ,D ,D ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Ned,Mack,SG,D-Raptors,D-RBSL,28,81,226,C ,D+,C ,C ,C ,F+,D-,C ,F+,F+,C-,D ,B-,C ,C-,B ,A-,C ,D ,B ,C ,C ,F ,F ,C ,F ,F ,D ,D 
+Kevin,Meadows,PF,Spurs,RBSL,30,81,259,C ,B-,C+,F-,C-,F+,B ,B+,C+,D+,D ,C-,B ,D+,B-,B+,B ,C ,B ,B ,F ,D ,D ,B ,B ,C ,D ,D ,D 
+Ralph,Jones,C,FA,,29,84,290,F ,D-,C ,F-,F+,F ,F ,D-,F+,F-,F ,F ,D ,F-,C ,A+,C+,D ,C ,C ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Francis,Pullen,PG,D-Trail Blazers,D-RBSL,24,75,177,D-,C ,A-,C+,D-,D ,F+,C ,F-,C ,B-,F-,D ,A-,C ,C ,A ,D ,C ,B ,B ,D ,D ,D ,B ,F ,C ,B ,F 
+Doug,Woolley,SF,FA,,24,81,218,D+,C ,C+,F-,F ,F ,D-,F ,D+,B-,D+,D ,A-,C ,D ,C ,A-,D ,C ,B ,F ,F ,F ,F ,F ,D ,B ,D ,D 
+Mitchel,Gaughan,PF,Pacers,RBSL,33,79,242,C ,B-,A-,A-,F+,D ,F ,C ,C+,A ,C+,D ,B ,D ,C ,A ,B-,C ,B ,A ,A ,F ,D ,F ,C ,C ,A ,B ,D 
+Alfonzo,Laughlin,PF,D-Timberwolves,D-RBSL,24,79,234,D+,C-,C ,D+,C ,D ,F+,C-,D+,D+,C ,C ,C ,C ,C-,C+,B ,D ,D ,B ,D ,C ,D ,F ,D ,D ,C ,C ,C 
+Paul,Dent,SF,D-Rockets,D-RBSL,23,80,211,D ,C ,A-,F-,D ,D-,F ,C-,F+,C-,C-,F+,A ,A-,B ,C+,A ,D ,C ,A ,F ,D ,D ,F ,C ,D ,C ,C ,F 
+Adolph,Mast,SF,FA,,26,79,233,F+,D+,C ,C-,C-,F-,F ,D-,D+,F+,D ,F+,C ,C+,C ,A-,B ,F ,D ,C ,D ,D ,F ,F ,F ,D ,F ,D ,F 
+Max,Moore,PG,FA,,26,72,223,D-,D+,A-,F+,C-,D-,F-,F+,F ,C-,D+,F ,C ,B ,C+,B-,A ,F ,D ,B ,F ,D ,D ,F ,F ,F ,D ,D ,F 
+Douglass,Hume,PF,FA,,25,83,270,D-,D ,C ,F+,F+,F-,D+,D-,C-,F ,F ,F+,C+,F+,C-,C ,C+,D ,D ,C ,F ,F ,F ,D ,D ,C ,D ,F ,F 
+Ezra,Richardson,SG,FA,,24,77,227,F ,C ,B+,D+,D+,F+,D-,F+,F-,D+,D ,F ,B+,C+,C+,C ,C+,F ,B ,A ,D ,D ,D ,D ,F ,F ,D ,D ,F 
+Carl,Robinson,C,FA,,31,83,290,F ,D ,C ,F-,F+,F+,F ,F+,F+,F-,F-,F-,C ,F-,C-,B+,B ,F ,D ,C ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Jaime,Pena,PF,FA,,27,80,243,F+,C ,B-,F-,C ,F ,C-,F+,C ,F ,D+,D ,C-,D ,C+,A-,B ,F ,C ,B ,F ,D ,F ,D ,F ,C ,F ,D ,D 
+Burl,Miller,PF,FA,,18,80,229,F ,C-,C ,F-,C-,F-,C-,F ,D+,F-,F+,D ,C+,F+,D+,B-,D-,F ,C ,C ,F ,C ,F ,C ,F ,C ,F ,F ,D 
+Clyde,McCubbin,PF,FA,,25,83,265,F ,F+,C+,F-,D ,F+,D-,C-,D+,F ,C-,D ,F+,D ,D ,C+,B+,F ,F ,C ,F ,D ,F ,F ,D ,D ,F ,D ,D 
+Chris,Renz,PF,FA,,24,79,210,F+,C-,B+,D-,D ,F ,F-,F+,D-,D ,D-,F-,B-,B ,C-,B ,C+,F ,D ,A ,D ,D ,F ,F ,F ,D ,D ,D ,F 
+Hernán,Baraona,C,FA,,27,89,293,F ,D ,C ,F-,D-,F-,F+,F ,D ,F ,F-,F-,C-,F ,C-,A ,A ,F ,D ,C ,F ,F ,F ,F ,F ,D ,F ,F ,F 
+Ted,Collins,C,FA,,22,80,259,F-,F+,C ,F-,F ,F-,F-,F-,F+,F-,F-,F-,D ,F-,D+,B+,C ,F ,D ,C ,F ,F ,F ,F ,F ,D ,F ,F ,F 
+Sidney,Leonard,C,FA,,30,83,280,F ,D-,C ,F-,F+,F ,D ,F+,D-,F-,F-,F+,C-,F ,C ,C ,C ,F ,D ,C ,F ,F ,F ,D ,F ,F ,F ,F ,F 
+Charles,Coe,PF,FA,,21,81,205,D-,D-,C ,F-,D+,F ,D ,C-,D+,F-,F+,D+,C+,D ,C-,C-,D ,D ,D ,C ,F ,D ,F ,D ,D ,C ,F ,F ,D 
+Lorenzo,Randall,SG,D-Pistons,D-RBSL,30,78,236,C+,A-,B-,B ,C ,F ,D-,D-,F ,C ,C-,F ,B-,C ,D+,B ,A-,C ,A ,B ,B ,C ,F ,F ,F ,F ,C ,D ,F 
+Edward,Neville,SG,D-Magic,D-RBSL,29,81,247,D ,D+,C ,D ,C-,F ,F+,D+,C-,C-,B ,C+,C ,C+,C ,A ,A+,D ,D ,C ,D ,D ,F ,F ,D ,C ,C ,B ,C 
+John,Nelson,SG,FA,,33,76,215,C+,C ,C-,D+,C ,F+,F ,D+,F ,C ,D-,F-,C ,C ,F ,C+,B+,C ,C ,D ,D ,C ,F ,F ,D ,F ,C ,F ,F 
+Zymantas,Klimcauskas,PF,FA,,26,82,259,D ,D-,C-,F ,C ,D-,B-,C+,F+,F-,C-,D ,B+,D-,D-,A ,C-,D ,F ,D ,F ,C ,D ,B ,C ,F ,F ,C ,D 
+Timothy,Williams,PF,D-Grizzlies,D-RBSL,23,80,242,D ,C-,C ,F-,C-,F ,C+,A+,C-,F-,F ,C-,C ,C-,D+,B ,A-,D ,C ,C ,F ,C ,F ,C ,A ,D ,F ,D ,D 
+Charles,Tolson,PG,Spurs,RBSL,23,72,174,C ,D+,B ,C ,C ,B-,D+,D+,F+,C ,C ,F+,C-,A-,A ,F ,B ,C ,C ,B ,C ,B ,A ,D ,D ,D ,A ,B ,D 
+Freddie,Longfellow,PF,FA,,24,82,223,D+,D+,B ,F-,C ,F+,D-,C ,D+,F-,D-,D-,C ,C-,C-,B ,C+,D ,C ,B ,F ,C ,D ,F ,C ,D ,F ,D ,D 
+Kieth,Lopez,C,FA,,24,86,258,F ,D ,B ,F-,F+,F ,F-,D-,D+,F-,F+,F+,A ,F ,F+,B ,F+,F ,D ,B ,F ,D ,F ,F ,F ,D ,F ,F ,F 
+Angel,Evans,PF,FA,,31,82,263,D-,C-,C ,D-,F+,D-,D ,F+,C-,F-,F-,D-,D ,F-,D-,B+,C-,D ,C ,C ,F ,F ,D ,D ,F ,D ,D ,F ,F 
+John,Roberts,PF,FA,,32,79,269,D ,C ,C+,F-,D+,F ,D-,D ,C ,F ,D+,D-,F+,D-,C+,C+,C ,D ,C ,C ,F ,D ,F ,F ,D ,C ,F ,D ,D 
+Brant,Smith,PF,FA,,30,81,254,D-,D+,C ,F-,D+,F+,D ,C ,C ,F+,F+,C-,B ,D ,C ,A ,C+,D ,D ,C ,F ,D ,F ,D ,C ,C ,F ,F ,D 
+DrKenneth,Noisewater,PF,Hornets,RBSL,20,79,243,C-,C ,B+,C ,C-,F+,F+,D ,C ,F+,D+,C-,C ,C ,B ,C-,A ,C ,B ,B ,A ,B ,D ,D ,C ,B ,D ,C ,B 
+Frankie,Lenz,PG,Grizzlies,RBSL,32,73,240,C-,C+,B ,A+,B-,C+,B-,C+,C-,B-,A-,C-,A ,A-,C-,B ,A ,C ,C ,B ,A ,B ,C ,B ,C ,D ,B ,B ,D 
+Mike,Myers,SF,Spurs,RBSL,24,79,232,C ,B+,B-,C-,D+,D+,C ,C+,D+,C ,D+,C ,A-,B+,C ,B-,A+,D ,B ,B ,D ,D ,D ,C ,C ,D ,C ,D ,C 
+Anthony,Nord,PF,FA,,24,81,251,D-,D-,C-,F-,F-,F ,C ,C ,D+,F-,F+,C-,A-,D ,C ,A ,C ,F ,D ,C ,F ,F ,F ,C ,C ,D ,F ,F ,D 
+Sean,Haass,PF,FA,,23,83,249,F ,D-,C+,F-,D+,F-,C-,D-,F ,F ,C-,F ,B ,F+,C ,C+,D ,F ,D ,B ,F ,C ,F ,C ,D ,F ,F ,C ,F 
+Joshua,Medina,C,FA,,21,87,222,F ,F+,C ,F-,F-,F-,D+,D-,F+,F-,F-,F+,A-,F ,D+,B-,C-,F ,F ,C ,F ,F ,F ,D ,D ,F ,F ,F ,F 
+Raul,Medford,C,FA,,25,83,271,F ,C-,C ,D-,C-,D+,D-,C ,C ,F ,D-,C+,C+,F-,C-,B-,D-,F ,D ,B ,D ,D ,D ,F ,C ,C ,F ,D ,B 
+Rollo,Smoke,SG,Heat,RBSL,30,81,228,C+,C ,B+,A-,B ,F ,C ,D-,D-,C+,B+,F+,A ,A-,C ,C-,A ,B ,C ,B ,B ,B ,D ,D ,D ,D ,B ,B ,F 
+Jere,Burchell,PF,FA,,31,80,248,F+,C-,C+,F-,D-,F ,F ,F-,D-,F ,F-,F-,D+,D-,D-,A ,C+,F ,D ,B ,F ,F ,F ,F ,F ,D ,F ,F ,F 
+Rémi,Lecocq,SG,FA,,23,76,196,D+,C-,B ,F-,C ,D-,F ,D-,F-,F+,F+,F ,A ,A ,C ,C+,A-,D ,D ,B ,F ,C ,F ,F ,F ,F ,F ,F ,F 
+Alex,Jones,SF,Clippers,RBSL,21,79,218,C+,C+,B-,A-,B-,C ,D+,D ,C ,A-,C ,D+,D-,A ,B+,C+,B-,B ,B ,B ,A ,B ,C ,D ,D ,C ,A ,C ,D 
+Noah,Boykins,PF,FA,,27,80,248,D-,F+,C ,F-,F+,F-,D-,F ,F ,F-,F-,F-,C ,D-,B-,A ,A ,D ,F ,C ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+John,Tilton,PF,FA,,29,82,263,F ,F ,C-,F-,F+,F-,D-,F+,F-,F-,F-,F ,C+,D-,C ,A+,C+,F ,F ,D ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Omer,Meister,PF,FA,,22,80,235,C-,D+,B ,F-,C-,F+,C ,F+,F+,D-,D+,C+,D+,C-,C ,A-,B ,C ,C ,B ,F ,C ,F ,C ,D ,D ,D ,C ,B 
+Walter,Johnson,PF,FA,,31,84,282,F+,D ,C ,F-,D-,F ,F-,F-,D+,F-,F-,D-,C+,F ,F+,B-,A-,F ,D ,C ,F ,F ,F ,F ,F ,D ,F ,F ,D 
+William,Sargent,SG,FA,,33,80,234,D-,D-,A+,D ,D-,F ,F-,F ,F ,D+,F ,F ,A ,C ,D ,B ,A ,F ,D ,A ,D ,D ,F ,F ,F ,F ,D ,F ,F 
+Jack,Kimes,SG,Thunder,RBSL,29,77,243,C ,B+,A-,A+,C ,D+,A-,C ,D-,D ,C ,B-,D+,B-,C ,A+,A ,C ,B ,A ,A ,C ,C ,A ,C ,D ,C ,C ,B 
+Pedro,Brizuela,PG,D-Pacers,D-RBSL,26,76,201,D ,D+,C+,C ,C-,F ,F+,D-,D-,D-,F+,F ,C-,A-,C ,C+,B+,D ,C ,B ,C ,D ,F ,F ,D ,D ,D ,F ,F 
+Drayson,Baker,PG,Heat,RBSL,27,75,196,C ,B ,A-,C-,B-,B+,D ,C ,D-,C+,A-,F ,F-,A ,B+,A-,A ,C ,B ,A ,C ,B ,A ,D ,C ,D ,B ,A ,F 
+Émile,Waimel,PF,FA,,23,81,249,D ,D-,D ,F-,F+,F+,D-,D-,D+,F-,F ,D+,B+,D+,D+,C ,B ,C ,C ,D ,F ,D ,D ,D ,D ,C ,F ,D ,C 
+Joe,Rooker,PF,FA,,23,79,236,D-,D+,C-,F-,C-,D-,D+,C-,C ,F-,C ,D-,B ,D ,D+,C+,B-,F ,D ,D ,F ,D ,D ,D ,D ,D ,F ,C ,D 
+Wilburn,Castaneda,SF,D-Spurs,D-RBSL,33,80,249,C ,D+,B-,C ,D+,C-,F ,D-,D-,C-,C ,D-,A+,C ,C ,B+,B+,C ,D ,B ,C ,D ,D ,F ,F ,F ,D ,C ,F 
+Raul,Bundy,PF,FA,,32,80,247,F-,D+,C ,F-,D-,F-,D-,F+,F-,F-,F-,F-,F+,F+,C ,C+,A ,F ,D ,B ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Matiu,Bakare,C,FA,,18,85,227,F+,F+,A-,F-,F ,F ,D-,F ,F+,F ,F-,F+,C ,F+,C ,B-,F+,D ,C ,B ,F ,D ,D ,C ,D ,D ,D ,F ,D 
+Jean,Hollenbeck,SF,Mavericks,RBSL,27,84,278,B-,C+,A-,B ,F ,D-,C+,A ,C-,D-,D+,C ,F ,C-,D+,A ,A-,A ,C ,B ,A ,F ,D ,B ,A ,C ,D ,C ,C 
+Joe,Price,PF,Nuggets,RBSL,31,80,247,F+,C-,C ,D-,C+,C-,A+,C+,C+,C-,B+,A-,A-,C ,B-,A-,A-,F ,D ,B ,D ,B ,D ,A ,C ,C ,D ,B ,A 
+Armand,Batailles,SF,Heat,RBSL,32,79,236,C ,B ,B-,A-,C+,D ,F+,C ,F+,C+,B-,D-,A ,C ,C ,A-,B-,C ,B ,B ,A ,B ,D ,F ,C ,F ,C ,B ,F 
+Herman,Perry,C,Mavericks,RBSL,22,84,229,D-,D ,C+,F-,C-,F+,C ,C ,C ,F ,F-,C ,D ,F ,C-,C+,D+,F ,D ,C ,F ,D ,F ,C ,C ,B ,F ,F ,C 
+Brian,Rosa,C,FA,,23,83,242,F-,F-,C-,F-,F+,F-,F ,F ,F-,F-,F-,F-,D-,F-,C+,A-,D+,F ,F ,D ,F ,D ,F ,F ,F ,F ,F ,F ,F 
+David,Jackson,PF,D-76ers,D-RBSL,25,82,267,C+,D+,B+,F-,C ,F-,C-,C-,D+,F-,F ,C+,C+,D ,C ,A-,C+,B ,C ,B ,F ,B ,F ,C ,C ,D ,F ,D ,C 
+James,Miller,C,Timberwolves,RBSL,31,84,270,C+,B+,A ,A-,F+,D ,B ,C ,D+,C ,C ,F+,A ,C-,C+,A ,A-,C ,B ,A ,A ,F ,D ,B ,C ,D ,C ,D ,F 
+Peter,Nord,PF,FA,,24,82,248,F+,F+,C ,C ,D-,F ,C-,D+,F ,F-,F-,C-,C-,D+,C-,C ,C ,D ,D ,C ,B ,D ,F ,C ,C ,F ,F ,F ,C 
+Royce,Johnson,SG,D-Suns,D-RBSL,28,79,233,C-,C ,B+,C-,C+,F ,F+,C-,D+,D-,C-,F+,C ,C ,C ,A-,B ,D ,C ,B ,D ,C ,F ,F ,D ,D ,F ,D ,F 
+Chris,Norris,SF,FA,,32,79,242,F+,C-,B+,F-,C-,F+,D-,D+,D ,D+,D+,D ,F ,D-,F ,B ,A-,F ,D ,B ,F ,D ,F ,D ,D ,D ,D ,D ,D 
+Bailey,Berner,SF,Hawks,RBSL,25,80,277,C+,C+,B ,C-,A-,C-,C+,C ,C ,C ,A ,B ,D+,C+,C+,B-,A ,B ,B ,B ,D ,B ,D ,C ,C ,D ,D ,A ,B 
+Kerry,Mitchell,PF,D-Bulls,D-RBSL,28,81,252,C ,D+,C+,C ,C-,C ,C-,C+,D+,F+,F+,D ,D ,C ,C-,B ,B ,C ,D ,B ,D ,D ,C ,D ,C ,D ,F ,F ,D 
+Matthew,Smith,C,Pacers,RBSL,22,81,230,D+,D-,C ,F-,C-,D-,B-,D ,C ,F ,F ,C ,C-,F ,C+,A-,C ,D ,D ,C ,F ,D ,F ,B ,D ,C ,F ,F ,C 
+Clayton,Phillips,PG,D-Pacers,D-RBSL,32,74,184,D+,C+,B-,C+,D+,B-,F+,D+,F ,C-,D ,F+,D-,A-,D ,C ,A ,D ,C ,A ,C ,D ,B ,F ,D ,F ,D ,D ,F 
+Steven,Lang,C,D-Thunder,D-RBSL,30,82,256,C-,C-,C+,D ,C-,F+,C ,C+,D-,D ,C ,D+,A-,C ,D+,A ,B+,D ,D ,C ,D ,D ,F ,C ,C ,D ,D ,C ,D 
+Dewey,Valenti,PF,FA,,25,79,238,D-,D-,C ,F-,D ,F+,D+,C-,C-,F-,C ,D ,C ,D+,B ,B ,A-,D ,D ,C ,F ,D ,F ,D ,D ,C ,F ,B ,D 
+James,Campbell,SF,FA,,31,82,247,F-,F ,C ,F ,C-,F ,F-,F-,F ,F+,F ,F ,D-,C-,D-,A+,A-,F ,F ,C ,F ,D ,F ,F ,F ,F ,F ,F ,F 
+Ivan,Cherry,PG,D-Bucks,D-RBSL,30,71,219,D ,C+,C ,D ,C ,B ,F-,F-,F+,A-,F ,F ,C ,A ,D+,C ,A+,D ,C ,C ,D ,C ,B ,F ,F ,D ,A ,F ,F 
+Vicente,Pinilla,SG,D-Lakers,D-RBSL,33,76,213,D+,C+,C+,C ,C ,D-,F-,F ,F+,C-,D-,F ,A+,B ,F-,B-,B ,D ,B ,B ,C ,C ,F ,F ,F ,F ,D ,F ,F 
+Hank,Parker,SF,FA,,29,79,227,F ,F+,C-,D-,F-,F ,F ,F-,F+,F+,F-,F ,C+,C-,C-,B ,A ,F ,F ,D ,F ,F ,F ,F ,F ,F ,D ,F ,F 
+Andrew,Harper,SG,D-Bulls,D-RBSL,31,75,191,D ,D+,C+,F+,C ,D ,F-,D+,F-,B-,C-,F-,A ,A-,C ,D+,A ,D ,D ,B ,F ,C ,D ,F ,D ,F ,B ,D ,F 
+Rodney,Johnson,SF,FA,,30,80,233,F ,C-,B ,F+,C-,D-,F+,C ,D-,D-,D+,F+,B-,C ,D ,A-,B+,F ,D ,B ,F ,D ,D ,F ,C ,F ,F ,D ,F 
+Josue,Avery,SG,D-Rockets,D-RBSL,24,75,197,F+,A-,B-,D-,C ,D-,F ,D-,F+,C+,D ,F+,C-,B ,C-,C ,B-,F ,B ,B ,D ,C ,D ,F ,D ,F ,B ,D ,F 
+Lorenzo,Pierre,C,FA,,23,86,274,F-,F ,C ,F-,F ,F-,F-,F ,F-,F-,F-,F-,C ,F ,C-,B-,C ,F ,F ,C ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Bai,Su,SF,FA,,34,81,248,F ,C-,C ,F+,C-,F+,F ,F+,F ,D-,D ,D+,A+,F+,D ,B ,B+,F ,D ,C ,F ,D ,F ,F ,F ,F ,F ,D ,D 
+Thomas,Lewis,SF,FA,,29,79,229,F+,F ,C-,F ,D ,F-,F ,D-,F ,F-,F-,F ,D+,C-,C-,B+,A ,F ,F ,D ,F ,D ,F ,F ,F ,F ,F ,F ,F 
+Eusébio,Zoio,SF,FA,,31,78,227,C ,C-,B-,D ,D-,D ,F+,D ,D-,D ,F+,D ,F+,C ,D-,B-,A ,C ,D ,B ,D ,F ,D ,F ,D ,D ,D ,F ,D 
+Charles,Barrera,PF,D-Suns,D-RBSL,32,78,223,F+,C ,B ,B ,C ,D-,D ,B-,C-,B-,D-,F ,A ,C ,D ,A-,B+,F ,C ,A ,B ,C ,F ,D ,B ,D ,B ,D ,F 
+Scot,Black,PG,Jazz,RBSL,24,76,220,D+,C+,C+,C-,C ,D ,D-,F+,F+,C+,C ,D-,C+,A ,C-,C ,A+,D ,C ,C ,D ,C ,D ,D ,F ,F ,B ,D ,F 
+Trent,Smith,PG,D-Heat,D-RBSL,30,73,198,C-,B-,C ,F+,C+,D+,F ,F+,D ,D+,C ,F+,C ,A-,C+,C ,A+,C ,B ,C ,F ,B ,D ,F ,D ,C ,D ,C ,D 
+Adan,Lee,SF,Nuggets,RBSL,31,79,233,C ,C+,B ,F-,C ,C ,C ,C ,D-,C ,A+,D ,D-,B-,C ,B-,B ,C ,C ,B ,F ,D ,C ,C ,C ,D ,C ,A ,D 
+Frank,Washington,PG,D-Pelicans,D-RBSL,31,79,233,D ,D+,C+,C ,C-,D+,C ,F ,C-,C ,F+,D-,F-,C ,D ,C ,A ,D ,D ,C ,C ,D ,D ,D ,F ,D ,C ,F ,D 
+Sal,Parker,PF,D-76ers,D-RBSL,33,79,239,F-,D ,C+,C+,A-,C ,C+,C+,B-,C-,D ,C ,C-,C ,B ,B+,A+,F ,D ,B ,C ,B ,D ,B ,C ,B ,D ,D ,C 
+Alphonse,Evans,C,D-Celtics,D-RBSL,34,82,248,C ,C-,C ,C ,C ,C-,D-,D ,C-,C ,C ,F-,D+,C ,C ,B-,B ,D ,D ,C ,C ,C ,D ,F ,D ,D ,C ,C ,F 
+James,Anderson,PF,Thunder,RBSL,32,80,239,A ,A-,B-,C-,D+,C-,D+,D ,B-,C ,F+,D+,A-,C ,D-,B+,A-,A ,A ,B ,D ,D ,D ,D ,D ,B ,D ,D ,D 
+John,Brown,SF,FA,,30,83,257,F ,D+,C+,F-,D-,F-,D+,C-,D+,D+,D-,F+,A ,C ,C ,C ,A+,F ,D ,B ,F ,F ,F ,D ,D ,D ,D ,D ,F 
+Jeramy,Hernandez,PF,FA,,30,82,261,F-,C-,B ,F-,C-,F-,C-,C ,C ,F ,D ,C-,F-,D ,D+,A-,C+,F ,D ,B ,F ,D ,F ,D ,C ,C ,F ,D ,D 
+Reginald,Wilson,SF,Thunder,RBSL,31,78,237,C ,A-,B-,D ,D+,C ,C ,A ,C ,C ,B-,C ,C ,C+,D-,A ,A ,C ,A ,B ,C ,D ,C ,B ,A ,C ,C ,B ,C 
+Gus,Smith,SF,FA,,33,79,231,D ,C-,C ,F-,C ,F+,F ,D ,C-,D+,C-,D ,A-,D-,F ,A-,C ,D ,D ,C ,F ,C ,F ,F ,D ,D ,D ,D ,D 
+Grady,Dalton,SF,FA,,33,79,244,C ,D-,C ,D-,C ,F+,F ,D-,D ,F+,F ,F+,D ,C ,C-,B ,B+,C ,F ,B ,F ,D ,F ,F ,F ,D ,F ,F ,F 
+Chris,Johnson,PF,D-Mavericks,D-RBSL,33,80,246,C-,C-,A-,C ,C-,F+,F+,D-,D-,C ,D ,D ,C+,C ,C ,B-,A-,D ,D ,A ,C ,D ,F ,F ,D ,D ,D ,D ,D 
+Gary,Baker,SF,Pelicans,RBSL,32,79,230,C ,C+,C+,B-,C+,C ,C ,C+,C-,A-,C-,D+,B-,C ,C-,B ,A ,C ,C ,A ,B ,B ,C ,C ,C ,D ,A ,D ,D 
+David,Miller,PF,Rockets,RBSL,30,81,261,C ,F ,C-,F+,C ,D+,D+,D ,C+,C-,B ,C ,A-,C+,B ,A-,A-,C ,F ,D ,D ,C ,D ,D ,D ,C ,D ,B ,C 
+Cleto,Antón,SF,Jazz,RBSL,32,78,221,C-,B-,B-,D-,B ,C ,D+,C ,C-,C ,C ,C ,D-,C+,C ,B-,A-,D ,B ,B ,F ,B ,C ,D ,C ,D ,C ,C ,C 
+Charles,Shaw,SG,Nets,RBSL,32,80,241,B ,A-,B ,D ,B-,A-,C ,B-,C ,D+,C ,C ,C ,B-,C ,B-,A-,B ,B ,B ,D ,B ,B ,C ,B ,C ,C ,C ,C 
+Jerome,Prince,PF,D-Trail Blazers,D-RBSL,31,82,271,C ,C-,C ,F ,D+,D+,B-,C ,B-,F ,D ,B ,C ,D-,F ,A-,C ,C ,D ,C ,F ,D ,D ,B ,C ,B ,F ,D ,B 
+Chris,Karnes,PG,Timberwolves,RBSL,30,75,208,C ,D ,A-,D+,D+,C ,D+,C ,F-,D ,C-,F+,C+,A ,A ,C ,A+,C ,D ,A ,D ,D ,C ,D ,C ,F ,D ,D ,F 
+Dana,Schmid,SG,FA,,30,76,206,F ,C-,C+,F ,F ,F-,F-,F-,F-,D ,F ,F ,A ,C+,C ,B ,A+,F ,D ,C ,F ,F ,F ,F ,F ,F ,D ,F ,F 
+Trevor,Cotton,SF,D-Trail Blazers,D-RBSL,31,81,250,D+,C+,B+,B ,C+,F+,C ,D ,C ,F+,D ,C-,F-,C+,C-,B+,B-,D ,C ,A ,B ,C ,F ,C ,D ,C ,F ,D ,D 
+Glenn,Higa,SF,D-Raptors,D-RBSL,32,77,219,C ,C ,A-,B ,F-,D+,F-,C-,F ,C-,C-,F ,D-,C+,D-,A-,A-,C ,C ,A ,B ,F ,D ,F ,D ,F ,D ,D ,F 
+Rasheed,Babagida,SF,D-Spurs,D-RBSL,30,82,242,C-,D+,B-,C+,C ,D ,C ,D-,C ,D-,D ,C ,C-,B-,C ,A-,B ,D ,D ,B ,C ,C ,D ,C ,F ,D ,F ,D ,C 
+Benjamin,Duda,SF,D-Warriors,D-RBSL,31,79,231,D+,D+,C ,C ,C ,D ,D+,D ,B-,C+,B-,D ,B+,C ,C ,B ,B-,D ,D ,C ,C ,C ,C ,D ,D ,B ,C ,B ,D 
+Brian,Goodwin,SF,FA,,32,79,235,F-,C ,C ,D+,C-,F-,F+,D+,D ,D-,D+,F ,C-,D ,C-,B+,A-,F ,C ,C ,D ,D ,F ,F ,D ,D ,F ,D ,F 
+Trent,Woodyard,PF,D-Clippers,D-RBSL,31,80,249,D+,C-,C ,C-,D ,F ,F+,C+,D ,F ,D-,D ,C+,F+,C+,A ,C ,D ,C ,C ,D ,D ,F ,F ,C ,D ,F ,D ,D 
+Leo,Mortensen,SF,FA,,30,79,233,D+,D+,C+,C ,D+,D ,D-,C-,D-,D+,C-,D+,C ,C-,C ,C ,B-,D ,D ,B ,C ,D ,D ,D ,D ,D ,D ,D ,D 
+Luther,Johnson,SG,FA,,30,74,221,D+,C-,C+,C+,C ,F+,F-,F+,D-,C-,C-,F ,A ,C+,C ,C ,A+,D ,D ,C ,C ,C ,F ,F ,F ,D ,D ,D ,F 
+Edward,Elmer,PF,D-Kings,D-RBSL,32,79,250,C ,C ,C ,F+,C ,D+,F+,C ,D ,F+,C-,D+,B-,D ,C ,B-,A-,C ,C ,C ,F ,C ,D ,F ,C ,D ,F ,D ,D 
+William,Parker,SF,FA,,30,80,244,D+,C-,B-,F+,C-,C-,D-,D+,F+,C+,C-,D-,B ,C ,C ,B ,A-,D ,D ,B ,F ,C ,D ,F ,D ,D ,C ,C ,F 
+Eric,White,C,Hawks,RBSL,32,83,271,C-,C-,A-,B-,C ,C-,D ,B+,C+,C-,C+,B ,C ,C-,A-,A-,A ,D ,D ,A ,B ,D ,D ,D ,B ,C ,D ,B ,B 
+Richard,Harding,SG,Heat,RBSL,33,74,200,C-,B-,C-,B ,C-,C ,F ,D ,D-,C ,A-,F+,A+,B+,F ,D-,A ,D ,B ,C ,B ,D ,C ,F ,D ,D ,C ,B ,F 
+Ryan,Ard,SF,Cavaliers,RBSL,32,78,224,C-,A-,A ,A-,C ,C-,F ,F+,F+,B+,D+,D-,B ,C ,D+,C ,B ,D ,A ,A ,A ,C ,D ,F ,F ,F ,B ,D ,D 
+Larry,Schwartz,PF,D-Nets,D-RBSL,28,80,244,C-,B-,C ,F-,C+,C ,C ,D+,C+,F+,C ,B-,C-,C-,B-,A-,B+,C ,B ,C ,F ,C ,C ,C ,D ,C ,D ,C ,B 
+Edmond,Robinson,SF,FA,,29,79,230,F ,C-,C-,D ,C ,F+,F ,D ,F+,C+,C ,D ,B-,C ,C-,B+,A-,F ,D ,C ,D ,C ,F ,F ,D ,F ,C ,C ,D 
+Julian,Jones,SG,FA,,30,76,222,F ,D-,C ,F ,C-,F+,F-,F-,F ,F ,F ,F-,C-,B-,D+,A ,B+,F ,F ,C ,F ,D ,F ,F ,F ,F ,F ,F ,F 
+Eduardo,Gomez,PG,FA,,31,73,208,C-,C-,B+,B-,D ,D ,F-,F+,D-,C+,D ,F-,B ,A-,F ,C ,A ,D ,D ,A ,B ,D ,D ,F ,F ,F ,C ,D ,F 
+Thomas,Cunningham,SG,Grizzlies,RBSL,33,75,193,C ,D+,C+,B ,B ,C+,C ,D-,F ,C-,B ,D ,A ,A ,D ,F+,A+,C ,D ,B ,B ,B ,C ,C ,F ,F ,D ,B ,D 
+Chris,Pinard,PG,D-Kings,D-RBSL,31,79,252,C ,D-,C ,C-,D+,C-,F+,C ,C-,C-,C ,F+,C ,D+,F ,B ,A-,C ,F ,C ,D ,D ,D ,F ,C ,D ,D ,C ,F 
+Wilbur,Voyles,SG,D-Cavs,D-RBSL,31,77,211,C+,C ,C ,C ,D ,C ,F ,F+,F ,C-,C-,D ,C+,B-,D ,A-,A ,B ,C ,B ,C ,D ,C ,F ,F ,F ,D ,D ,D 
+Robert,Manning,SG,FA,,32,77,210,C-,B-,C+,C ,C+,F-,F+,D-,F ,F ,C ,D-,A-,A-,A-,C ,A+,D ,B ,C ,C ,B ,F ,F ,F ,F ,F ,C ,D 
+Sinisa,Svetozar,PG,FA,,32,77,226,D-,D ,B-,D ,D+,D-,F ,D-,F+,C+,F+,F-,D+,C ,D ,C ,A-,F ,D ,B ,D ,D ,D ,F ,F ,F ,C ,F ,F 
+Steven,Lewis,SF,D-Pacers,D-RBSL,30,77,217,C ,C+,C ,C-,C ,D+,D-,C ,F+,C ,C ,D ,A-,C+,F ,B+,B+,C ,B ,B ,D ,C ,D ,D ,C ,D ,C ,C ,D 
+Kevin,Romero,C,Nuggets,RBSL,20,84,252,D+,D ,C ,F-,F+,F+,C-,C-,C-,F+,D ,C-,C ,D-,F+,C+,C-,C ,C ,A ,F ,D ,F ,B ,B ,C ,F ,D ,C 
+Scott,Enoch,SF,FA,,28,79,251,D ,C-,B ,F-,D+,F+,F+,D ,F+,F ,F ,F ,F-,C+,C ,A ,A ,D ,D ,B ,F ,D ,F ,F ,D ,F ,F ,F ,F 
+Evan,Cobb,PF,D-Nets,D-RBSL,29,81,225,C+,C-,C ,D ,C ,D-,D+,D-,C ,D+,C-,C ,C ,C ,D+,C+,A ,C ,C ,C ,D ,C ,D ,D ,D ,C ,D ,D ,C 
+Arthur,Gonzalez,SF,Nuggets,RBSL,33,79,228,B-,C+,A-,B ,A-,D+,D+,B-,C-,D ,D ,C-,A-,A-,A ,C-,A-,B ,B ,A ,B ,A ,D ,D ,B ,D ,D ,D ,D 
+Robert,Pate,PG,Pelicans,RBSL,34,79,229,F ,D+,A-,B ,B ,B ,D+,C-,F-,F ,B ,C ,A ,B+,F-,D-,A ,F ,D ,A ,B ,B ,B ,D ,D ,F ,F ,B ,C 
+Marc,Evans,PF,FA,,28,80,249,F ,D+,C-,F+,C ,C-,D+,C ,D ,F ,C-,C-,C-,C-,C ,B+,A ,F ,D ,C ,F ,C ,D ,D ,C ,D ,F ,D ,D 
+Scott,Emanuel,SF,FA,,28,78,224,D-,C ,C+,D ,D-,F ,F ,F-,D-,D+,D+,D+,A+,C ,C ,A ,A-,F ,C ,B ,D ,F ,F ,F ,F ,F ,D ,D ,D 
+Chimela,Azikwe,SG,FA,,32,75,209,D-,D ,C+,F+,D ,F-,F+,F ,F ,F ,D+,F ,A-,C+,D+,A-,B ,D ,D ,B ,F ,D ,F ,F ,F ,F ,F ,D ,F 
+Matthew,Gonzalez,SF,Magic,RBSL,30,79,232,C-,C ,B-,B+,F+,F+,F-,D+,C-,A-,C-,B-,C+,C ,D+,A-,A-,C ,C ,B ,B ,F ,D ,F ,D ,C ,A ,D ,B 
+Mitchel,Vasquez,SF,D-Jazz,D-RBSL,30,78,223,D ,C ,B-,C ,D-,D ,F+,C-,D-,C ,D ,F+,C+,B+,C ,A-,A ,D ,C ,B ,C ,F ,D ,F ,D ,F ,C ,D ,F 
+Tony,Lopez,SG,D-Pistons,D-RBSL,30,79,233,F ,B+,B-,C ,B-,D+,F ,D+,F ,C ,C+,F ,D ,B+,C ,C+,A+,F ,B ,B ,C ,B ,D ,F ,D ,F ,D ,C ,F 
+Augusto,Fidalgo,PG,FA,,30,74,203,F+,D+,C-,D-,F+,D-,F-,F ,F ,D+,F ,F-,C ,B ,D+,C+,C+,D ,D ,C ,D ,F ,D ,F ,F ,D ,C ,F ,F 
+Rob,Fox,PG,Hornets,RBSL,32,74,223,B-,C ,B+,D+,A-,B+,F-,D-,D ,B-,C ,D+,C+,B+,B-,C ,A ,B ,C ,B ,D ,B ,B ,F ,D ,D ,B ,C ,D 
+Don,Baker,SG,FA,,30,74,211,D-,D-,C+,D+,D+,F-,D ,F+,F-,D+,C-,F+,A-,C+,D-,A-,A ,F ,F ,C ,D ,D ,F ,D ,F ,F ,D ,D ,F 
+Michale,Lee,PG,FA,,31,71,193,D-,C ,B-,F+,C+,C ,D ,F+,F ,F ,F+,F-,A-,A-,D-,C+,A ,D ,C ,B ,F ,C ,C ,D ,F ,F ,F ,F ,F 
+Thad,Christensen,SF,D-Grizzlies,D-RBSL,29,79,235,F+,C+,B+,D+,C ,C-,C-,C ,C ,F ,F+,C-,B ,B ,C-,A-,B+,F ,C ,B ,D ,C ,C ,C ,C ,C ,F ,F ,D 
+John,Thompson,SF,Rockets,RBSL,33,75,204,D ,A-,A ,A-,C ,F-,F-,D ,F ,C ,B-,F ,C ,C+,F ,C+,A-,D ,B ,A ,A ,C ,F ,F ,D ,F ,C ,B ,F 
+Michael,Lindell,SF,D-Trail Blazers,D-RBSL,30,78,243,D ,B-,C+,B-,C-,F+,D+,C ,C-,F+,D-,F+,C ,C ,C ,B+,B-,D ,B ,B ,B ,C ,D ,C ,C ,C ,D ,D ,D 
+Richard,Albanese,PG,D-Spurs,D-RBSL,31,83,250,C-,C-,B-,C ,C ,D-,D-,D+,D+,C ,D-,C ,B ,C ,C-,C+,B-,D ,D ,B ,C ,C ,D ,F ,D ,D ,C ,D ,C 
+Jeffrey,Craig,SG,D-Kings,D-RBSL,29,78,223,F+,B-,B-,C ,C ,F ,F ,F+,F ,B ,D ,D ,D-,A ,C ,B ,B ,F ,B ,A ,C ,C ,F ,F ,F ,F ,B ,D ,D 
+Timothy,Greene,SG,D-Bucks,D-RBSL,31,77,226,B ,C ,B ,C+,C ,F+,F+,D+,F+,C-,D ,F ,B+,A-,C-,C ,A-,B ,C ,B ,B ,C ,D ,F ,D ,F ,D ,D ,F 
+Dennis,Dambrosio,SG,Bulls,RBSL,31,77,222,C-,C ,C+,A-,C ,C-,F+,C ,F+,D ,C ,F+,A ,B-,C+,C+,A+,D ,C ,B ,A ,C ,D ,F ,C ,F ,D ,C ,F 
+Williams,Johnson,PG,D-Spurs,D-RBSL,30,74,222,C-,C ,C ,D+,C ,D+,F+,D+,F+,C+,C+,D ,C+,A ,F-,C+,A+,D ,C ,C ,D ,D ,D ,F ,D ,F ,C ,C ,D 
+Adam,Huff,PF,D-Heat,D-RBSL,31,80,244,D ,C ,B-,F+,C-,F ,D-,C ,C-,D-,C-,D-,C+,C-,D ,A-,B ,D ,C ,B ,F ,D ,F ,F ,C ,D ,F ,D ,D 
+Frederick,Thomas,PG,D-Bulls,D-RBSL,32,72,223,C ,C+,B-,B-,C ,C-,C ,C+,C-,C+,D ,D ,D-,A ,B-,C+,A ,C ,C ,B ,B ,C ,D ,D ,C ,D ,C ,D ,D 
+Richard,Phillips,SG,Pelicans,RBSL,31,78,224,F+,C+,A-,B+,D+,C ,D ,C+,D+,C+,B+,C-,A-,A ,F ,C-,A ,D ,C ,A ,B ,D ,C ,D ,C ,D ,C ,B ,D 
+Morton,Hopkins,SG,D-Pistons,D-RBSL,33,79,227,F-,C-,B-,C ,C+,D ,D ,F+,F ,C+,C+,D-,F-,B+,C+,C ,A ,F ,D ,B ,C ,B ,D ,D ,F ,F ,B ,C ,D 
+Tony,Brown,SF,Suns,RBSL,31,78,219,C ,B+,B-,B+,B-,D ,C ,C-,C ,B+,B+,C-,B-,A ,C ,D+,A-,C ,A ,B ,B ,B ,D ,C ,C ,C ,B ,A ,D 
+Clifton,King,SF,D-Warriors,D-RBSL,31,78,248,C ,A-,B+,B-,D+,D-,F+,D-,C ,D+,D-,D+,F-,C+,C ,C ,A-,C ,B ,B ,B ,D ,F ,F ,D ,C ,D ,F ,D 
+Domingo,Rascon,PG,FA,,33,77,220,D-,B-,C ,F-,C-,F+,F ,F+,F ,D ,D+,F+,C+,C ,C ,C+,A ,F ,B ,B ,F ,D ,F ,F ,F ,F ,D ,D ,F 
+Rolland,Laroche,SG,FA,,29,80,239,D-,D-,C ,D ,D ,D+,D ,F ,D ,C ,C ,D+,B-,C ,C-,B+,A ,D ,F ,C ,D ,D ,D ,D ,F ,D ,D ,C ,D 
+Burt,Callahan,SG,FA,,30,74,239,D-,C ,B ,F-,D-,D+,F ,F ,F+,D ,D ,F ,A-,B ,C-,C+,A-,D ,C ,B ,F ,F ,D ,F ,F ,F ,D ,D ,F 
+Edison,Hughes,C,Kings,RBSL,29,82,247,D+,C+,C ,B+,B-,D-,D+,C ,F+,C-,D+,D ,B ,C ,C+,C+,A ,D ,B ,B ,B ,B ,D ,D ,C ,D ,C ,D ,D 
+Donovan,Rush,PG,FA,,22,71,215,F ,C-,C+,F ,B-,D-,F-,F ,F ,D ,C ,F-,C-,B ,D-,C ,C ,F ,B ,B ,F ,B ,D ,F ,F ,F ,D ,C ,F 
+Garry,Baker,PG,FA,,34,74,216,F ,C ,B+,C+,C-,D-,F-,D ,F ,C-,C ,F ,C ,B+,D-,D ,A ,F ,C ,A ,C ,D ,D ,F ,D ,F ,D ,C ,F 
+Larry,Wilkins,SF,D-Hornets,D-RBSL,33,80,226,D-,B+,C ,F ,C ,C-,F ,D ,D ,C ,F-,F ,A ,C+,D-,B+,C ,F ,B ,C ,F ,C ,D ,F ,D ,D ,C ,F ,F 
+Loren,Jones,C,FA,,22,84,262,C ,D+,C+,F-,D+,F ,C ,F+,D+,F ,D-,F ,D ,F-,C+,B ,F-,B ,D ,B ,F ,D ,F ,C ,D ,D ,F ,D ,F 
+James,Farley,SG,D-Warriors,D-RBSL,31,78,225,D ,C-,B ,C ,F-,F ,F+,F+,D-,C-,D-,F ,C+,A-,D-,C ,A+,D ,D ,A ,C ,F ,F ,F ,F ,F ,D ,F ,F 
+James,Miller,SF,D-Knicks,D-RBSL,31,82,259,D-,D+,C ,C-,C-,F+,C-,D+,C ,D ,C ,D-,C ,C+,F+,A-,A-,F ,D ,C ,D ,D ,F ,D ,D ,D ,D ,C ,D 
+Hollis,Carter,PF,D-Cavs,D-RBSL,27,80,239,F-,C-,C+,C-,C-,F+,C ,C ,C-,D ,D-,D ,B-,C ,C ,A+,C+,F ,D ,C ,D ,D ,F ,C ,C ,D ,D ,D ,D 
+Elroy,Brown,SG,FA,,32,77,243,D-,C ,C ,D-,D ,D-,D+,F+,D-,D-,D+,F+,A-,C+,C ,C-,A ,F ,C ,C ,F ,D ,F ,D ,F ,F ,D ,D ,F 
+Adan,Perkins,SF,D-Nets,D-RBSL,31,79,235,C-,C-,C+,D ,C+,D-,C-,C ,C-,A-,C-,D-,A-,C+,C-,B-,A ,D ,D ,B ,D ,C ,D ,D ,C ,D ,A ,D ,F 
+James,Jones,PF,Grizzlies,RBSL,29,77,239,C+,B+,B+,C+,F ,D ,F+,C-,C ,C-,F+,C ,C ,A-,A ,A-,A-,C ,B ,A ,C ,F ,D ,F ,D ,C ,C ,D ,B 
+Marco,Wright,SF,Bucks,RBSL,30,76,206,C+,B ,C ,C ,C-,C ,C+,B ,B-,C ,C ,C-,B+,B+,B+,B ,B+,C ,B ,C ,C ,C ,C ,C ,B ,B ,C ,C ,D 
+Dennis,Williams,SF,FA,,34,78,229,D-,C ,A-,A-,C ,D+,D-,C ,F+,B ,C ,F-,C+,C-,C ,C+,C ,F ,C ,B ,A ,C ,D ,F ,C ,F ,B ,C ,F 
+Renato,Vicente,SG,D-Jazz,D-RBSL,34,78,241,F ,B+,B+,C ,B-,C-,C-,C-,D ,B-,C-,C ,C ,C ,C ,C ,C+,F ,B ,B ,D ,B ,D ,D ,D ,D ,B ,D ,C 
+Thomas,Fields,SF,FA,,28,78,224,D-,C+,A-,C-,C ,F+,F-,D-,D-,C+,C-,F+,A ,C-,C-,A ,A-,D ,B ,A ,D ,C ,D ,F ,D ,D ,C ,D ,F 
+Richard,Bender,SG,Pistons,RBSL,34,74,197,C ,A-,B+,A-,D ,C+,D+,C-,F+,A-,A+,D+,A-,A-,F+,F-,A ,C ,B ,A ,B ,D ,C ,D ,D ,D ,A ,A ,D 
+Derek,Latimer,PG,D-Mavericks,D-RBSL,33,70,177,F ,C-,B-,A-,C ,C ,F ,F-,F ,C-,B ,F ,B ,B ,F-,C ,B+,F ,D ,B ,A ,C ,C ,F ,F ,F ,D ,B ,F 
+Joseph,Miller,SG,FA,,33,77,214,F+,C+,C ,D-,F-,D-,F+,F+,F ,D+,D ,F ,C ,C ,D ,C ,A ,F ,C ,C ,F ,F ,D ,F ,F ,F ,D ,D ,F 
+Redd,Foxx,SF,76ers,RBSL,24,74,210,C ,C+,B+,C-,C ,D-,D+,D+,D+,C+,C ,D+,F+,A ,B ,A-,A ,B ,A ,A ,C ,B ,D ,C ,C ,C ,A ,B ,C 
+Zachery,Brown,PG,D-Magic,D-RBSL,25,71,167,D+,C-,C+,B-,C ,D-,F-,D+,F ,D ,B ,F ,C-,B+,D ,D-,C ,D ,D ,B ,B ,C ,D ,F ,D ,F ,D ,B ,F 
+Chris,Howard,PG,FA,,28,73,224,F ,C-,C+,F-,D-,F ,F ,F ,F-,F ,F-,F-,F+,B ,C ,D ,A ,F ,C ,B ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Zane,Quinones,PF,D-76ers,D-RBSL,26,81,251,D ,C-,B ,D-,C-,D-,B-,C-,C-,F ,F ,C-,C-,F+,D+,A ,C+,D ,D ,A ,F ,D ,D ,B ,D ,C ,F ,F ,D 
+Mitchell,Lee,PF,D-Spurs,D-RBSL,28,80,244,F+,C ,C ,F-,D ,D+,C ,C-,C ,F+,C-,C ,B+,D ,C-,B-,B-,F ,C ,C ,F ,D ,D ,C ,D ,C ,F ,D ,C 
+Rico,Cone,SF,Jazz,RBSL,24,80,222,F+,B-,A-,D ,C-,D-,F ,C-,F ,C ,D-,F+,D-,A ,A-,B-,A ,F ,B ,A ,D ,D ,D ,F ,D ,F ,C ,D ,F 
+Jamaal,McBurney,SF,D-Lakers,D-RBSL,26,78,213,D+,C ,B+,C+,C ,D-,C-,F-,F-,D+,C-,F ,C ,B-,C ,A ,C+,D ,C ,B ,C ,C ,F ,D ,F ,F ,D ,D ,F 
+Chris,Rice,PG,D-Thunder,D-RBSL,32,79,232,B ,C+,C ,F+,F-,D+,D ,D ,D-,D-,D-,F+,A-,D+,C ,C ,B-,B ,C ,C ,F ,F ,D ,D ,D ,D ,F ,F ,F 
+Charles,Gastelum,SF,Grizzlies,RBSL,28,81,249,D ,C ,C+,F-,C+,F+,F+,C+,D-,B ,B ,C-,B+,C+,C+,A ,A ,D ,C ,C ,F ,C ,F ,F ,C ,F ,B ,B ,D 
+Marco,Johnston,PG,D-Raptors,D-RBSL,27,74,202,D-,C ,C+,C+,C ,C ,D ,D ,F ,C+,D-,D+,A+,A ,C-,C ,A-,F ,C ,C ,B ,C ,C ,D ,D ,F ,B ,F ,D 
+Bryan,Morrow,PG,FA,,27,75,181,F-,F ,C-,F-,C-,F-,F-,F-,F-,D ,D ,F-,A ,B ,C-,C ,A+,F ,F ,D ,F ,D ,F ,F ,F ,F ,D ,D ,F 
+Jayson,Smith,PF,D-Suns,D-RBSL,28,80,248,C+,C-,C ,F-,D ,F ,C ,C ,C-,F+,D+,C+,C+,D ,C-,A-,B+,C ,D ,C ,F ,D ,F ,C ,D ,D ,F ,D ,C 
+Jared,Lewis,PF,D-Trail Blazers,D-RBSL,28,80,240,C ,C-,C ,F-,D+,D+,A-,B ,C+,D ,D ,D ,D-,C-,C ,C ,C ,B ,D ,C ,F ,D ,D ,A ,B ,C ,D ,D ,D 
+Timothy,Campbell,PF,FA,,27,81,251,F ,D+,C ,F-,C-,F-,C ,C-,D ,F-,D ,C ,C ,C-,C+,A-,B+,F ,D ,B ,F ,D ,F ,C ,D ,D ,F ,D ,D 
+Boris,Shelton,PG,FA,,31,75,188,D-,C ,C+,D ,F+,F+,F-,F-,F-,F+,F ,F-,C-,A-,C-,D ,A+,D ,C ,B ,D ,F ,D ,F ,F ,D ,D ,F ,F 
+Boyd,Musselman,PG,D-Mavericks,D-RBSL,32,75,214,C ,B-,A-,C ,C ,D+,F ,F-,F-,C-,D-,F ,C ,A ,C ,A-,A+,C ,B ,B ,C ,C ,D ,F ,F ,F ,D ,F ,F 
+Ward,Taylor,SG,D-Rockets,D-RBSL,29,75,188,C-,C+,C ,F-,C ,C-,D ,F ,F ,B ,C-,F ,C-,A-,D+,C ,A ,D ,C ,C ,F ,C ,D ,D ,F ,F ,B ,D ,F 
+Joseph,Swallow,SF,FA,,33,78,225,D-,D ,C+,C ,C-,D+,F ,F-,D-,C-,D+,F+,C ,C+,C-,C ,B ,D ,D ,B ,C ,D ,D ,F ,F ,D ,D ,D ,F 
+Estanislau,Gião,C,Raptors,RBSL,18,84,219,D ,D ,D+,F-,D-,F+,F+,C-,C ,F ,D+,F+,C-,D ,C ,B-,D ,D ,D ,D ,F ,D ,D ,D ,C ,C ,F ,D ,D 
+Anton,Musgrove,SF,Nuggets,RBSL,28,82,245,D+,B+,B+,B+,C ,D+,F+,D-,C-,D ,C+,D+,B ,C ,C ,B ,A+,D ,B ,A ,B ,C ,D ,F ,F ,C ,D ,C ,D 
+Walton,Collins,C,D-Rockets,D-RBSL,26,76,189,D+,B-,C ,F+,C ,F+,F-,F ,D-,C+,D-,F+,C ,B-,C-,C+,A-,C ,A ,C ,D ,C ,D ,F ,F ,D ,B ,D ,D 
+Emile,Mejia,PG,FA,,31,75,180,F-,C-,C+,F-,C ,D-,F-,F ,F-,F ,F-,F-,C-,B ,D+,C ,A+,F ,D ,B ,F ,C ,F ,F ,F ,F ,F ,F ,F 
+James,Fernandez,PG,D-Warriors,D-RBSL,25,74,203,D+,C+,C+,F+,B-,C-,F ,D-,F ,C ,C ,D+,A-,A ,D+,C+,A ,D ,B ,B ,D ,B ,C ,F ,D ,F ,C ,C ,C 
+Vladislav,Manis,PF,FA,,27,80,244,F+,C-,B+,F-,D ,D-,C ,C-,C+,D ,D ,C ,C+,D+,C ,A ,C+,F ,D ,B ,F ,D ,D ,C ,D ,C ,D ,D ,C 
+James,Renfroe,PF,Lakers,RBSL,29,80,247,C ,C ,C-,F+,B ,C ,C ,C-,A-,D+,C-,A-,C-,C ,C+,B ,B-,C ,C ,C ,F ,B ,C ,C ,D ,A ,D ,D ,A 
+Jaymes,Brown,PG,D-Pelicans,D-RBSL,31,74,186,D ,C ,C ,C+,C ,C ,F+,F ,F ,C ,B+,F-,C ,B-,C+,C ,A-,D ,C ,C ,B ,C ,C ,F ,F ,D ,C ,B ,F 
+Douglas,Risley,PF,D-Heat,D-RBSL,29,80,241,C ,C+,C ,F ,D ,D-,C-,C ,C ,F ,C ,C+,C ,C-,C ,A-,C ,C ,B ,C ,F ,D ,F ,D ,C ,C ,F ,D ,C 
+Sidney,Martin,C,D-Heat,D-RBSL,28,82,268,D+,B+,B+,F-,C ,D-,C-,B-,C ,C ,D ,C ,C-,D-,C-,A ,C ,D ,B ,B ,F ,C ,D ,C ,B ,C ,C ,D ,C 
+Marcos,Johnson,PG,FA,,27,75,187,D ,C-,B-,F ,C+,C ,D ,F+,F-,D-,F+,F+,B-,B+,C ,C+,B ,D ,D ,B ,F ,C ,C ,D ,F ,F ,F ,F ,F 
+Ismael,Anderson,C,FA,,22,84,244,D-,D ,C ,F-,D-,F+,D+,C-,B ,F ,D ,F ,D-,F-,D ,C ,D+,D ,D ,C ,F ,D ,F ,D ,C ,B ,F ,D ,F 
+Phillip,Perry,SF,Hornets,RBSL,25,80,244,C+,A-,C+,C ,C-,C-,A-,B+,C-,B ,A+,B-,C ,A-,C-,B+,A+,C ,A ,C ,C ,D ,C ,A ,B ,D ,B ,A ,B 
+Zane,Smith,SG,FA,,23,78,209,D ,B-,B+,F ,C ,F+,F ,F+,F ,F ,F ,F-,A ,C+,C ,C ,A-,D ,B ,A ,F ,D ,F ,F ,F ,F ,F ,F ,F 
+Jerónimo,Poblano,C,FA,,18,86,244,F ,D-,C-,F-,F+,F ,D-,F+,F+,F-,F+,F+,B-,F-,C-,B-,D+,D ,D ,D ,F ,D ,F ,D ,D ,D ,F ,D ,D 
+Dong,Fuentes,PG,D-Clippers,D-RBSL,25,75,209,C ,B-,B-,F ,C ,C ,F ,F-,F-,C ,D+,F ,C+,A-,C-,C-,A-,C ,B ,B ,F ,C ,C ,F ,F ,F ,C ,D ,F 
+Errol,Rice,PG,FA,,27,73,231,F ,C-,B-,F-,D-,F+,F-,F-,F-,D ,F-,F-,A+,B+,D ,B+,A ,F ,D ,B ,F ,D ,F ,F ,F ,F ,D ,F ,F 
+Ross,Davis,PG,FA,,26,77,186,F-,C-,C+,F+,D+,D ,F-,D ,F-,D-,D-,F ,C+,B ,D ,C ,A ,F ,C ,B ,F ,D ,D ,F ,D ,F ,F ,F ,F 
+Joseph,Kirkland,PF,D-Jazz,D-RBSL,31,81,252,C ,C-,B ,F-,B+,C ,F+,D-,C-,D ,F-,C+,A+,C+,F+,A+,A-,C ,D ,B ,F ,B ,C ,F ,F ,D ,D ,F ,B 
+Orlando,Moore,SG,D-Jazz,D-RBSL,32,75,200,C ,C ,C+,C ,C+,D+,D ,F+,D+,B-,C-,F-,A ,C+,F-,C+,B+,D ,C ,A ,C ,C ,D ,D ,F ,D ,B ,D ,F 
+Shad,Lee,SF,FA,,27,79,229,F+,C ,C ,F+,C ,D ,F+,C-,C ,D ,D+,F+,C ,C+,C ,A-,A ,D ,C ,C ,F ,C ,D ,F ,D ,C ,D ,D ,F 
+Daniel,Collins,SF,FA,,28,77,222,D-,C ,B ,D ,D ,F+,F+,D+,C-,D+,D+,C-,D+,C ,C-,B+,A ,D ,C ,B ,D ,D ,F ,F ,D ,C ,D ,D ,D 
+Andrew,Goodwin,PG,Nuggets,RBSL,25,75,218,C ,B ,C+,C-,B-,C ,D ,C-,F ,B+,B-,D-,A+,A ,A+,D ,A ,C ,B ,A ,D ,A ,B ,D ,C ,F ,A ,B ,D 
+Wesley,Hood,SF,D-Heat,D-RBSL,27,78,224,C-,C ,B ,F+,D+,F ,D-,F ,D ,B-,C-,F+,A ,A-,D+,B ,A-,D ,C ,B ,F ,D ,F ,F ,F ,D ,B ,D ,F 
+Chris,Pom,PF,Kings,RBSL,26,82,255,C-,C ,B-,B-,F-,F ,C ,C+,C ,C-,B ,B+,A-,C+,A-,B-,A ,D ,B ,B ,B ,F ,D ,C ,B ,C ,C ,B ,B 
+John,McKenzie,SF,D-Suns,D-RBSL,28,79,233,C+,C+,B-,F-,C ,D+,C+,C ,D+,C ,C-,D-,F-,C ,C ,B ,A ,C ,C ,B ,F ,C ,D ,B ,C ,D ,C ,D ,F 
+George,Ayers,SF,Nets,RBSL,25,79,197,F ,B+,A+,C ,D+,D+,C-,C ,C-,F+,B-,C-,B ,C+,C ,B+,A-,F ,B ,A ,C ,D ,D ,C ,C ,C ,D ,B ,C 
+Esteban,Heras,SG,D-Mavericks,D-RBSL,27,74,188,D-,C ,B+,C ,A-,F+,F ,F+,F ,D+,D-,F-,C-,A-,D+,C ,A-,D ,C ,A ,C ,B ,F ,F ,F ,F ,D ,D ,F 
+Michael,Estabrook,SF,D-Bucks,D-RBSL,33,79,229,D+,C ,C+,C ,C ,C ,F ,D+,F+,D+,D+,C-,A-,B+,D-,D ,A ,D ,C ,B ,C ,C ,D ,F ,D ,F ,D ,D ,D 
+Eric,Heredia,SF,D-Pacers,D-RBSL,28,79,228,D-,C ,B ,C-,C-,D-,D-,D+,C-,C ,C-,C-,C-,C-,C ,B-,C+,D ,C ,B ,D ,D ,D ,F ,C ,C ,C ,C ,C 
+Eugene,Evans,SG,D-Nets,D-RBSL,26,80,211,D-,C ,C+,C ,C ,F+,D+,D-,D+,D-,D ,F ,B ,C+,C ,B ,A ,F ,C ,B ,C ,C ,F ,D ,D ,D ,F ,D ,F 
+Brendan,Fitzgerald,PF,FA,,25,78,209,C-,C-,B ,D ,C-,F+,F ,D-,F ,C-,D ,D ,C-,B ,C-,B-,C+,C ,D ,B ,D ,C ,D ,F ,D ,F ,D ,D ,D 
+Spencer,Webster,PF,FA,,27,79,252,F ,C ,C ,F-,D ,F ,C ,C-,F-,F-,D-,D-,D ,D ,C+,A ,C-,F ,D ,C ,F ,D ,F ,C ,D ,F ,F ,D ,F 
+Micah,Chavarria,SG,Bucks,RBSL,26,77,218,D+,B-,B ,C-,C-,D ,D-,F+,F ,B-,D ,D-,A+,A-,C ,D ,A ,C ,B ,B ,C ,C ,D ,D ,F ,F ,B ,D ,D 
+Matthew,Garcia,SF,FA,,32,78,224,C ,C-,C ,C-,C ,D+,F ,D+,D-,C ,C ,F+,C ,C+,F-,A-,A-,C ,D ,B ,D ,C ,D ,F ,D ,D ,C ,C ,F 
+Stanley,Montiel,SG,D-Kings,D-RBSL,27,78,223,D+,D-,C ,C-,C ,D-,F ,F+,F-,C-,D ,D-,B+,B+,C+,A ,A ,D ,D ,C ,D ,C ,F ,F ,F ,F ,D ,D ,D 
+Tony,Johnson,SF,D-Kings,D-RBSL,27,77,217,D ,C-,A ,C ,D-,F+,D-,C-,F-,F ,D ,F ,F+,A-,B ,B-,A+,D ,D ,A ,C ,F ,F ,F ,D ,F ,F ,D ,F 
+Thomas,Tanner,PF,D-Heat,D-RBSL,29,80,235,D ,C-,C-,F-,C ,F ,C ,C ,C+,D-,D ,F+,F+,C ,B ,B ,A ,D ,D ,C ,F ,C ,F ,B ,C ,C ,F ,D ,F 
+Kurtis,Wilson,SF,D-Cavs,D-RBSL,33,75,202,C ,A-,C ,D ,B ,C ,F ,C ,F+,D+,C-,F-,C-,B+,D ,C-,A-,C ,A ,C ,D ,B ,C ,F ,C ,F ,D ,D ,F 
+Nigel,Walton,SF,FA,,28,79,233,D-,C+,C ,D ,C ,D-,D ,D+,C-,C ,D ,F ,F ,C ,C ,B ,A+,D ,C ,C ,D ,C ,D ,D ,D ,D ,C ,D ,F 
+Barney,Millett,SG,FA,,32,75,224,D-,C ,C+,D+,C-,F+,F-,D-,F+,C-,C ,F+,D+,C+,D+,C+,A ,D ,C ,B ,D ,D ,F ,F ,F ,F ,D ,C ,F 
+David,Walton,C,FA,,22,82,234,D-,C-,A ,F-,D-,F+,D-,C ,C-,F+,D+,C ,F-,F ,D ,B+,F-,D ,C ,A ,F ,D ,F ,D ,B ,C ,F ,D ,B 
+David,Anderson,PF,FA,,28,77,221,F+,C+,C+,D-,C ,D+,F ,D+,D-,D-,D+,D ,C ,C ,C ,B ,B+,F ,C ,C ,D ,C ,D ,F ,D ,D ,F ,D ,D 
+Gerald,Campo,C,FA,,19,82,243,F ,F ,C ,F-,D ,F-,F-,F-,F-,F-,F-,F-,C ,F-,D ,A-,C ,F ,F ,C ,F ,D ,F ,F ,F ,F ,F ,F ,F 
+Joe,Nesbit,SG,D-Timberwolves,D-RBSL,29,78,228,C-,C-,B+,C-,C-,C ,D ,D ,F ,C+,C-,F ,B+,A+,D+,B ,A+,D ,D ,B ,D ,D ,C ,D ,D ,F ,C ,D ,F 
+Andrew,Davis,SG,D-Suns,D-RBSL,26,78,229,D+,B-,B-,F-,D-,D+,F ,C-,F ,C ,C+,F-,C+,B+,C-,C-,C+,D ,B ,B ,F ,D ,D ,F ,D ,D ,C ,C ,F 
+Frank,Wright,SF,FA,,26,78,227,C-,D+,B ,F-,F+,F-,C+,D-,C ,D+,C-,F+,B ,C+,C-,B+,B ,D ,D ,B ,F ,F ,F ,C ,D ,C ,D ,D ,F 
+Robert,Jackson,PF,FA,,28,81,250,F+,D+,B ,F-,C-,D ,C-,C ,C+,F+,F ,D ,C ,D-,D-,B ,B-,F ,D ,B ,F ,D ,D ,D ,C ,B ,D ,F ,D 
+Chris,Harris,PF,FA,,24,82,237,F-,D+,C-,F-,D ,F+,C ,C-,C ,F-,D-,D-,C+,F+,C ,C ,C+,F ,C ,D ,F ,D ,D ,C ,C ,B ,F ,D ,D 
+Lazaro,Markus,PF,FA,,27,81,250,D ,D+,C ,F-,C-,F-,C+,D+,F+,F+,D-,D ,C ,D ,C-,A-,B-,D ,D ,C ,F ,D ,F ,C ,D ,F ,F ,D ,D 
+Loyd,Layfield,SG,Hornets,RBSL,29,77,225,A ,C+,B-,D-,B-,D ,D-,D-,F+,D ,C-,F+,F+,A-,D+,C ,A+,A ,B ,B ,D ,B ,D ,F ,D ,D ,D ,D ,F 
+Chris,Villar,PF,FA,,27,83,274,F+,D-,C+,F-,C-,D-,C-,F ,D-,F-,F+,C-,B-,D-,C-,C ,A-,F ,F ,C ,F ,C ,F ,D ,F ,D ,F ,D ,D 
+David,Martin,C,FA,,21,84,263,F-,F ,C-,F-,F ,F-,F-,F ,F-,F-,F-,F ,B+,F-,D+,C+,D ,F ,F ,C ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Richard,Williams,C,D-Knicks,D-RBSL,27,82,232,F+,C+,B-,F+,D ,F+,B+,C-,C-,D ,D+,D ,B ,C ,C+,A-,B+,F ,C ,B ,F ,D ,F ,B ,C ,C ,D ,D ,D 
+Jeffrey,Gonzales,C,FA,,22,81,230,F+,C ,C-,F-,D-,F+,C ,D+,C-,F ,F+,C-,C ,F-,C+,C+,D+,D ,C ,D ,F ,D ,D ,C ,C ,B ,F ,F ,D 
+Kenneth,Brown,SG,D-Bulls,D-RBSL,33,73,188,C ,C-,C ,D ,C-,C-,C-,D+,D ,C ,D-,D+,C-,A-,D+,C-,A-,C ,D ,C ,D ,C ,C ,D ,D ,D ,C ,D ,D 
+Charles,Roy,PF,FA,,29,81,253,F ,D ,C ,F-,C ,C-,F-,D+,C ,D-,D+,D-,C ,F+,F+,A ,A-,F ,D ,C ,F ,C ,D ,F ,D ,C ,F ,D ,D 
+Xavier,Embiid,PF,Suns,RBSL,30,81,254,C-,C ,B ,F+,C-,F+,C-,C ,B-,D+,D+,C-,C+,C ,A-,A ,A+,D ,D ,B ,F ,D ,F ,D ,C ,B ,D ,D ,D 
+Cranjis,McBasketball,PG,Bucks,RBSL,26,74,207,C ,C+,B ,D ,C-,B+,C-,C-,D+,A+,B-,C-,A-,A ,C+,C+,A-,C ,B ,A ,D ,D ,B ,D ,D ,D ,A ,B ,C 
+Tony,Bischoff,PF,FA,,30,79,234,D+,C ,A-,C ,C-,F+,D+,C ,D+,F-,D-,C-,C-,D ,C ,A-,C ,D ,C ,A ,C ,D ,F ,D ,C ,D ,F ,D ,D 
+Dion,Jackson,PF,FA,,28,81,254,F ,D ,C-,F-,D+,D ,C-,C-,D ,F+,D ,D ,C+,D+,C ,A+,B-,F ,D ,D ,F ,D ,D ,D ,D ,D ,F ,D ,D 
+Andrew,Beach,SG,D-Nuggets,D-RBSL,33,75,225,C ,B-,B+,C ,B-,C-,F-,F+,F ,B ,C ,F ,D+,B-,C-,D ,A-,C ,B ,B ,C ,B ,D ,F ,F ,F ,B ,C ,F 
+Ram¢n,Zaga,PG,D-Bulls,D-RBSL,26,71,168,D+,C ,B-,F-,C+,C-,D-,F+,F-,B-,D+,F-,B-,A-,C ,C ,B+,D ,C ,B ,F ,C ,D ,F ,F ,F ,B ,D ,F 
+Anibal,Robinson,PF,FA,,25,83,268,F+,D+,B-,F+,C ,F-,C+,F+,D ,F ,F ,C-,B ,D-,D+,C-,C-,F ,C ,B ,F ,C ,F ,B ,D ,D ,F ,F ,D 
+Andrew,Miller,PF,D-Spurs,D-RBSL,28,81,254,D ,C ,B-,F-,C ,D-,C ,C+,C ,D ,D+,C-,C ,C ,B-,A ,B-,D ,C ,B ,F ,C ,D ,C ,C ,C ,D ,D ,D 
+Stavros,Antetokounmpo,PF,Wizards,RBSL,27,80,245,C ,C ,B ,D-,C ,C ,C+,A-,A ,C+,C+,B-,B+,C ,A-,A-,A ,C ,C ,B ,D ,C ,C ,C ,A ,A ,B ,C ,B 
+Nestor,Anderson,PG,FA,,27,75,214,F-,C+,C ,F ,D-,C-,F-,F-,F ,D-,D-,F ,A ,A ,D+,C+,A-,F ,C ,C ,F ,D ,C ,F ,F ,D ,D ,D ,F 
+Dana,Joyner,PF,D-Bulls,D-RBSL,27,80,243,D+,D ,C ,D-,D+,F+,C-,C ,C-,F-,F ,B-,B+,D-,C ,B-,C ,C ,D ,C ,D ,D ,D ,D ,C ,D ,F ,F ,B 
+Robert,Levine,C,FA,,25,84,274,F+,D ,D-,F-,D ,D-,D ,C-,D ,F ,F+,C ,A+,D-,C ,A ,C-,F ,D ,F ,F ,D ,F ,D ,D ,D ,F ,F ,C 
+Dong,Clay,C,Mavericks,RBSL,24,81,233,C ,C ,C ,C-,C ,F+,C ,C ,C+,D ,C-,C ,F ,C ,B+,B-,B-,B ,C ,C ,C ,C ,F ,B ,B ,B ,D ,C ,C 
+Grady,Wilson,PF,Pelicans,RBSL,29,82,265,A-,B+,B-,A ,C ,C-,A+,A ,B ,D-,B-,A+,F ,C ,A-,B ,A-,A ,B ,B ,A ,C ,C ,A ,A ,B ,D ,A ,A 
+Jerold,Gagliardi,PG,D-Hornets,D-RBSL,31,71,206,C-,B-,B ,D-,C-,D+,F ,D+,F-,C+,D+,F ,B ,B ,C ,C ,A+,D ,B ,B ,F ,D ,D ,F ,D ,F ,B ,D ,F 
+Michael,Adkisson,PF,D-Lakers,D-RBSL,29,80,255,C ,C ,C+,F ,D+,F ,B-,C ,C+,D-,D-,D ,A-,D ,D ,A-,A ,D ,C ,B ,F ,D ,F ,B ,C ,C ,D ,F ,D 
+Ramiro,Rosauro,PF,FA,,28,78,233,C ,C ,C ,D-,D ,D-,C ,D-,C-,F ,D-,C-,C+,D ,C-,A-,C+,C ,C ,C ,F ,D ,F ,C ,D ,D ,F ,D ,D 
+Jamel,Woodcock,PF,FA,,25,78,273,D ,D+,A-,F-,D+,F-,D ,C ,D+,F-,D-,D ,B-,F+,C-,C ,C ,C ,C ,A ,F ,C ,F ,D ,C ,C ,F ,D ,D 
+Gregory,Gurrola,SG,Rockets,RBSL,33,80,239,C ,C ,B ,B ,C ,C ,F ,D ,F+,C ,C ,F-,B+,B+,D+,B ,C ,C ,C ,B ,B ,C ,C ,F ,D ,F ,C ,C ,F 
+Carter,Smith,PF,FA,,29,80,242,D-,C+,C ,F-,D ,F ,D-,C-,F ,D-,D ,D ,A ,F+,D-,A ,C ,D ,C ,C ,F ,D ,F ,F ,D ,F ,F ,D ,D 
+Cesar,Jefferson,C,FA,,26,83,247,F+,D+,B-,F-,D-,D-,C-,C-,C ,F-,F ,C ,F-,F ,C-,C+,C ,D ,C ,B ,F ,D ,D ,C ,C ,C ,F ,D ,B 
+Willie,Schoonover,PG,D-Clippers,D-RBSL,24,74,217,D ,A-,B-,C ,C ,F+,D-,F-,F-,F+,C ,F ,B-,A-,C ,C ,A-,D ,A ,B ,C ,C ,D ,D ,F ,F ,F ,C ,F 
+Jame,Massey,SG,FA,,32,77,212,D ,C-,A-,C ,C-,D-,F-,D+,F-,D ,D+,F ,C-,C+,D+,C ,A ,D ,D ,A ,C ,D ,F ,F ,D ,F ,D ,D ,F 
+Gary,Campbell,PF,FA,,29,80,245,F ,D-,D+,F-,D+,D-,D+,C-,D-,F ,D-,D-,A+,D+,C ,B+,A-,F ,D ,D ,F ,D ,D ,D ,D ,F ,F ,F ,D 
+Alvin,Baron,C,FA,,27,80,254,F+,C-,C-,F-,D ,F+,B ,D+,D ,F ,F+,B-,C-,C ,C-,A ,A-,F ,D ,D ,F ,D ,F ,B ,D ,D ,F ,F ,B 
+Ezra,German,C,Hornets,RBSL,27,85,268,B+,C-,C ,F+,C+,C ,C-,C+,B+,D+,D+,A-,D-,C-,F+,B ,A-,B ,C ,C ,F ,B ,C ,C ,C ,B ,C ,D ,A 
+Jarred,Nicely,SG,Cavaliers,RBSL,25,79,230,A-,C+,B+,C ,B-,C ,D ,C+,C ,B+,C-,D ,C+,A ,A-,C ,A ,A ,C ,A ,C ,B ,C ,D ,C ,C ,B ,C ,D 
+Richard,Schiffman,PG,D-Magic,D-RBSL,32,73,199,D-,C-,C+,C ,C ,C+,F+,D-,F ,C ,C ,F+,C+,A-,C-,D+,A ,D ,D ,B ,C ,D ,C ,F ,D ,F ,C ,C ,F 
+Gerald,White,PF,Trail Blazers,RBSL,26,80,245,C ,C+,C ,D ,C+,C ,A ,B+,B-,D ,D+,B ,A ,C ,B-,A-,B-,C ,A ,B ,D ,B ,B ,A ,B ,B ,C ,C ,B 
+Tyler,Briones,C,Pelicans,RBSL,30,80,246,C-,D ,D+,F-,F ,F ,C ,A-,B-,D ,C ,F ,A+,D+,C-,B-,C ,C ,D ,D ,F ,F ,F ,C ,A ,B ,C ,C ,F 
+Arthur,Hernandez,C,Bucks,RBSL,26,82,251,A-,D ,C+,F-,D-,C ,C-,D ,C ,F+,F ,C+,C+,C ,B ,C ,C ,A ,C ,B ,F ,F ,C ,B ,D ,B ,D ,F ,A 
+Roberto,Williams,PG,D-Bucks,D-RBSL,33,74,231,D ,C-,B-,C ,C+,D+,F ,D-,F-,C ,C ,F+,C ,A ,D ,D ,A ,D ,D ,B ,C ,C ,D ,F ,F ,F ,C ,C ,F 
+Al,Gibb,PG,D-Nets,D-RBSL,27,77,228,D-,C ,C ,D ,C ,D+,D-,D+,D-,C-,C-,D-,F-,C+,C+,C ,B+,F ,C ,C ,D ,C ,D ,D ,D ,D ,D ,D ,D 
+Artur,Munhos,C,Rockets,RBSL,23,82,268,D-,C-,C+,F-,C ,D ,B-,A ,B ,F ,C-,C ,A ,D+,B ,B+,C ,D ,D ,B ,F ,C ,D ,B ,A ,B ,F ,D ,C 
+Gerald,Green,PG,FA,,29,75,182,D ,C-,C ,D+,F+,C-,F-,F+,F ,F ,D+,F-,C+,A-,C-,C ,A-,D ,D ,C ,D ,F ,D ,F ,F ,F ,F ,D ,F 
+Todd,Campbell,PG,FA,,30,75,184,F+,C ,B ,D-,C-,C ,C-,F+,D-,C ,F+,F-,A-,B ,D ,F+,A ,D ,C ,B ,F ,C ,C ,D ,F ,D ,C ,F ,F 
+Eugene,Naughton,SG,D-Knicks,D-RBSL,26,80,217,D+,C ,C+,D+,C ,F+,C-,D-,F-,D-,C ,F ,C ,C+,D-,B+,B+,D ,D ,B ,D ,D ,F ,D ,F ,F ,D ,C ,F 
+Kevin,Gordon,PG,FA,,24,72,172,F ,C-,B+,F-,D+,F ,F ,F+,F-,C+,C-,F-,B ,B+,C-,B-,C ,F ,C ,B ,F ,D ,F ,F ,F ,F ,C ,C ,F 
+Paul,Jasso,C,FA,,27,84,270,D-,C ,B-,F-,D+,D ,F+,D ,D ,D ,D-,C ,C ,D ,C-,A ,C ,D ,C ,B ,F ,D ,D ,F ,D ,D ,D ,F ,C 
+John,Nash,SG,D-Knicks,D-RBSL,30,77,220,D-,C ,C ,D-,F+,F+,D-,F+,F ,D ,D+,F-,C ,A ,C+,C+,A ,F ,C ,B ,F ,F ,F ,F ,F ,F ,D ,D ,F 
+Melvin,Colburn,SF,Raptors,RBSL,24,77,223,C-,C+,B-,B-,C ,C-,D ,D ,C-,C ,F+,D ,B ,A+,C+,A-,A ,C ,C ,B ,B ,A ,C ,D ,D ,B ,B ,D ,D 
+Álvaro,Montt,PF,FA,,22,80,238,D ,D ,B ,F-,D-,F+,D ,D-,D+,F ,C-,D ,A-,D ,D+,B-,B ,D ,C ,A ,F ,D ,D ,D ,D ,C ,D ,C ,D 
+Delmar,Rodriguez,SG,FA,,30,76,220,F+,D+,C ,D ,D ,F ,F ,F+,F-,C-,D+,F ,A-,B ,C ,A-,A ,F ,D ,B ,D ,D ,F ,F ,F ,F ,D ,D ,F 
+Emory,Buchanan,C,Kings,RBSL,30,83,277,C+,C-,C+,F-,B ,D-,C ,C ,C ,D+,C ,B ,C+,C ,B+,C+,A ,C ,D ,B ,F ,B ,D ,C ,C ,C ,D ,C ,B 
+Dong,Williams,PF,FA,,24,78,224,D ,C-,B ,F-,D+,F-,C-,F+,C ,F ,D+,B-,D+,C ,C+,C ,C+,D ,C ,B ,F ,C ,F ,C ,F ,C ,F ,C ,B 
+Liang,Hou,SF,D-Knicks,D-RBSL,23,81,216,F-,B ,B ,F-,C-,D-,D+,F+,D+,C ,C ,D-,C-,C ,C ,C+,B+,F ,B ,A ,F ,C ,D ,D ,F ,D ,C ,C ,D 
+Jackie,Martinez,SF,Hawks,RBSL,24,78,188,C+,A-,A-,C ,C ,F ,C ,C-,C+,A ,C ,C-,C ,A ,B-,D ,C+,B ,A ,A ,C ,C ,F ,C ,C ,B ,A ,B ,C 
+Avery,Franklin,SF,D-Timberwolves,D-RBSL,29,75,187,C-,C ,B ,C ,C+,D+,D-,D+,C ,D+,B ,C ,F+,A ,C ,D ,A ,C ,C ,B ,C ,C ,D ,F ,D ,C ,D ,B ,C 
+Teodoro,Parilla,C,D-Trail Blazers,D-RBSL,24,83,240,C ,C-,B+,F-,D ,D ,C+,C+,C ,F ,F-,D-,F ,F ,C ,C ,C ,C ,C ,B ,F ,D ,D ,C ,C ,C ,F ,F ,F 
+Domingo,Kane,PG,D-Nets,D-RBSL,26,75,194,D ,C ,A-,C ,C ,D+,F ,F ,F+,D ,D ,F ,B ,A-,C ,A-,A-,D ,C ,A ,C ,C ,D ,F ,F ,D ,D ,D ,F 
+Miroslav,Nesterovic,C,Wizards,RBSL,22,84,241,D+,C+,C ,F+,C+,C-,B+,C ,C+,C+,D-,C ,C-,C ,C+,B-,C+,D ,C ,C ,D ,C ,C ,B ,B ,B ,B ,D ,B 
+Stanford,Allen,PG,D-Pistons,D-RBSL,26,72,206,D ,B+,B-,D-,C ,D+,F ,D-,F-,D+,D+,F-,B ,B ,C ,C-,A-,C ,A ,B ,D ,C ,D ,F ,D ,F ,D ,D ,F 
+Eloy,Alford,PF,D-Jazz,D-RBSL,29,80,244,C-,D+,C ,F ,C ,D-,F+,C+,D+,F+,D+,C+,B-,D-,C ,A-,C+,D ,D ,C ,F ,C ,F ,F ,C ,D ,F ,D ,C 
+John,Cobb,SF,Jazz,RBSL,31,78,222,C+,B+,A-,C+,C+,F ,F ,D-,F ,C+,F+,D ,B ,A-,D-,B+,A ,C ,B ,A ,B ,C ,F ,F ,F ,F ,C ,F ,D 
+Timothy,Birdsall,PF,FA,,29,80,244,C-,C ,B-,F-,C-,F ,D-,D+,C-,F+,F+,C ,A+,D ,C-,C+,B+,D ,C ,B ,F ,C ,F ,F ,D ,D ,D ,F ,C 
+Lonnie,Leblanc,PG,FA,,25,70,192,D-,C ,B+,C-,C ,F+,F-,F-,F ,B-,C+,F+,A ,B+,D ,A ,B-,F ,C ,A ,D ,C ,F ,F ,F ,F ,B ,C ,F 
+Timothy,Langley,PF,FA,,22,81,246,F+,C+,B+,F-,D+,F+,C ,C-,F+,F ,D-,C ,C+,D+,C ,C+,C ,F ,C ,B ,F ,D ,F ,D ,D ,F ,F ,D ,C 
+Cameron,Williams,PF,Timberwolves,RBSL,29,80,263,D-,D+,B ,F-,B-,D+,C-,C ,B ,C-,C ,B-,B-,C ,A+,A-,A ,D ,D ,B ,F ,B ,D ,D ,C ,B ,D ,C ,B 
+Kenneth,Wilbourn,SG,Pelicans,RBSL,26,77,225,B+,B ,C+,D+,A ,D-,F+,D ,F ,D ,B+,F-,C ,A ,B ,C ,B ,B ,B ,B ,D ,A ,D ,F ,D ,F ,D ,B ,F 
+Odalis,Bergasa,PF,D-Wizards,D-RBSL,30,81,263,C-,B-,C+,F-,C-,C-,C+,C-,C ,C-,C ,C ,C+,C ,C+,C+,A-,D ,B ,B ,F ,C ,D ,C ,D ,C ,C ,C ,C 
+Burton,Anderson,SG,FA,,30,77,213,F ,C-,B ,C ,D ,F-,F ,D-,F+,F+,D-,F ,A ,B ,D ,B+,A-,F ,D ,A ,C ,D ,F ,F ,F ,F ,F ,D ,F 
+James,Hodges,SF,FA,,31,77,225,D ,D+,B ,F-,C ,F ,F ,F+,F-,D+,D ,F ,B ,B-,B ,A ,A-,D ,D ,B ,F ,D ,F ,F ,F ,F ,D ,D ,F 
+Harry,Dawson,SG,FA,,31,74,223,D ,D+,B-,D-,C ,F ,F ,C-,D ,D ,F+,F+,A ,C+,B-,C+,A-,D ,D ,B ,D ,C ,F ,F ,D ,D ,D ,F ,F 
+Hassan,Taylor,PF,FA,,27,79,235,C-,D+,C ,F ,D+,D+,C-,C-,C ,D-,C ,C ,D ,D-,D+,A ,A-,D ,D ,C ,F ,D ,D ,D ,D ,C ,F ,C ,C 
+Josue,Botello,PF,Thunder,RBSL,21,80,224,C ,C-,B+,D-,C ,C+,C ,C+,C ,F+,D+,B-,C-,C+,C ,B+,A-,B ,C ,B ,F ,C ,C ,B ,A ,C ,F ,D ,B 
+Preston,Rodriguez,SF,D-Bulls,D-RBSL,32,80,232,C ,C ,B+,C-,C-,D-,F-,F ,F ,B-,D ,F-,C+,C ,F-,B+,B ,C ,C ,B ,D ,D ,F ,F ,F ,F ,B ,D ,F 
+Damion,Dorton,C,FA,,24,85,230,F+,C-,D-,F-,D-,F ,F-,F+,C-,F ,D ,C ,C+,D-,C+,A-,C+,F ,D ,D ,F ,F ,F ,F ,F ,D ,F ,D ,C 
+Ervin,Renfrow,PF,D-Thunder,D-RBSL,29,81,250,C ,C-,B ,F-,F ,F+,F+,C ,C-,F-,D-,D+,A-,D-,C ,A+,C+,C ,D ,B ,F ,F ,F ,F ,D ,D ,F ,F ,D 
+Biyi,Jimoh,C,Cavaliers,RBSL,27,84,288,F ,D ,C ,F-,D+,F+,C ,C ,B-,F+,D ,C+,D ,D ,C ,B+,B+,F ,D ,C ,F ,D ,F ,C ,D ,B ,F ,D ,C 
+Jerry,Lazar,PG,FA,,27,75,191,D ,C ,C ,F ,D+,D-,F ,D ,D-,B-,D ,F-,C ,B ,C-,C-,A-,D ,C ,C ,F ,D ,D ,F ,D ,D ,B ,D ,F 
+Dekle,Traino,SG,FA,,30,77,218,F-,D ,C+,F ,F ,F-,F-,F-,F-,F ,F-,F-,D ,C+,C+,A-,A ,F ,D ,B ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Ross,Rowland,SG,Nuggets,RBSL,30,75,227,C-,B-,B-,D-,C-,D+,F+,D ,C ,C+,C-,D-,F+,A ,B+,C ,A ,D ,B ,B ,F ,D ,D ,F ,D ,C ,C ,D ,D 
+Ernest,Whiteside,C,FA,,27,82,263,D ,D ,C ,C ,C-,F-,F ,D-,C ,D-,D-,D+,C ,C-,C-,A+,A-,D ,D ,C ,D ,D ,F ,F ,D ,C ,D ,D ,D 
+Harold,Barr,C,Celtics,RBSL,22,83,248,F ,F+,C ,F-,D-,F ,C ,D-,C ,F ,D-,F+,F+,D ,B-,C ,C+,F ,D ,C ,F ,D ,F ,B ,D ,B ,F ,D ,D 
+Carroll,Guilford,PF,D-Grizzlies,D-RBSL,27,82,262,D+,C-,C+,F-,D+,C-,C-,C-,B-,F ,D ,D ,C+,C-,C ,A+,B+,D ,C ,B ,F ,D ,C ,D ,D ,B ,F ,D ,D 
+Brian,Dejesus,PF,D-Nets,D-RBSL,24,81,253,D+,C ,B-,F-,C ,F+,C+,C ,D+,F-,C-,D+,B-,D-,C ,A-,C ,D ,C ,B ,F ,C ,F ,C ,C ,D ,F ,C ,D 
+Quinton,Jones,SG,D-Raptors,D-RBSL,34,77,205,F+,C ,A ,B+,B+,C ,F-,F ,D-,C+,F ,F ,A ,C ,F-,F ,A-,F ,C ,A ,B ,B ,C ,F ,F ,D ,C ,F ,F 
+Duane,Lentz,PF,FA,,20,82,261,F+,D-,C ,F-,D+,F ,D ,F+,F ,F-,F-,F+,D ,D ,D ,B ,C ,F ,D ,C ,F ,C ,F ,D ,D ,F ,F ,F ,D 
+Gerald,Carper,PF,FA,,20,80,242,F ,D+,B-,F-,C-,F-,B-,D+,D ,F-,F+,D ,A-,D+,D ,C+,B-,F ,C ,B ,F ,C ,F ,A ,C ,D ,F ,D ,D 
+Andreas,Stratis,SG,Wizards,RBSL,27,77,228,F+,C-,C ,B ,B-,F+,D-,F+,F ,A-,F-,F ,B-,B+,A ,C-,A ,F ,D ,C ,B ,B ,F ,F ,F ,F ,A ,F ,F 
+Elmo,Scottaceti,PF,Cavaliers,RBSL,28,80,249,C ,C ,C+,D-,C-,F ,C ,B+,A-,F ,C-,C+,C+,C ,C ,A-,A+,C ,C ,B ,F ,C ,F ,C ,B ,B ,F ,D ,B 
+Alexandros,Mena,SF,D-Bucks,D-RBSL,32,77,235,C-,C+,B+,B ,D+,D ,F+,D+,F-,D-,C-,D-,C-,B ,F ,B+,A-,D ,B ,A ,B ,D ,D ,F ,D ,F ,D ,D ,D 
+Isaac,Betts,SF,D-Hawks,D-RBSL,30,76,204,C-,C ,C-,C ,C+,D ,F-,D-,F+,C-,C+,F ,D-,A-,D+,B+,A ,D ,C ,C ,C ,C ,D ,F ,F ,F ,D ,C ,F 
+Christopher,Terry,SG,Nuggets,RBSL,33,77,214,F+,C ,B ,B ,B+,D ,F-,D-,C-,B ,C+,F+,A-,B+,F+,D-,C+,F ,C ,A ,B ,B ,D ,F ,F ,D ,B ,C ,F 
+Jordan,Campbell,PF,FA,,29,83,262,D-,C-,C-,F-,D-,F+,C ,C-,C-,D-,C-,F+,C+,D ,C+,B-,B ,D ,D ,D ,F ,D ,F ,C ,C ,D ,D ,D ,F 
+Oscar,Baird,PG,FA,,32,67,170,F+,C ,C ,C-,B+,B-,C ,D ,F ,C ,F+,F ,C ,C+,D+,C ,A ,F ,C ,B ,D ,B ,B ,C ,D ,F ,C ,F ,F 
+Dominick,Cobb,SG,FA,,30,75,212,F+,D+,A ,C ,C-,F+,F-,F-,F ,D ,C-,F ,B ,A-,C+,C+,A+,F ,D ,A ,C ,D ,F ,F ,F ,F ,D ,D ,F 
+James,Bloomfield,SF,Celtics,RBSL,27,81,255,B ,B-,C ,C ,C ,F+,A-,A+,C ,C+,A ,C+,B+,C ,C+,A ,A ,B ,B ,C ,C ,C ,D ,B ,A ,C ,C ,A ,C 
+Clifford,Barry,PG,FA,,34,76,204,D-,C-,B ,D-,C+,D ,F ,F-,F+,C-,F+,F ,C ,D+,F ,C ,B+,F ,C ,B ,D ,B ,D ,F ,F ,F ,C ,F ,F 
+Rickey,Engler,C,FA,,29,83,282,D ,D-,C ,F-,D ,D ,D-,F ,D+,F+,D-,C ,A-,F ,C-,C+,B+,D ,F ,C ,F ,D ,D ,D ,F ,D ,F ,D ,C 
+Jose,Rangel,PG,Thunder,RBSL,32,75,192,F ,C+,C+,D ,B-,B+,D ,C-,D ,A ,D+,D ,C ,A ,C ,D+,B ,F ,C ,C ,D ,B ,B ,D ,D ,D ,A ,D ,D 
+Zacarías,Clopes,SG,FA,,34,76,206,D+,C ,A-,C+,C+,F+,F-,D-,F-,C+,F+,F-,A+,C ,F-,C ,A ,D ,C ,A ,C ,B ,F ,F ,D ,F ,C ,F ,F 
+Carter,Taylor,C,FA,,25,81,254,F-,D ,C ,C ,D ,F+,F ,D ,C+,F-,F ,C ,C ,F-,C-,A ,C ,F ,D ,C ,C ,D ,F ,F ,D ,C ,F ,F ,C 
+Gregory,Wadley,PF,D-Raptors,D-RBSL,28,82,263,C ,C ,C ,D-,D-,F+,C+,A-,C-,F-,D ,D+,C ,D-,D-,A-,B-,C ,C ,C ,F ,D ,F ,C ,B ,D ,F ,D ,D 
+Pete,Stevenson,PG,FA,,21,73,219,D-,D-,C+,D ,D+,F ,F-,F ,F ,D+,F+,F-,A ,B+,D+,C ,C ,D ,D ,C ,D ,C ,F ,F ,F ,F ,C ,D ,F 
+Erasmo,Jones,PF,FA,,24,81,255,F+,D-,C ,F-,D ,F ,D-,C-,C ,F-,D ,D+,D ,D-,C ,B-,B-,D ,D ,C ,F ,D ,F ,F ,D ,C ,F ,D ,D 
+Fabricio,Saer,SF,D-Cavs,D-RBSL,27,75,170,D+,C-,B ,C ,C+,D ,F ,F+,F+,B-,D ,F+,C+,C+,D ,C+,B+,D ,D ,B ,C ,B ,D ,F ,F ,F ,B ,D ,F 
+Nelson,Navarro,PG,FA,,33,71,199,D-,D+,C ,F-,C-,C-,F ,F-,F-,C ,C ,F ,B+,B ,D+,D-,A+,F ,D ,C ,F ,D ,D ,F ,F ,F ,D ,D ,F 
+Chris,Hood,C,FA,,29,82,280,C ,C ,C ,F-,D ,F+,C ,C-,D ,F ,F+,C ,A ,F+,C ,A-,C+,C ,C ,C ,F ,D ,F ,C ,D ,D ,F ,F ,C 
+Kerry,Hensley,C,D-Spurs,D-RBSL,25,84,261,D ,D+,C+,F-,D+,D-,C-,C-,C ,F ,D ,C ,A-,F-,D-,A+,C-,D ,D ,C ,F ,D ,D ,D ,C ,C ,F ,D ,C 
+Qian,Guo,PG,Bulls,RBSL,31,80,208,A-,A ,A-,A+,C ,A ,C ,B ,A-,A ,B+,C ,A ,C ,F+,B-,A ,A ,A ,A ,A ,C ,A ,C ,B ,A ,A ,B ,C 
+Erik,Massey,PF,D-Raptors,D-RBSL,26,82,266,F ,C ,C ,F-,D+,F-,D ,C+,C ,F ,F+,C-,A+,C-,B-,A+,B ,F ,C ,C ,F ,D ,F ,D ,C ,D ,F ,F ,D 
+Matthew,Gulledge,SG,Pacers,RBSL,26,77,222,D-,C+,C+,C ,C ,F+,D ,C+,F+,C+,C ,D+,C ,A ,B-,B+,A-,D ,B ,B ,C ,C ,F ,D ,B ,D ,B ,D ,D 
+Bruno,Shaw,C,D-Suns,D-RBSL,29,84,295,D-,F ,C-,C-,D+,D+,D-,D-,C ,F+,D+,D+,D+,F+,C ,A+,C-,D ,F ,C ,D ,D ,D ,D ,D ,C ,F ,D ,D 
+Rich,Pecoraro,PG,FA,,31,74,184,F+,D+,B+,D+,F+,D+,F-,F ,F-,C ,C-,F ,A+,B+,C ,C ,A ,F ,D ,B ,D ,F ,D ,F ,F ,F ,C ,D ,F 
+Earnest,Emmert,PG,FA,,26,74,213,D+,C-,C+,F+,C ,C-,F-,D ,F-,D-,F ,F ,B+,A-,A-,C+,A-,D ,D ,B ,F ,C ,D ,F ,D ,F ,F ,F ,F 
+David,Williams,PG,FA,,29,74,184,D-,C+,B+,F ,C ,D-,F-,F+,F ,B ,C-,F+,A-,A-,F+,B+,A+,F ,C ,B ,F ,C ,D ,F ,F ,F ,B ,D ,F 
+Charles,Ledesma,PF,D-Mavericks,D-RBSL,28,83,273,C ,C-,C ,F-,C ,F ,C+,D+,B+,C ,C-,F+,D-,C ,C ,B ,A+,C ,D ,C ,F ,C ,F ,B ,D ,B ,C ,D ,F 
+Martin,Currier,PG,FA,,32,72,180,D ,C ,B-,F-,C-,D ,F ,F ,F-,B-,C+,F ,C+,A-,A ,C-,A+,D ,C ,B ,F ,C ,D ,F ,F ,F ,B ,C ,F 
+Duane,Poindexter,PG,Pelicans,RBSL,32,74,220,B ,A-,B+,D-,C ,C ,D ,D+,D+,B ,A-,D+,C-,A ,B ,C+,B ,B ,B ,B ,D ,C ,C ,D ,D ,D ,B ,B ,D 
+Jayson,Marshall,SG,Grizzlies,RBSL,30,77,208,C ,C ,C ,D-,C ,D ,F+,F-,D-,A-,B ,D+,A ,A ,C ,C+,A+,C ,C ,C ,D ,C ,D ,F ,F ,D ,A ,B ,D 
+William,Garvin,C,D-Cavs,D-RBSL,25,84,280,F+,D ,D ,F-,D ,D-,C-,D+,B-,F ,F+,C-,B-,D+,C+,A ,C ,F ,D ,D ,F ,D ,F ,D ,D ,B ,F ,F ,C 
+Walton,Carpenter,PG,FA,,26,73,188,D-,C ,B+,D-,C ,C-,F-,F+,F-,C ,F+,F-,C ,B+,C+,D ,B+,D ,C ,B ,D ,C ,D ,F ,F ,F ,C ,F ,F 
+Cary,Walton,C,D-Bulls,D-RBSL,25,84,271,C+,D ,C+,F-,D ,D-,C-,D+,C-,F+,D ,C ,C ,D-,C+,A ,C ,C ,D ,B ,F ,D ,D ,D ,D ,D ,D ,D ,D 
+Steven,McClelland,C,FA,,22,82,226,F ,F ,C-,F ,C-,F-,C-,C ,C-,F ,F+,C ,C-,D-,C ,C ,D ,F ,F ,D ,F ,C ,F ,C ,C ,C ,F ,F ,C 
+Cecil,Carter,PG,Heat,RBSL,31,75,193,D+,C+,B-,C+,B-,D+,F-,D+,D ,C ,A ,F ,F-,A ,C-,B+,A ,D ,B ,B ,B ,B ,D ,F ,D ,D ,C ,A ,F 
+Jose,Brown,SF,FA,,25,81,231,F+,C ,C ,F-,C-,F ,F-,D-,D ,D ,C ,D ,B+,C ,D+,C+,C+,F ,B ,C ,F ,C ,F ,F ,D ,D ,D ,C ,C 
+Felton,Edmonds,C,D-Clippers,D-RBSL,24,83,238,F+,D ,D+,F-,D-,F ,C+,D ,C ,F-,F-,D ,C ,F-,D-,C+,F+,D ,C ,D ,F ,D ,F ,A ,C ,B ,F ,F ,D 
+James,Boyer,PG,FA,,26,75,209,D-,C ,C+,C-,C+,C ,F ,F+,F ,D+,C ,F-,A+,B+,C-,C ,C ,D ,C ,B ,D ,C ,C ,F ,D ,D ,D ,C ,F 
+Howard,Lamar,PF,FA,,28,81,258,D+,F+,C ,F-,D ,F-,C ,C ,C ,F ,F+,D-,C-,F+,D+,A+,C+,D ,D ,C ,F ,D ,F ,C ,C ,C ,F ,D ,D 
+Leslie,Chow,PF,Heat,RBSL,23,83,265,C ,F+,C ,F-,C ,D+,B+,C+,B-,F ,D ,B+,C ,C ,C ,C+,C ,C ,F ,C ,F ,B ,D ,B ,B ,A ,F ,D ,A 
+Guiomar,Alkorta,PF,Kings,RBSL,29,85,297,C-,B-,C+,D ,C-,F ,C-,C+,C+,F+,D-,C-,C ,C-,C ,A-,B-,D ,B ,C ,D ,D ,F ,D ,C ,C ,D ,D ,D 
+Robert,Roman,C,D-Rockets,D-RBSL,28,84,283,F+,D-,C ,D-,F+,F ,C ,C ,C-,F-,F ,D+,C ,F+,C ,A ,C-,D ,D ,C ,D ,D ,F ,C ,C ,C ,F ,F ,D 
+Ludovik,Krajovica,SF,D-76ers,D-RBSL,32,77,208,D ,C-,A-,C-,C-,D-,F ,C-,F ,D+,D-,F ,F-,B ,C ,C+,A-,D ,D ,A ,D ,D ,F ,F ,D ,F ,D ,F ,F 
+Jared,Smith,PF,FA,,28,90,256,D-,D+,C+,F-,D ,D ,C+,C-,D ,F+,F ,F ,C-,D-,B ,A ,B-,D ,D ,B ,F ,D ,D ,B ,D ,D ,D ,F ,F 
+Daniel,Watkins,SG,D-76ers,D-RBSL,31,76,224,D-,C-,C ,C ,D ,F+,D ,C+,D+,C+,C ,D ,C-,A ,C-,B ,A-,F ,D ,C ,C ,D ,F ,D ,B ,D ,C ,C ,D 
+Kenneth,Tate,PF,FA,,23,81,234,F-,D-,C ,F+,D+,F+,F ,F-,F-,F-,F ,F ,C ,D-,D+,A-,C ,F ,D ,C ,F ,D ,F ,F ,F ,F ,F ,F ,F 
+Douglas,Osman,C,Trail Blazers,RBSL,23,83,260,C+,C ,C-,D-,C ,F-,A ,C+,C+,F+,F+,C ,C+,D+,C ,C ,A ,B ,C ,D ,D ,C ,F ,A ,C ,C ,F ,F ,B 
+Thomas,Clark,PG,D-Hawks,D-RBSL,25,71,184,D+,C+,B-,D ,C ,D-,F-,D-,F ,C-,C-,F ,F-,B+,C ,F ,A ,D ,C ,B ,D ,C ,D ,F ,D ,F ,D ,D ,F 
+German,Butt,SG,Raptors,RBSL,26,75,185,C-,C ,B+,B-,C ,F ,F+,D-,F ,D+,C ,F+,B ,A ,C ,C ,B+,C ,B ,B ,B ,C ,F ,F ,D ,F ,D ,C ,F 
+Robert,Clements,C,Pelicans,RBSL,27,84,281,F+,D-,D ,F-,D ,F ,A-,A-,C+,F-,D ,F+,B+,F-,C-,A+,D ,F ,D ,D ,F ,D ,F ,A ,A ,C ,F ,D ,D 
+Slavoljub,Stimac,PF,D-Hawks,D-RBSL,31,80,244,C-,C ,C-,F ,C-,F ,C-,B+,B ,F+,F+,C-,F-,D ,D-,C+,B-,D ,C ,C ,F ,D ,F ,D ,B ,B ,F ,F ,D 
+Matthew,Rosemond,PG,Thunder,RBSL,30,78,225,C-,C ,B+,A-,B+,C+,C-,B-,C-,B+,B+,C-,A+,A ,D ,B ,A ,D ,C ,B ,A ,B ,C ,D ,B ,D ,B ,A ,D 
+Kris,Ramirez,C,D-Celtics,D-RBSL,25,85,301,D+,D-,C ,D ,D ,D ,C-,C ,B-,F ,F+,F ,A-,D ,B ,B+,C+,D ,D ,C ,D ,D ,D ,D ,C ,B ,F ,D ,F 
+Anselmo,Sanin,SG,D-Grizzlies,D-RBSL,28,79,222,C-,C ,A ,F-,C ,D-,F ,F+,D-,C+,D ,F ,D ,A-,C ,B-,A-,D ,C ,A ,F ,C ,D ,F ,F ,F ,B ,D ,F 
+David,Harley,C,FA,,24,84,251,D+,D-,C ,F-,D-,F-,D ,D ,D+,F-,D ,D+,B-,F+,C ,B-,C ,D ,D ,C ,F ,F ,F ,D ,D ,C ,F ,D ,D 
+John,Chester,PF,Nets,RBSL,23,84,282,C ,C ,C+,F+,D ,F ,C-,C ,C ,D ,D-,B-,C ,C ,B-,A-,B ,C ,C ,B ,F ,D ,F ,D ,C ,C ,D ,D ,B 
+Daniel,Radcliffe,C,Kings,RBSL,28,82,264,C ,C-,C ,F+,C ,C ,C ,C ,C+,C-,D+,D+,C+,C-,C+,A ,A ,C ,C ,C ,F ,C ,C ,C ,C ,C ,C ,D ,D 
+Tyrone,Bolyard,SF,FA,,22,78,204,F ,C+,B ,F-,F+,D-,F ,D-,F+,F ,F ,F ,A-,C ,C-,B ,C+,F ,B ,A ,F ,F ,D ,F ,F ,F ,F ,F ,F 
+Wilbur,Nichols,SG,Pistons,RBSL,25,78,208,D+,B ,B-,B+,A-,C ,F ,D+,C-,C ,C+,C-,F ,A ,A-,C-,C+,D ,B ,A ,B ,A ,C ,F ,D ,D ,C ,B ,C 
+Issac,Jones,PF,FA,,30,82,264,D ,C-,C ,F-,D-,D ,D-,D+,D ,F-,D-,F ,C+,D ,D-,A-,A+,D ,D ,C ,F ,F ,D ,F ,D ,D ,F ,F ,F 
+Jamie,White,SF,Warriors,RBSL,30,77,211,C-,A-,B+,B+,C+,C-,D+,D ,C-,B+,A-,D+,D-,A+,B-,B-,A-,D ,A ,A ,B ,B ,D ,D ,D ,D ,A ,B ,D 
+Lucas,Montoya,PF,D-Magic,D-RBSL,29,81,261,D+,D+,C ,F-,C+,D ,D-,C ,C ,C-,C-,B+,A ,C-,C+,A ,B ,D ,D ,C ,F ,C ,D ,F ,C ,C ,C ,C ,B 
+Van,King,PF,D-Knicks,D-RBSL,27,80,236,C ,C-,D+,F-,D-,F-,C ,A-,C+,F ,D+,C ,A ,F-,D ,C+,C+,C ,C ,D ,F ,D ,F ,C ,A ,C ,F ,D ,C 
+David,Swearingen,SG,D-Pelicans,D-RBSL,28,75,184,D-,C ,A ,C-,C+,C ,D-,F+,D ,C+,D+,F+,A-,A ,C ,C ,A ,D ,C ,A ,D ,C ,C ,F ,F ,D ,C ,D ,F 
+Nick,Lewis,C,D-Nuggets,D-RBSL,28,83,279,D-,D ,C+,F+,D-,F ,C-,B-,D ,D-,D+,D-,A ,D+,B-,C+,C+,D ,D ,C ,F ,D ,F ,D ,B ,D ,D ,D ,D 
+Philip,Lee,SF,Nuggets,RBSL,30,76,204,F-,C-,C+,B-,C ,F+,D-,F+,F+,B ,C+,F-,B ,A ,C ,B-,A ,F ,C ,A ,B ,C ,F ,D ,F ,F ,B ,C ,F 
+Homer,Rodriguez,PG,FA,,26,74,180,F ,D+,B ,C ,D ,C ,F ,D-,F-,D-,C ,F ,C+,B+,F ,B-,A-,F ,D ,B ,D ,D ,D ,F ,D ,F ,F ,D ,F 
+Cedric,Clancy,C,D-Rockets,D-RBSL,29,84,283,D+,D+,C ,F-,C ,D-,D ,C ,C+,D-,D ,C-,B+,D ,C-,A ,A-,D ,D ,C ,F ,C ,D ,D ,D ,C ,F ,D ,D 
+Grant,Jones,PG,Lakers,RBSL,25,75,177,F ,C ,B+,C+,C ,C ,F ,F ,F ,C+,D+,F ,A ,A ,C ,C+,A ,F ,C ,B ,B ,C ,C ,F ,F ,F ,A ,D ,F 
+Douglas,Carter,PG,D-Timberwolves,D-RBSL,33,74,184,D ,C-,B ,C ,C-,C ,F-,F ,F-,C+,C+,F+,C ,B+,D-,C ,A-,D ,D ,B ,C ,D ,C ,F ,F ,F ,B ,B ,F 
+Alasd,Toles,PG,D-Suns,D-RBSL,30,74,187,D-,A-,A ,C ,B-,C-,F-,F ,C-,B ,C-,F-,D ,B ,C ,C-,A ,D ,B ,A ,C ,B ,C ,F ,F ,C ,B ,D ,F 
+Joseph,Phillips,C,FA,,22,81,234,D-,C-,C+,F-,D-,F-,C ,D+,C-,F ,F+,C-,A ,F-,B ,A-,F-,D ,D ,C ,F ,D ,F ,B ,D ,C ,F ,F ,C 
+Douglas,Hardy,SG,D-Magic,D-RBSL,33,75,223,D ,B ,B+,C+,B+,D-,F ,D-,F+,F+,B ,F ,C ,B-,F-,C ,B ,D ,B ,B ,C ,B ,F ,F ,F ,F ,F ,B ,F 
+Duncan,Brodeur,PG,FA,,28,75,218,D-,C ,C-,D-,C-,C ,F-,D ,F+,D-,C-,D+,C+,A-,C ,D ,A-,F ,C ,C ,D ,D ,D ,F ,D ,D ,D ,D ,D 
+Sergio,Lima,PG,D-Rockets,D-RBSL,23,75,181,D-,C ,A-,D-,C ,D ,C-,D-,F+,C ,F ,D-,A ,A ,C ,C+,B+,D ,B ,A ,D ,C ,D ,C ,D ,D ,C ,F ,D 
+Jonathan,Gwin,SG,Pelicans,RBSL,31,75,195,D-,C ,C ,C-,C+,B ,F-,D+,F-,A ,A ,F ,F ,B-,C ,C ,B-,D ,C ,C ,D ,B ,B ,F ,D ,F ,A ,A ,F 
+Kennith,Williams,PG,FA,,23,73,206,D-,C ,A ,F+,D+,F+,F-,F+,F ,D-,D ,F ,B+,A-,C+,B ,B+,D ,B ,A ,D ,D ,F ,F ,F ,F ,D ,C ,F 
+Errol,Edwards,C,D-Trail Blazers,D-RBSL,27,83,281,D ,C ,C-,F-,D ,D-,A-,D+,B ,F-,D-,C-,C ,F ,C ,A-,C-,D ,C ,D ,F ,D ,D ,A ,D ,B ,D ,D ,C 
+Jess,Peoples,C,FA,,22,81,266,D-,D-,C ,F-,F+,F ,F+,D+,D-,F ,F-,D ,C ,F+,C ,B+,C+,D ,D ,C ,F ,D ,F ,D ,C ,D ,D ,F ,D 
+Don,Gonzalez,PG,D-Pacers,D-RBSL,32,74,222,D+,C ,B-,C ,C-,C-,D-,F+,F ,C ,C ,F-,C ,A-,C+,C+,A ,D ,C ,B ,C ,D ,D ,F ,F ,F ,C ,C ,F 
+Bubba,Bexley,C,Mavericks,RBSL,24,83,267,C ,D+,C-,F+,C ,D+,D ,C ,B ,C ,C-,C ,C ,C ,C+,B ,B ,D ,C ,D ,F ,C ,D ,D ,C ,B ,C ,D ,D 
+Rashad,Royster,SG,D-Nuggets,D-RBSL,29,75,212,D+,C+,B+,B-,C-,F ,F ,D ,F ,C-,D-,F-,A+,A-,D ,C+,A ,D ,C ,B ,B ,D ,F ,F ,D ,F ,D ,D ,F 
+Jed,Burgundy,C,Suns,RBSL,24,84,267,C-,C-,B ,C-,D ,F-,C+,D+,B-,F+,D ,C ,C+,D+,A ,A-,C+,D ,D ,B ,D ,D ,F ,C ,D ,B ,D ,D ,C 
+Lamont,Doran,PG,FA,,32,72,200,C ,C+,A-,B ,C-,C-,F-,F+,F ,B ,C ,F-,C-,C+,F+,B-,A-,C ,B ,A ,B ,D ,D ,F ,F ,D ,B ,C ,F 
+Frank,Marchand,PG,D-Kings,D-RBSL,25,74,204,F ,D ,C+,F+,C ,C ,F-,F-,F ,C+,D ,F-,A-,A-,B ,D+,B-,D ,D ,C ,D ,C ,B ,F ,F ,D ,B ,D ,F 
+Gervasio,Guillen,PG,Timberwolves,RBSL,26,75,192,D+,B-,A ,C-,C+,D+,C-,C-,C ,D+,D ,D+,C ,A+,A-,C+,A-,D ,B ,A ,D ,C ,D ,D ,D ,C ,C ,D ,D 
+Marcel,Smith,C,FA,,19,85,232,F ,D+,B-,F-,D ,F-,D-,C ,F+,F-,D-,C-,C-,F-,C ,C ,F-,F ,D ,B ,F ,D ,F ,D ,C ,D ,F ,D ,D 
+Joseph,Banas,C,D-Pacers,D-RBSL,28,83,285,B ,D ,C+,F-,D+,D-,D ,B ,D+,D-,D ,C+,C+,F-,F+,B-,C ,B ,D ,B ,F ,D ,D ,D ,B ,D ,D ,D ,B 
+Wei,Kang,PF,76ers,RBSL,27,86,267,C-,D ,B-,F-,C-,D ,C ,C-,C ,D+,C ,D ,D-,C ,C+,A ,A+,D ,D ,B ,F ,D ,D ,C ,D ,C ,D ,C ,D 
+Erick,Laporte,SG,Knicks,RBSL,28,78,219,C-,B-,A-,C+,A-,C-,D-,D+,F-,B+,D ,F+,C-,A-,C-,B ,B+,C ,B ,A ,C ,A ,C ,F ,D ,F ,B ,D ,F 
+Roy,Parker,PF,Clippers,RBSL,30,84,279,C+,C-,A-,D-,D+,D+,C+,C ,C-,D-,B-,C ,C ,C-,A-,B-,A-,C ,C ,A ,F ,D ,D ,C ,C ,D ,D ,B ,C 
+Jack,Towne,SF,FA,,23,79,222,F-,F+,C ,F ,F ,F-,F-,F-,F+,F-,F-,F-,C+,C ,D ,B-,B-,F ,D ,C ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Justin,Brown,PG,FA,,32,75,196,F ,C ,A-,B-,B-,C-,F+,D ,F ,C+,D-,F ,D ,C+,D-,C ,B ,F ,C ,A ,B ,B ,D ,F ,D ,F ,C ,D ,F 
+Richard,Carlsen,PG,FA,,33,73,186,C-,B-,B+,F+,C-,C ,F-,D-,F ,B-,C-,F ,C-,C ,F-,C+,A ,D ,B ,B ,F ,D ,C ,F ,F ,F ,B ,D ,F 
+Jerry,Larrabee,PG,FA,,25,72,174,D+,C ,C ,C-,D+,D-,F-,F+,F+,D ,C-,F ,D+,A-,C-,F+,A ,D ,C ,C ,D ,D ,D ,F ,F ,F ,D ,D ,F 
+Sherman,Walker,PG,FA,,23,75,191,D ,C ,B ,F ,D ,D+,F-,F+,F-,D ,D-,F-,D+,A-,C ,A-,A-,D ,C ,B ,F ,D ,D ,F ,F ,F ,D ,F ,F 
+Virgil,Edward,C,Trail Blazers,RBSL,29,83,280,C+,C ,A-,F-,C ,C ,C ,D ,B ,C-,C-,C-,A-,D+,B-,B ,A+,B ,C ,A ,F ,C ,C ,D ,D ,B ,C ,C ,D 
+Richard,Collier,C,Grizzlies,RBSL,26,84,277,F ,F+,C ,F-,F+,F+,C ,C+,C ,D+,F+,C+,B ,C ,C+,A-,A ,F ,F ,C ,F ,D ,F ,C ,A ,C ,D ,F ,B 
+Augustus,Obryan,C,D-Nuggets,D-RBSL,23,83,277,D+,D ,B+,F ,C+,D+,D-,B-,D+,F ,F+,F ,C ,C-,C ,C-,B-,D ,C ,B ,F ,B ,D ,D ,B ,D ,F ,D ,F 
+Jesus,Osborne,PF,D-Warriors,D-RBSL,30,81,265,F ,C ,B+,F-,C ,F+,D+,A-,B-,F+,F ,C-,D+,F+,C+,A-,C+,F ,B ,B ,F ,C ,D ,D ,A ,B ,D ,D ,D 
+Kerry,Leon,PG,FA,,23,73,224,D-,C-,B-,F-,C ,D ,F-,F ,D+,C+,F+,F-,D+,B+,D+,F+,A+,D ,C ,B ,F ,C ,D ,F ,F ,C ,B ,D ,F 
+Camilo,Calvo,C,FA,,29,82,274,D-,D+,D+,F-,C ,D+,D+,C ,C ,F+,F+,C-,C+,F+,C-,A+,B-,D ,D ,D ,F ,C ,D ,D ,C ,C ,F ,F ,D 
+David,Chacon,C,D-Raptors,D-RBSL,27,87,289,C ,D-,C-,F-,C-,F ,B ,C ,D+,F ,F-,C-,A ,F+,B+,A-,D ,C ,D ,D ,F ,D ,F ,B ,C ,D ,F ,F ,D 
+Severo,Rudas,PG,D-Hawks,D-RBSL,32,73,193,C-,C ,C+,C-,C ,C+,F-,D-,F ,D-,C-,F ,C-,A+,A-,C ,B+,D ,C ,C ,D ,C ,C ,F ,F ,F ,F ,D ,F 
+Arthur,Larsen,SG,D-Celtics,D-RBSL,27,77,223,F+,C+,C ,D+,C ,C+,F+,F+,F-,C-,D ,F+,C ,A ,B ,C-,A ,D ,B ,C ,D ,C ,C ,F ,F ,F ,C ,D ,F 
+Harley,Gonzalez,PG,D-Rockets,D-RBSL,26,73,195,D+,B-,C ,D+,C ,F+,D-,C ,D-,A-,D+,F+,C+,A ,C ,B-,B+,D ,B ,C ,C ,C ,D ,F ,C ,D ,A ,D ,D 
+Mikhail,Krukov,PG,Magic,RBSL,31,73,220,B ,B ,B-,B ,C+,C ,D ,C-,F+,B-,B-,D-,F+,A+,B ,C ,A ,B ,B ,B ,B ,B ,C ,D ,D ,D ,B ,B ,F 
+Everett,Talley,PG,Cavaliers,RBSL,32,71,172,D+,B-,B+,C+,A-,A+,F ,C ,F-,A-,A-,F-,C+,A ,D ,C ,B+,D ,B ,A ,B ,A ,A ,F ,C ,F ,A ,A ,F 
+Gerald,Drake,PG,FA,,33,75,183,D ,C+,B-,D-,C ,F ,F-,F-,F-,D-,F ,F-,F+,C ,D ,C ,A ,D ,C ,B ,F ,C ,F ,F ,F ,F ,F ,F ,F 
+Milo,Plavsic,PG,D-Jazz,D-RBSL,22,73,179,F+,B-,B-,C-,C+,D+,F-,D ,F ,B+,D-,D+,F ,A-,D ,C-,C+,F ,B ,B ,D ,C ,D ,F ,D ,F ,A ,F ,D 
+Marcos,Williams,PF,Hornets,RBSL,26,83,276,B+,C ,C ,F-,D-,F+,C ,C+,C+,D ,F+,C+,C+,F ,C-,A-,D+,B ,C ,B ,F ,F ,F ,C ,B ,B ,D ,F ,B 
+Dennis,Mitchell,PF,Celtics,RBSL,22,83,249,C ,D+,B-,F+,D+,C-,B ,A+,D+,D+,C-,F+,B-,C-,C+,C+,B ,C ,D ,B ,F ,D ,D ,B ,A ,D ,C ,C ,F 
+José,De Cabrea,PF,D-Pacers,D-RBSL,28,83,272,D+,D ,C+,F-,C ,C-,D-,C ,C-,D ,C ,C ,C ,C-,A ,B ,A ,D ,D ,B ,F ,C ,D ,D ,C ,C ,D ,C ,C 
+Jere,Smith,C,D-Wizards,D-RBSL,22,84,252,F ,D+,D ,F+,D+,F+,C-,C+,D+,F ,D-,C-,C-,F+,C ,B-,C ,F ,D ,D ,F ,D ,F ,C ,C ,D ,F ,F ,B 
+Earnest,Fox,C,D-Clippers,D-RBSL,24,85,270,F-,D ,C+,C ,D+,D-,C ,C-,D ,F ,D ,C ,C+,F ,D ,A-,C ,F ,D ,B ,C ,D ,F ,C ,C ,D ,F ,D ,C 
+Kunibert,Sandmeier,PG,D-Knicks,D-RBSL,31,75,188,D-,C+,B-,C-,C ,C ,D-,D ,F+,C ,C ,D+,C ,C+,F+,B ,A-,D ,C ,B ,D ,C ,C ,D ,D ,F ,C ,C ,D 
+Mark,Coggins,SF,FA,,22,81,232,F-,C-,C+,F ,D ,F-,F-,F ,F-,F-,F ,F ,B-,C-,C-,B-,C ,F ,C ,C ,F ,D ,F ,F ,F ,F ,F ,F ,F 
+Ostoja,Boskovic,PG,Bulls,RBSL,27,75,231,C ,C ,C+,B-,B ,D+,F ,F ,D-,C ,A-,F-,A ,A-,C+,D-,A ,C ,C ,B ,B ,B ,D ,F ,F ,D ,C ,B ,F 
+Algis,Kirslis,PG,D-Wizards,D-RBSL,24,75,190,D ,C ,C ,D ,C-,D ,F-,F-,F+,C ,C+,F ,A+,A ,C-,C ,A-,D ,C ,C ,D ,D ,D ,F ,F ,D ,C ,B ,F 
+Ralph,Anderson,SG,D-Pacers,D-RBSL,25,77,198,D ,C ,B ,C ,C ,F+,F+,F ,F+,F+,F ,F-,B+,A-,C+,C+,B ,D ,C ,B ,C ,C ,F ,F ,F ,F ,F ,F ,F 
+Brian,Yang,PF,D-Rockets,D-RBSL,25,75,203,F ,C+,B+,D+,C+,C ,F-,F+,D ,B-,C ,D+,B-,A-,D ,D+,C+,F ,B ,B ,C ,C ,C ,F ,D ,D ,B ,C ,D 
+Huey,Haney,PG,FA,,29,75,182,F+,D+,B ,F ,C-,C ,F-,D ,F-,D ,D ,F-,C-,A ,C-,C-,A+,F ,D ,A ,F ,D ,C ,F ,D ,F ,D ,D ,F 
+Dustan,Sepulveda,PG,Wizards,RBSL,29,76,227,D-,C ,B ,A ,D+,C-,F-,C-,F+,C ,C ,F-,A-,A-,C-,C ,B+,D ,C ,A ,A ,D ,D ,F ,D ,F ,C ,C ,F 
+Omar,Jones,SG,Wizards,RBSL,23,75,189,D ,B+,A ,D-,C ,C ,D ,D-,D ,A-,A-,D+,D-,A ,C ,C-,B ,C ,A ,A ,D ,C ,B ,D ,C ,D ,A ,A ,C 
+Jonathan,Benbow,C,FA,,24,83,258,F-,D-,C ,F-,F+,D-,D+,D+,C ,D-,F-,D+,A-,F-,D+,B+,C+,F ,D ,C ,F ,F ,D ,D ,D ,C ,D ,F ,D 
+James,Madson,C,Kings,RBSL,20,84,242,C-,F ,C ,F-,D ,F ,D+,D-,F+,F ,F-,D ,C+,F-,D-,C+,C-,B ,F ,C ,F ,D ,F ,B ,C ,D ,F ,F ,C 
+Chris,Mathews,PG,FA,,34,75,191,F ,C-,C+,C-,C-,F+,F-,F+,F+,D+,D ,F ,C+,C-,D-,B+,A ,F ,D ,B ,D ,D ,F ,F ,F ,F ,D ,D ,F 
+Cene,Kovac,SG,FA,,33,74,193,C-,C ,C+,C-,C-,F+,F ,F ,F-,C ,F+,F ,C ,C+,D+,C-,A-,D ,C ,B ,D ,D ,F ,F ,F ,F ,D ,F ,F 
+Kieth,Richards,PG,Suns,RBSL,31,79,229,D-,C-,C+,C+,B-,C-,F ,F+,F ,B+,C+,F+,C ,B+,D-,B-,A ,F ,D ,B ,C ,B ,D ,F ,F ,F ,A ,C ,F 
+Clemente,Heckman,SG,D-Clippers,D-RBSL,32,78,235,F ,B ,A-,A-,D ,C-,F+,D+,D ,F+,C ,F-,D-,C ,F ,D-,C+,F ,B ,A ,A ,D ,D ,F ,D ,D ,F ,C ,F 
+Gustavo,Moser,SG,D-Timberwolves,D-RBSL,30,76,201,F-,C-,B ,D ,C-,D-,F-,D-,F ,C ,D+,D-,B ,A ,D+,C ,A+,F ,D ,B ,D ,D ,D ,F ,D ,F ,C ,D ,D 
+Derick,Ange,PG,D-Mavericks,D-RBSL,25,73,219,C-,C ,B+,C ,B-,D ,F-,F ,F ,C ,B-,F-,C-,A-,C ,C ,A ,D ,C ,B ,C ,B ,D ,F ,F ,F ,C ,B ,F 
+Lucky,Day,C,Jazz,RBSL,19,84,257,C ,C-,D ,F+,F+,F ,C ,C ,C+,D-,D+,C ,B ,C-,A-,C ,B+,B ,C ,D ,D ,D ,F ,A ,B ,A ,D ,C ,A 
+William,Cummings,PG,FA,,31,73,177,F-,D ,C ,F-,C ,C-,D-,D ,F+,D-,D+,F-,C+,A-,B-,C-,A+,F ,D ,B ,F ,C ,D ,F ,D ,F ,F ,D ,F 
+Archie,Fulton,PG,FA,,30,73,180,F ,C+,C ,C ,C-,D+,F-,F+,D-,C-,D-,D-,A ,B ,D+,B ,A ,F ,C ,C ,C ,D ,D ,F ,F ,F ,D ,F ,F 
+Jewel,Doby,PF,Spurs,RBSL,29,81,267,C ,C-,C-,F-,D+,D-,C ,B-,C ,F-,D-,B+,B-,D+,C+,B-,B+,C ,C ,D ,F ,D ,F ,C ,B ,C ,F ,D ,A 
+Winfred,Yim,C,D-Bulls,D-RBSL,28,84,286,C-,D ,C ,F-,C-,D-,C-,D-,D+,D-,F+,B-,F+,F-,D ,A ,B-,D ,D ,C ,F ,D ,F ,D ,F ,D ,F ,F ,B 
+Dewitt,Gulley,SF,D-Pacers,D-RBSL,22,77,201,C ,C-,B+,C ,D ,F ,F ,D-,F ,F+,F ,D-,C-,B+,B-,C ,B-,C ,C ,B ,B ,D ,F ,F ,D ,F ,F ,F ,D 
+Alejandro,Rucina,C,Jazz,RBSL,19,83,265,D+,D+,B+,F-,D+,C ,D+,C-,B ,D+,D-,C+,A-,D+,D ,B ,B ,D ,D ,B ,F ,C ,C ,D ,C ,B ,D ,D ,B 
+Ahmad,Padilla,PG,D-Grizzlies,D-RBSL,31,73,209,D+,C ,B-,C+,B ,C+,F-,D-,D ,B+,D-,F+,C-,A-,D ,C+,C+,D ,C ,B ,B ,B ,B ,F ,D ,D ,B ,D ,F 
+Richard,Sherman,SG,Suns,RBSL,31,76,213,C ,A-,A-,A ,D ,C-,F ,C ,D-,A-,B-,F+,F+,B ,D ,C+,A ,C ,A ,A ,A ,D ,D ,F ,D ,D ,B ,B ,F 
+Vance,King,C,D-Nets,D-RBSL,25,84,248,F+,F+,C ,F-,D+,F+,C ,C ,C ,F ,F+,C ,C+,F+,D-,A+,D ,F ,F ,C ,F ,D ,F ,C ,C ,C ,F ,F ,C 
+Zanas,Bertulis,C,FA,,21,82,224,F+,F ,C ,F-,D-,F-,D ,C-,C-,F-,F+,F-,C ,F-,C-,C+,C ,F ,D ,C ,F ,D ,F ,C ,B ,C ,F ,D ,F 
+Kirk,Hubbard,PF,Pistons,RBSL,25,84,279,C+,C+,C ,F+,D+,D+,C+,C ,B ,D+,C ,B+,C-,C-,B ,B ,B ,B ,B ,D ,D ,C ,C ,B ,B ,B ,D ,C ,B 
+Enoch,Kidwell,PF,FA,,24,85,251,F ,F ,C ,F-,D-,F-,D ,D-,F+,F ,F+,C ,C+,F-,C-,B ,C ,F ,F ,C ,F ,D ,F ,D ,D ,D ,F ,D ,B 
+Joseph,Cunningham,PG,D-Celtics,D-RBSL,31,75,201,C ,C ,B ,F-,C+,D+,F ,F ,F ,B ,C+,F ,D ,B-,C ,C ,A+,C ,C ,B ,F ,C ,D ,F ,F ,F ,B ,B ,F 
+Cirino,Fraga,SF,D-Hornets,D-RBSL,25,73,180,D ,C-,B ,C ,D+,C-,F-,D ,F+,C ,D-,D-,A ,A-,C ,D ,C+,D ,D ,B ,C ,D ,D ,F ,D ,F ,C ,D ,F 
+Arthur,Wenzel,PG,FA,,31,76,204,D+,B-,B-,D+,C ,C+,F ,F+,F-,C ,C ,F+,B+,A ,B-,D-,A-,D ,B ,B ,D ,C ,C ,F ,F ,F ,D ,C ,F 
+Rashad,Patterson,SG,D-76ers,D-RBSL,32,75,205,D-,C ,A-,B ,C ,D+,F-,F+,F ,C-,C-,F ,C ,B-,C-,D-,B ,F ,B ,A ,B ,C ,D ,F ,F ,F ,D ,D ,F 
+Carlo,Bell,PF,Celtics,RBSL,24,83,244,C-,C+,C+,F+,C-,D+,C-,D+,C ,D ,C-,C-,F+,C ,B ,B+,C ,D ,B ,C ,F ,C ,D ,D ,D ,C ,D ,C ,C 
+James,Callahan,PG,D-Lakers,D-RBSL,28,74,206,D+,C+,A-,C+,C ,C ,F ,F-,F ,B ,D+,F ,C ,A ,C ,C ,A-,D ,B ,A ,C ,C ,C ,F ,F ,F ,B ,D ,F 
+Preston,Sylvia,C,D-Warriors,D-RBSL,25,83,283,C-,D-,C-,F-,D-,F ,C-,C+,C+,D-,F ,D ,B+,F ,C-,C+,D-,C ,C ,D ,F ,D ,D ,D ,B ,B ,D ,F ,D 
+Lenny,Terrill,SF,FA,,23,79,235,F-,F ,C-,F ,F ,F-,F-,F-,F-,F-,F-,F-,A ,C-,C-,C+,B-,F ,D ,D ,F ,D ,F ,F ,F ,F ,F ,F ,F 
+Joseph,Miller,C,D-Suns,D-RBSL,28,83,272,C+,C-,D+,F-,D+,F ,C+,C-,C+,F+,F+,C-,A ,F+,B-,A-,B+,C ,D ,D ,F ,D ,F ,C ,D ,C ,F ,F ,D 
+Kyle,Nelson,PG,FA,,20,72,195,F ,F+,B-,D+,D-,D-,F-,F ,F ,C-,F ,F-,C+,B+,C-,C ,C+,F ,D ,B ,C ,D ,D ,F ,F ,F ,C ,F ,F 
+Neil,Scarberry,C,D-76ers,D-RBSL,30,83,280,C ,C-,B ,F-,D ,F ,C+,C-,D-,F ,F+,D-,D-,F-,C ,B-,B ,C ,D ,B ,F ,D ,F ,B ,D ,D ,F ,F ,F 
+Christopher,Coward,PF,Grizzlies,RBSL,28,83,259,A-,D+,B ,F-,C+,D ,A-,C ,A ,C ,C ,A ,B+,C-,B-,B-,B-,A ,C ,B ,F ,B ,D ,A ,C ,A ,C ,B ,A 
+Dan,Wagner,C,Nuggets,RBSL,30,84,273,D ,C ,C-,F-,C-,F-,A+,B-,A-,C ,C+,A+,B-,D+,A-,A-,A ,D ,C ,D ,F ,D ,F ,A ,B ,A ,C ,C ,A 
+Srdjan,Gorkic,C,D-Hawks,D-RBSL,26,83,275,D ,D-,B-,F-,F+,F ,C ,D+,D ,F ,F+,B-,C+,F ,B ,C ,C+,D ,D ,B ,F ,F ,D ,C ,D ,D ,D ,F ,B 
+Chris,Harris,SF,FA,,23,79,199,F-,D+,C ,F-,F+,F-,F ,F-,F ,F ,F-,F-,B ,C-,C ,C+,C ,F ,D ,C ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Norman,Swanson,PG,Rockets,RBSL,28,75,208,D+,C ,B ,A-,C-,C+,F-,D-,F ,D+,C ,F+,C+,A-,C-,C+,A+,D ,C ,B ,B ,D ,B ,F ,D ,D ,D ,C ,F 
+Stacey,Luna,C,D-Kings,D-RBSL,23,83,267,C-,C ,C ,F ,F+,F-,D-,F+,C ,F ,D-,D+,C-,C-,A ,A-,B-,C ,B ,C ,F ,D ,F ,D ,D ,C ,F ,D ,D 
+Barry,McCocciner,PG,Knicks,RBSL,22,75,206,F ,C-,B-,D+,C ,C-,F+,F+,D-,C ,C-,F+,D ,A+,C ,F+,A-,F ,A ,B ,C ,B ,A ,D ,D ,D ,A ,A ,D 
+Vicente,Nieves,PG,D-Wizards,D-RBSL,31,75,185,F ,C ,B-,D ,C+,C ,F+,F+,F+,D ,C ,D ,A-,B+,D-,C ,A ,F ,C ,B ,D ,B ,C ,F ,F ,F ,D ,C ,D 
+Larry,Burgess,PG,FA,,22,74,157,F-,D+,B+,F-,C-,F ,F ,F-,F ,D+,F ,F-,C-,B+,C-,B+,C ,F ,C ,B ,F ,C ,F ,F ,F ,F ,C ,F ,F 
+John,Dalessio,C,D-Magic,D-RBSL,28,82,271,C-,D-,C+,F-,D+,F ,D-,C+,C ,F+,D-,C ,C+,F+,C ,A ,C-,C ,D ,B ,F ,D ,F ,D ,C ,C ,D ,D ,C 
+Vincent,Pete,C,FA,,21,82,237,D-,D+,C+,F+,F+,F ,D ,D ,C-,F-,F+,C ,B+,D-,C ,B-,C+,D ,D ,B ,F ,D ,F ,D ,D ,C ,F ,D ,C 
+Michael,Hays,C,FA,,28,85,301,F ,D ,D ,F-,D+,F+,F+,D-,C-,D+,F+,C+,C ,F+,C ,A+,B ,F ,D ,D ,F ,D ,F ,F ,D ,D ,D ,F ,C 
+Luther,Miller,C,Bulls,RBSL,28,85,279,C ,C ,B+,D ,C+,C+,A ,C+,A-,F ,C ,A ,C ,C ,B-,B+,A ,C ,C ,B ,D ,C ,C ,A ,C ,B ,F ,C ,A 
+Dexter,Iverson,PG,FA,,25,75,177,D+,C+,A ,F-,D-,C-,F ,F-,F+,C ,C ,F ,A+,A ,C-,D-,A-,D ,B ,A ,F ,F ,D ,F ,F ,F ,C ,C ,F 
+Jeffrey,Gallo,PG,D-Magic,D-RBSL,28,74,198,F+,B ,C+,F-,C+,C ,F ,D+,F ,D+,A-,F-,C-,A-,C ,C ,A ,F ,B ,C ,F ,B ,C ,F ,D ,F ,D ,A ,F 
+Andrew,Kemp,SG,D-Heat,D-RBSL,30,75,207,C-,C ,B+,D ,C ,D-,F-,D-,F+,C ,C ,F+,C-,B ,C ,B-,A ,D ,D ,B ,D ,C ,F ,F ,F ,F ,C ,C ,F 
+Charles,Jones,PG,Pelicans,RBSL,25,74,182,C ,C-,B-,C+,D+,D+,D-,F+,D+,A ,F+,F ,B ,A ,C ,C ,A ,C ,C ,B ,B ,C ,D ,D ,F ,D ,A ,F ,F 
+Gene,Ahrens,PG,D-Trail Blazers,D-RBSL,27,72,176,C ,C+,B-,F+,C-,C-,C-,D-,F ,C+,B ,F-,A-,A+,C ,D+,A ,C ,B ,B ,F ,D ,C ,D ,D ,F ,C ,B ,F 
+George,Scott,PG,D-Thunder,D-RBSL,33,73,216,D ,B+,B+,C+,C+,C ,F-,F+,D ,C ,C ,D-,D-,A-,D+,D+,A ,D ,B ,A ,B ,C ,C ,F ,F ,D ,C ,C ,F 
+Nigel,McCormick,C,Spurs,RBSL,28,83,282,D ,C+,C ,D ,C+,D+,B+,C-,C-,D ,C-,C-,A-,C-,A ,C+,A-,D ,C ,D ,D ,C ,D ,B ,D ,C ,D ,D ,D 
+Paul,Estrada,PG,D-Nuggets,D-RBSL,27,75,224,D ,C-,C+,D+,C ,D+,D-,D-,F ,C ,C-,F ,A-,A-,C-,D-,B-,D ,C ,B ,C ,C ,D ,F ,D ,F ,B ,D ,F 
+Charles,Oglesby,PG,FA,,31,71,171,F+,D ,C ,D-,D+,F+,F-,F ,F ,C-,F-,D-,D+,A ,C ,D ,A+,F ,D ,B ,F ,D ,F ,F ,F ,F ,C ,F ,F 
+Dewitt,Williams,PG,D-Raptors,D-RBSL,27,74,191,D-,C-,C+,C ,F+,C ,F-,D+,F ,C ,D+,F-,F ,A ,C-,C+,B ,D ,D ,C ,C ,F ,C ,F ,D ,F ,C ,D ,F 
+Maximo,Bliss,PF,Thunder,RBSL,29,80,256,A-,C ,C ,F ,C-,D ,B+,C ,A ,D-,D ,D+,C ,D ,D+,A ,C ,A ,C ,C ,F ,D ,D ,A ,B ,A ,D ,D ,D 
+Rinaldo,Zaffon,PG,D-Bucks,D-RBSL,30,73,207,F+,A-,A-,D ,C ,D ,D-,F+,F+,C+,C-,F ,C+,A-,C ,C+,A ,F ,A ,A ,D ,C ,D ,D ,F ,F ,C ,D ,F 
+Solomon,Funke,C,D-Lakers,D-RBSL,22,85,269,C-,D-,C ,F-,D ,F ,A-,D ,D-,F-,F+,C ,C+,F+,C-,A ,D-,C ,D ,C ,F ,D ,F ,A ,C ,D ,F ,D ,C 
+Cyrus,Gentry,SG,FA,,22,78,177,F-,D ,C ,F-,D-,F ,F-,F-,F-,D ,F+,F-,F-,C+,D ,C ,A-,F ,D ,C ,F ,D ,F ,F ,F ,F ,D ,D ,F 
+Gregorio,Segurola,PF,Pelicans,RBSL,26,83,278,F ,C-,B+,F-,D-,F-,B-,C-,A ,F ,D ,B-,D+,D ,D+,C ,B-,F ,C ,B ,F ,D ,F ,B ,D ,A ,D ,D ,B 
+Garfield,Marino,C,FA,,21,83,228,F+,C-,C+,F-,D-,F ,C ,C-,C-,F ,D-,F-,C ,F+,C-,C+,C+,F ,C ,C ,F ,D ,F ,C ,C ,D ,F ,D ,F 
+Chris,Franck,C,FA,,27,84,265,D+,F ,D ,F-,D-,F ,D-,F+,D+,F-,F ,C+,D-,F+,C-,B+,C+,D ,F ,D ,F ,D ,F ,D ,F ,D ,F ,D ,B 
+Bret,Devries,PG,D-Bulls,D-RBSL,26,71,213,C-,C+,A-,F-,C ,C-,F-,D ,F ,B-,D+,F-,C ,A ,C ,D+,A-,D ,B ,A ,F ,C ,D ,F ,D ,F ,B ,D ,F 
+Joshua,Johnson,C,Warriors,RBSL,19,85,231,F+,F+,C ,F-,D ,F+,D ,F+,C ,F-,F+,D ,B ,F ,C ,B ,C ,D ,D ,C ,F ,C ,D ,D ,D ,B ,F ,D ,C 
+Ollie,Breeden,PG,FA,,33,77,215,F+,C-,C ,F ,C ,D-,F-,D-,F-,F ,D+,D-,A+,B ,C-,C ,A ,F ,D ,C ,F ,C ,F ,F ,F ,F ,F ,D ,D 
+Cornelius,Green,C,FA,,30,81,262,C-,C ,B ,F-,C-,F+,F ,C ,D+,F ,D-,F+,A-,F-,D ,A-,C+,D ,C ,A ,F ,D ,F ,F ,D ,D ,F ,F ,F 
+Gilbert,Jones,PG,Heat,RBSL,29,75,209,C-,C-,C ,C ,C ,B ,F ,D-,F+,A-,F+,F+,C ,B+,B-,C ,A ,C ,D ,C ,D ,D ,B ,F ,D ,F ,A ,F ,F 
+Frank,Ernst,C,FA,,23,83,255,F+,C-,C+,F-,D-,D+,F ,F+,D ,F ,F-,C-,C-,F-,C-,C+,C ,F ,C ,B ,F ,D ,D ,F ,F ,D ,F ,F ,D 
+Ignác,Melcer,C,Wizards,RBSL,27,81,262,C-,C-,C ,F-,D ,D ,C ,A ,C-,D-,D-,A-,A ,D+,C-,A+,C ,D ,D ,C ,F ,D ,D ,C ,A ,D ,D ,F ,A 
+Eli,Martin,C,FA,,27,85,288,D ,F ,C-,F-,D-,D-,D ,D-,C ,F-,F ,C-,C+,F+,C ,A+,C ,D ,F ,C ,F ,F ,F ,D ,D ,C ,F ,F ,D 
+Robbie,Hagler,SG,FA,,22,77,214,F-,D-,C+,F+,C ,F ,F-,F-,F-,F-,F-,F ,D-,C+,B-,C+,B ,F ,D ,B ,F ,C ,F ,F ,F ,F ,F ,F ,F 
+Logan,Anderson,C,Rockets,RBSL,28,89,271,C ,D+,C+,F-,D ,F ,C ,C-,A ,D ,D-,C ,C-,D-,C+,A-,C+,C ,D ,B ,F ,D ,F ,C ,D ,A ,D ,D ,C 
+Feliciano,Martin,C,FA,,27,80,259,D-,D+,B-,F-,D ,F+,F+,C ,C ,F ,F+,D+,B ,F+,C ,A-,C ,D ,C ,B ,F ,D ,D ,F ,C ,C ,D ,D ,D 
+Fredrick,Lamontagne,PG,Cavaliers,RBSL,28,73,182,B+,C ,C ,D+,C ,C-,F+,F+,D ,B-,C-,D-,C-,A ,C+,B+,A ,B ,C ,C ,D ,C ,D ,F ,F ,D ,B ,D ,F 
+Germano,Neta,SG,FA,,23,77,224,F-,F ,C ,F-,D ,F ,F-,F ,F-,F-,F ,F-,B ,B-,C-,B+,C ,F ,F ,C ,F ,D ,F ,F ,F ,F ,F ,F ,F 
+Billy,Flowers,C,Kings,RBSL,28,85,284,F+,D+,C ,F-,D-,F+,C+,C+,C ,F+,F ,C ,C ,D ,A-,A+,D+,F ,D ,C ,F ,D ,F ,B ,C ,C ,F ,F ,C 
+Dennis,Peraza,PG,FA,,24,71,188,F+,C+,C+,C ,C ,F ,D-,F+,F-,C ,D-,F-,D-,A-,C ,D+,A ,F ,C ,B ,C ,C ,F ,D ,F ,F ,C ,F ,F 
+Slavisa,Krajovica,PG,FA,,31,75,207,D-,C ,A-,F ,C-,F+,F ,F ,F-,D+,D+,F-,D-,A ,B+,D-,A+,D ,C ,A ,F ,D ,F ,F ,F ,F ,D ,D ,F 
+Fritz,Cooper,C,FA,,22,85,279,F+,D+,B-,F-,D-,F-,D+,D+,C ,F+,F+,D-,B ,D ,C-,A-,C ,D ,C ,B ,F ,D ,F ,C ,C ,C ,D ,D ,D 
+Benoit,Faschet,PG,Raptors,RBSL,26,74,211,F+,B-,B+,C+,C ,B-,F ,C-,F+,C ,D-,F+,C-,B+,C ,C ,A-,F ,B ,A ,C ,C ,B ,F ,D ,F ,C ,F ,F 
+Zdenko,Kolesarich,PG,FA,,23,72,204,F-,F ,C ,F-,C-,F ,F-,F-,F-,F+,F ,F-,B+,B-,D+,C ,C ,F ,F ,C ,F ,C ,F ,F ,F ,F ,F ,F ,F 
+Marcio,Rivera,C,D-76ers,D-RBSL,28,83,270,D-,C-,B ,F-,D ,D ,C-,B+,C ,F ,D ,C ,A+,F+,D+,B-,C ,D ,C ,B ,F ,D ,D ,D ,B ,C ,F ,D ,C 
+Richard,Mendenhall,SG,FA,,33,78,224,F ,C-,C ,F-,F ,F ,F-,F ,D-,F+,F ,F-,A ,D+,C-,A-,A+,F ,D ,B ,F ,F ,F ,F ,F ,F ,F ,F ,F 
+Darin,Williams,C,FA,,29,83,253,D-,C-,C ,F-,D+,F-,C ,C-,D ,F-,D+,D ,C ,F+,C+,B-,B-,F ,D ,C ,F ,D ,F ,C ,D ,D ,F ,D ,D 
+Michale,Edwards,C,76ers,RBSL,22,83,228,D+,C-,B+,F-,D ,F-,C ,C+,C-,F-,C ,D ,C+,D ,B-,A-,C ,D ,C ,A ,F ,D ,F ,C ,B ,C ,F ,B ,D 
+Eric,Clark,PG,FA,,23,73,220,F-,D ,C ,F-,D ,D-,F-,F ,F-,C-,F+,F-,B-,B ,C-,C-,A-,F ,D ,C ,F ,D ,D ,F ,F ,F ,D ,D ,F 
+Trinidad,Davis,PG,FA,,24,75,174,F-,C-,C-,D ,C ,D-,F-,F-,F+,B-,F-,F+,C+,A-,C-,C ,B-,F ,D ,D ,D ,C ,D ,F ,F ,F ,B ,F ,F 
+Niu,Liao,C,D-Knicks,D-RBSL,29,82,272,D ,C ,C+,F-,C ,F+,D-,B ,C ,F+,C-,C ,F-,D-,C-,A ,B-,D ,C ,B ,F ,D ,F ,D ,B ,C ,F ,D ,D 
+James,Lopez,C,FA,,24,84,256,D+,F+,C ,F-,F-,F-,C ,D+,F+,F+,D ,C-,C+,F ,C ,A-,D+,D ,D ,C ,F ,F ,F ,B ,D ,D ,F ,D ,C 
+Albert,Woodland,PG,D-Cavs,D-RBSL,26,83,275,D-,D ,C+,F-,D-,D-,C+,B-,C ,F ,F ,D-,C-,D ,C ,C ,B+,D ,D ,B ,F ,D ,D ,B ,B ,C ,D ,F ,F 
+Joseph,Siegfried,PG,FA,,23,71,176,F ,D-,C ,F-,D+,F-,F-,F-,F-,F+,F-,F-,B-,A-,C-,C+,B+,F ,D ,C ,F ,D ,F ,F ,F ,F ,D ,F ,F 
+Jules,Dew,C,D-76ers,D-RBSL,24,83,262,C ,D ,C-,F-,F+,F+,C ,C+,C-,D-,D-,C ,B ,F-,C ,C+,D+,C ,D ,C ,F ,F ,D ,C ,B ,C ,D ,D ,B 
+Prudencio,De Assis,C,D-Thunder,D-RBSL,30,84,287,C-,F+,D-,F-,D ,D+,C-,D ,C ,F ,F-,C+,A ,F+,C ,A-,C+,D ,F ,F ,F ,D ,D ,D ,D ,C ,F ,F ,B 
+Joe,Albright,C,D-Raptors,D-RBSL,27,83,275,D-,D+,B-,F-,D+,F-,C ,B ,D ,F ,C-,C-,B ,D+,C+,B-,C ,F ,D ,B ,F ,D ,F ,C ,B ,D ,F ,D ,C 
+Edmundo,Duran,C,Raptors,RBSL,28,81,256,B-,A-,C ,D ,C ,D-,C+,B-,A ,C ,C ,B+,A ,D+,A ,A-,C ,B ,A ,C ,D ,C ,D ,C ,B ,A ,C ,C ,B 
+Leonardo,Caio,C,D-Kings,D-RBSL,24,87,242,C-,F+,C ,F ,D-,F+,D-,F+,C ,F-,F ,C ,C+,F ,C ,C+,C ,C ,D ,C ,F ,D ,D ,D ,D ,B ,F ,F ,B 
+Chris,Phillips,C,D-Thunder,D-RBSL,28,84,267,D ,D-,C+,F-,D ,F+,C ,C-,D+,F+,F+,C-,A-,D-,D+,A ,B+,D ,D ,C ,F ,D ,F ,C ,D ,D ,F ,F ,D 
+Colin,Kolb,PG,Mavericks,RBSL,22,74,208,D+,D+,A ,D-,C-,D-,F ,F ,D ,D+,D+,F+,B ,A+,B ,C-,B ,C ,B ,A ,C ,B ,A ,D ,D ,B ,A ,B ,D 
+Guy,Taylor,C,Nets,RBSL,23,83,281,C ,D+,C+,F-,D-,D-,B+,D+,C-,F ,F+,B ,C ,D+,C ,C ,B ,B ,B ,B ,F ,D ,D ,A ,C ,B ,D ,D ,A 
+Jerold,Wells,PG,FA,,22,75,191,F-,D ,C ,D-,F ,D-,F-,F-,F-,D ,F ,F-,D-,B ,C-,C-,A-,F ,D ,C ,D ,F ,F ,F ,F ,F ,D ,F ,F 
+Whitney,Benge,C,D-Heat,D-RBSL,29,83,279,C ,C ,B-,F ,C-,F+,B-,C-,F ,F-,D-,D ,C-,D+,B-,C+,B+,C ,C ,B ,F ,C ,F ,B ,D ,F ,F ,F ,D 
+David,Shears,PG,FA,,29,70,204,C+,C+,B-,F+,C ,D-,F-,D-,F ,D ,F+,F ,B+,A-,C ,D+,A ,C ,C ,B ,F ,C ,F ,F ,F ,F ,D ,F ,F 
+Harold,Ware,PG,FA,,25,75,205,D+,C-,B-,D-,D ,F+,C ,C-,F ,C ,C+,F+,A ,B+,C-,F+,A-,D ,D ,B ,F ,D ,F ,D ,D ,F ,C ,C ,F 
+George,Standard,SG,D-Clippers,D-RBSL,29,76,183,D ,B ,A-,D-,C ,D+,F-,D-,D+,C ,C+,D-,B+,B-,C-,C ,A-,D ,B ,A ,F ,C ,D ,F ,D ,C ,C ,C ,D 
+Bill,Thomas,PF,FA,,28,82,263,C-,D-,C+,F ,D-,F ,C-,D-,D-,F-,F-,D-,F-,C-,D+,A ,A-,C ,F ,C ,F ,D ,F ,D ,F ,F ,F ,F ,F 
+Gilbert,Harrison,C,FA,,24,84,251,F+,D ,C ,F-,D+,F ,D+,D+,C ,F-,F+,D-,F ,D ,C-,C ,D+,F ,D ,C ,F ,D ,F ,D ,D ,C ,F ,D ,D 
+Maynard,Camarillo,PG,Thunder,RBSL,32,74,215,C ,C+,B ,A-,C-,C ,F-,D-,C-,C ,B+,F ,C ,A ,C-,C+,A ,C ,B ,B ,A ,D ,C ,F ,D ,D ,C ,B ,F 
+Chas,Snyder,PG,D-Timberwolves,D-RBSL,24,73,178,C ,D+,B+,D+,B-,C-,D ,D ,D-,C+,B-,F+,C-,A ,C-,D-,A ,C ,D ,B ,D ,B ,D ,D ,D ,D ,B ,B ,D 
+David,Grajeda,SG,D-Pacers,D-RBSL,25,75,192,F-,C+,B ,D+,C-,C ,F-,F ,F ,C ,F+,F ,A-,A-,D+,D ,A ,F ,B ,B ,D ,D ,C ,F ,F ,F ,C ,F ,F 
+Sydney,Pete,C,D-Wizards,D-RBSL,31,83,281,C ,C ,B ,F-,D+,D-,C-,C-,C+,F-,F+,C ,B-,F+,C ,B ,B-,C ,D ,B ,F ,D ,D ,D ,D ,B ,F ,D ,C 
+Kermit,Fernandez,SG,D-Pistons,D-RBSL,24,75,203,C-,D+,C+,D+,C+,B-,F-,F+,F ,F ,D+,F-,B-,B+,D+,C+,A-,C ,D ,C ,D ,B ,B ,F ,F ,F ,F ,D ,F 
+Maxwell,Harris,C,FA,,28,81,260,F+,C-,C+,F-,D+,F-,C-,D+,C ,F ,F+,D+,C ,F+,D+,A ,A ,F ,D ,B ,F ,D ,F ,C ,D ,C ,F ,F ,D 
+Narcisse,Puquenet,C,Wizards,RBSL,26,84,281,D+,C-,C+,F-,C ,C-,C+,B+,B ,B-,C ,A-,A-,C-,A-,A-,B-,D ,D ,C ,F ,C ,C ,C ,B ,B ,B ,C ,A 
+Darryl,Smith,PG,FA,,22,73,173,F-,D ,B-,F-,F ,F-,F-,F-,F ,D-,F-,F-,F-,B ,D+,D+,A-,F ,D ,B ,F ,F ,F ,F ,F ,F ,D ,F ,F 
+Zachary,Johnson,C,FA,,21,87,240,F+,F+,F+,F-,F ,F-,F ,F+,D ,F-,F+,F+,C+,F+,C+,A-,D-,C ,D ,F ,F ,D ,F ,D ,D ,C ,F ,D ,D 
+Imomotimi,Ubah,PG,FA,,24,73,178,F ,C+,A ,C-,B ,D ,F-,D-,F ,D+,F+,F-,C ,A-,C-,C-,A ,F ,B ,A ,D ,B ,D ,F ,D ,F ,D ,F ,F 
+Clement,Spates,PG,D-Celtics,D-RBSL,27,72,227,C-,C-,B-,C ,C ,D+,D ,F+,F ,C+,C+,D ,A+,A ,C+,C-,A+,D ,D ,B ,C ,C ,D ,D ,F ,F ,C ,B ,D 
+Mark,Decarlo,PG,D-Celtics,D-RBSL,29,71,181,C ,C+,A ,F+,C+,D ,F ,F+,F+,C-,D ,F ,B-,A ,D+,D-,A+,C ,B ,A ,F ,C ,D ,F ,F ,D ,D ,D ,F 
+Ariel,Monroe,C,FA,,29,83,285,F-,D-,C+,F-,D ,F ,D+,C-,C-,F+,F+,D+,C-,F ,D-,C+,A ,F ,F ,B ,F ,D ,F ,D ,D ,D ,F ,F ,D 
+Bok,Bok,PF,Nuggets,RBSL,25,81,268,B ,C ,B-,D+,C ,D+,B+,B ,A-,F ,C-,B+,C-,C ,B+,A+,B-,B ,D ,B ,D ,C ,D ,A ,B ,A ,F ,C ,A 
+Paul,Jones,PG,FA,,24,72,187,F-,D ,B ,C-,C-,D+,F ,F+,F-,C-,C ,F-,B ,A-,D+,C ,C+,F ,D ,B ,D ,D ,D ,F ,F ,F ,D ,C ,F 
+Franklyn,Armes,PG,FA,,25,75,201,F ,C-,B ,F-,C ,D+,F-,F+,F ,F+,C ,F-,D ,A-,D+,D ,A-,F ,C ,A ,F ,C ,D ,F ,F ,F ,F ,D ,F 
+Michel,Kent,C,Nets,RBSL,28,84,291,C-,C ,C+,F-,D-,D ,A ,C ,B+,F ,F+,C+,B-,D ,C ,B ,B ,C ,C ,C ,F ,D ,D ,A ,C ,A ,D ,F ,C 
+Justin,Johnson,PG,FA,,30,75,184,F ,C-,C+,D+,D ,D+,F-,F+,F ,C ,D ,F ,C-,A-,F+,C ,B+,F ,D ,B ,D ,D ,D ,F ,F ,F ,C ,D ,F 
+Teodosio,Orgónez,PG,FA,,22,75,173,F-,F+,C ,F-,F+,F-,F-,F-,F-,F ,F-,F-,C ,B ,C-,C-,C+,F ,D ,C ,F ,D ,F ,F ,F ,F ,D ,F ,F 
+Kile,Lovechild,PG,Bucks,RBSL,18,76,160,F+,D+,A ,D-,D+,D-,F-,D-,F-,D-,F+,F ,C ,A ,A ,C-,B-,C ,B ,A ,C ,A ,C ,F ,D ,F ,C ,D ,D 
+Americo,Barjuan,PG,Spurs,RBSL,25,73,206,C ,C ,C ,C ,C ,C-,D-,C ,C-,B+,A-,C ,D ,A ,C ,C ,A ,C ,C ,C ,C ,C ,C ,F ,C ,D ,B ,B ,C 
+Louis,Case,C,FA,,27,82,269,F+,F ,C ,F-,D+,F ,D-,C ,D+,F-,F ,C-,C-,F+,C ,A ,B-,F ,F ,C ,F ,D ,F ,D ,C ,D ,F ,F ,D 
+Demetrius,Jones,PG,FA,,22,74,213,F-,D-,C ,F+,F+,F+,F-,F-,F-,F ,F+,F-,C-,B ,C+,B ,C ,F ,F ,C ,F ,F ,F ,F ,F ,F ,F ,F ,F 
